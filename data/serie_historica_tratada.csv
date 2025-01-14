@@ -1,0 +1,3367 @@
+State_Short,State_Code,State_Name,Value,Year,Metric
+RO,11.0,Rondônia,734.0,1990,Cases
+AC,12.0,Acre,356.0,1990,Cases
+AM,13.0,Amazonas,1926.0,1990,Cases
+RR,14.0,Roraima,144.0,1990,Cases
+PA,15.0,Pará,3202.0,1990,Cases
+AP,16.0,Amapá,199.0,1990,Cases
+TO,17.0,Tocantins,424.0,1990,Cases
+Região Norte,,,6985.0,1990,Cases
+MA,21.0,Maranhão,3948.0,1990,Cases
+PI,22.0,Piauí,1633.0,1990,Cases
+CE,23.0,Ceará,4636.0,1990,Cases
+RN,24.0,Rio Grande do Norte,1352.0,1990,Cases
+PB,25.0,Paraíba,1411.0,1990,Cases
+PE,26.0,Pernambuco,3728.0,1990,Cases
+AL,27.0,Alagoas,1258.0,1990,Cases
+SE,28.0,Sergipe,664.0,1990,Cases
+BA,29.0,Bahia,7056.0,1990,Cases
+Região Nordeste,,,25686.0,1990,Cases
+MG,31.0,Minas Gerais,6825.0,1990,Cases
+ES,32.0,Espírito Santo,1504.0,1990,Cases
+RJ,33.0,Rio de Janeiro,5558.0,1990,Cases
+SP,35.0,São Paulo,16150.0,1990,Cases
+Região Sudeste,,,30037.0,1990,Cases
+PR,41.0,Paraná,2373.0,1990,Cases
+SC,42.0,Santa Catarina,1229.0,1990,Cases
+RS,43.0,Rio Grande do Sul,4435.0,1990,Cases
+Região Sul,,,8037.0,1990,Cases
+MS,50.0,Mato Grosso do Sul,968.0,1990,Cases
+MT,51.0,Mato Grosso,1021.0,1990,Cases
+GO,52.0,Goiás,1163.0,1990,Cases
+DF,53.0,Distrito Federal,675.0,1990,Cases
+Região Centro-Oeste,,,3827.0,1990,Cases
+BR,76.0,Brasil***,74572.0,1990,Cases
+RO,11.0,Rondônia,1069626.0,1990,Population
+AC,12.0,Acre,406275.0,1990,Population
+AM,13.0,Amazonas,2037078.0,1990,Population
+RR,14.0,Roraima,203977.0,1990,Population
+PA,15.0,Pará,4798037.0,1990,Population
+AP,16.0,Amapá,278178.0,1990,Population
+TO,17.0,Tocantins,902074.0,1990,Population
+Região Norte,,,9695245.0,1990,Population
+MA,21.0,Maranhão,4838464.0,1990,Population
+PI,22.0,Piauí,2538583.0,1990,Population
+CE,23.0,Ceará,6260651.0,1990,Population
+RN,24.0,Rio Grande do Norte,2364712.0,1990,Population
+PB,25.0,Paraíba,3158757.0,1990,Population
+PE,26.0,Pernambuco,7031080.0,1990,Population
+AL,27.0,Alagoas,2461858.0,1990,Population
+SE,28.0,Sergipe,1457302.0,1990,Population
+BA,29.0,Bahia,11630752.0,1990,Population
+Região Nordeste,,,41742159.0,1990,Population
+MG,31.0,Minas Gerais,15510734.0,1990,Population
+ES,32.0,Espírito Santo,2543877.0,1990,Population
+RJ,33.0,Rio de Janeiro,12658679.0,1990,Population
+SP,35.0,São Paulo,30945297.0,1990,Population
+Região Sudeste,,,61658587.0,1990,Population
+PR,41.0,Paraná,8368181.0,1990,Population
+SC,42.0,Santa Catarina,4452150.0,1990,Population
+RS,43.0,Rio Grande do Sul,9004520.0,1990,Population
+Região Sul,,,21824851.0,1990,Population
+MS,50.0,Mato Grosso do Sul,1739995.0,1990,Population
+MT,51.0,Mato Grosso,1939896.0,1990,Population
+GO,52.0,Goiás,3930620.0,1990,Population
+DF,53.0,Distrito Federal,1559403.0,1990,Population
+Região Centro-Oeste,,,9169914.0,1990,Population
+BR,76.0,Brasil***,144090756.0,1990,Population
+RO,11.0,Rondônia,68.62211651549234,1990,Incidence
+AC,12.0,Acre,87.6253768998831,1990,Incidence
+AM,13.0,Amazonas,94.54718965105901,1990,Incidence
+RR,14.0,Roraima,70.59619466900679,1990,Incidence
+PA,15.0,Pará,66.73562542348049,1990,Incidence
+AP,16.0,Amapá,71.53692959184407,1990,Incidence
+TO,17.0,Tocantins,47.00279577950368,1990,Incidence
+Região Norte,,,72.04562649009901,1990,Incidence
+MA,21.0,Maranhão,81.59614290816259,1990,Incidence
+PI,22.0,Piauí,64.32722507004893,1990,Incidence
+CE,23.0,Ceará,74.049807280425,1990,Incidence
+RN,24.0,Rio Grande do Norte,57.17398144044603,1990,Incidence
+PB,25.0,Paraíba,44.66946966797383,1990,Incidence
+PE,26.0,Pernambuco,53.021726391962545,1990,Incidence
+AL,27.0,Alagoas,51.09961663101608,1990,Incidence
+SE,28.0,Sergipe,45.56365118554699,1990,Incidence
+BA,29.0,Bahia,60.66675654334303,1990,Incidence
+Região Nordeste,,,61.53491006538498,1990,Incidence
+MG,31.0,Minas Gerais,44.00178611792324,1990,Incidence
+ES,32.0,Espírito Santo,59.12235536545202,1990,Incidence
+RJ,33.0,Rio de Janeiro,43.90663512361756,1990,Incidence
+SP,35.0,São Paulo,52.18886734226529,1990,Incidence
+Região Sudeste,,,48.715031371056234,1990,Incidence
+PR,41.0,Paraná,28.357417221257524,1990,Incidence
+SC,42.0,Santa Catarina,27.60464045461182,1990,Incidence
+RS,43.0,Rio Grande do Sul,49.25304180567093,1990,Incidence
+Região Sul,,,36.82499367349633,1990,Incidence
+MS,50.0,Mato Grosso do Sul,55.63234377110278,1990,Incidence
+MT,51.0,Mato Grosso,52.631687471905714,1990,Incidence
+GO,52.0,Goiás,29.588207458365346,1990,Incidence
+DF,53.0,Distrito Federal,43.285795910358004,1990,Incidence
+Região Centro-Oeste,,,41.73430634136809,1990,Incidence
+BR,76.0,Brasil***,51.75349347185048,1990,Incidence
+RO,11.0,Rondônia,729.0,1991,Cases
+AC,12.0,Acre,332.0,1991,Cases
+AM,13.0,Amazonas,1970.0,1991,Cases
+RR,14.0,Roraima,211.0,1991,Cases
+PA,15.0,Pará,3180.0,1991,Cases
+AP,16.0,Amapá,188.0,1991,Cases
+TO,17.0,Tocantins,333.0,1991,Cases
+Região Norte,,,6943.0,1991,Cases
+MA,21.0,Maranhão,3568.0,1991,Cases
+PI,22.0,Piauí,1629.0,1991,Cases
+CE,23.0,Ceará,4214.0,1991,Cases
+RN,24.0,Rio Grande do Norte,1210.0,1991,Cases
+PB,25.0,Paraíba,1266.0,1991,Cases
+PE,26.0,Pernambuco,3714.0,1991,Cases
+AL,27.0,Alagoas,1408.0,1991,Cases
+SE,28.0,Sergipe,621.0,1991,Cases
+BA,29.0,Bahia,7601.0,1991,Cases
+Região Nordeste,,,25231.0,1991,Cases
+MG,31.0,Minas Gerais,6255.0,1991,Cases
+ES,32.0,Espírito Santo,1419.0,1991,Cases
+RJ,33.0,Rio de Janeiro,15792.0,1991,Cases
+SP,35.0,São Paulo,17611.0,1991,Cases
+Região Sudeste,,,41077.0,1991,Cases
+PR,41.0,Paraná,2527.0,1991,Cases
+SC,42.0,Santa Catarina,1170.0,1991,Cases
+RS,43.0,Rio Grande do Sul,4191.0,1991,Cases
+Região Sul,,,7888.0,1991,Cases
+MS,50.0,Mato Grosso do Sul,1017.0,1991,Cases
+MT,51.0,Mato Grosso,928.0,1991,Cases
+GO,52.0,Goiás,1129.0,1991,Cases
+DF,53.0,Distrito Federal,779.0,1991,Cases
+Região Centro-Oeste,,,3853.0,1991,Cases
+BR,76.0,Brasil***,84997.0,1991,Cases
+RO,11.0,Rondônia,1373720.0,1991,Population
+AC,12.0,Acre,441491.0,1991,Population
+AM,13.0,Amazonas,2206070.0,1991,Population
+RR,14.0,Roraima,220852.0,1991,Population
+PA,15.0,Pará,5392409.0,1991,Population
+AP,16.0,Amapá,275014.0,1991,Population
+TO,17.0,Tocantins,1043097.0,1991,Population
+Região Norte,,,10952653.0,1991,Population
+MA,21.0,Maranhão,5407827.0,1991,Population
+PI,22.0,Piauí,2837486.0,1991,Population
+CE,23.0,Ceará,6725805.0,1991,Population
+RN,24.0,Rio Grande do Norte,2522652.0,1991,Population
+PB,25.0,Paraíba,3616203.0,1991,Population
+PE,26.0,Pernambuco,7889014.0,1991,Population
+AL,27.0,Alagoas,2824005.0,1991,Population
+SE,28.0,Sergipe,1593319.0,1991,Population
+BA,29.0,Bahia,12637576.0,1991,Population
+Região Nordeste,,,46053887.0,1991,Population
+MG,31.0,Minas Gerais,16956903.0,1991,Population
+ES,32.0,Espírito Santo,2692408.0,1991,Population
+RJ,33.0,Rio de Janeiro,13076454.0,1991,Population
+SP,35.0,São Paulo,32028569.0,1991,Population
+Região Sudeste,,,64754334.0,1991,Population
+PR,41.0,Paraná,9162671.0,1991,Population
+SC,42.0,Santa Catarina,4789894.0,1991,Population
+RS,43.0,Rio Grande do Sul,9348284.0,1991,Population
+Região Sul,,,23300849.0,1991,Population
+MS,50.0,Mato Grosso do Sul,1943069.0,1991,Population
+MT,51.0,Mato Grosso,2204342.0,1991,Population
+GO,52.0,Goiás,4515983.0,1991,Population
+DF,53.0,Distrito Federal,1841028.0,1991,Population
+Região Centro-Oeste,,,10504422.0,1991,Population
+BR,76.0,Brasil***,155566145.0,1991,Population
+RO,11.0,Rondônia,53.06758291354862,1991,Incidence
+AC,12.0,Acre,75.19972094561385,1991,Incidence
+AM,13.0,Amazonas,89.29907029242047,1991,Incidence
+RR,14.0,Roraima,95.53909405393658,1991,Incidence
+PA,15.0,Pará,58.97178793374167,1991,Incidence
+AP,16.0,Amapá,68.36015621022929,1991,Incidence
+TO,17.0,Tocantins,31.924164291528015,1991,Incidence
+Região Norte,,,63.39103411748733,1991,Incidence
+MA,21.0,Maranhão,65.97844198788164,1991,Incidence
+PI,22.0,Piauí,57.4099748862197,1991,Incidence
+CE,23.0,Ceará,62.654210165177254,1991,Incidence
+RN,24.0,Rio Grande do Norte,47.96539514764621,1991,Incidence
+PB,25.0,Paraíba,35.00909655790895,1991,Incidence
+PE,26.0,Pernambuco,47.07812662013276,1991,Incidence
+AL,27.0,Alagoas,49.858268664538485,1991,Incidence
+SE,28.0,Sergipe,38.975246011627306,1991,Incidence
+BA,29.0,Bahia,60.146028004104586,1991,Incidence
+Região Nordeste,,,54.785820792933286,1991,Incidence
+MG,31.0,Minas Gerais,36.88763213424055,1991,Incidence
+ES,32.0,Espírito Santo,52.70375069454555,1991,Incidence
+RJ,33.0,Rio de Janeiro,120.76668491320353,1991,Incidence
+SP,35.0,São Paulo,54.98528516837577,1991,Incidence
+Região Sudeste,,,63.43513624894976,1991,Incidence
+PR,41.0,Paraná,27.579294290933287,1991,Incidence
+SC,42.0,Santa Catarina,24.426427808214548,1991,Incidence
+RS,43.0,Rio Grande do Sul,44.83175735782097,1991,Incidence
+Região Sul,,,33.85284373114473,1991,Incidence
+MS,50.0,Mato Grosso do Sul,52.3398808791659,1991,Incidence
+MT,51.0,Mato Grosso,42.09873059625049,1991,Incidence
+GO,52.0,Goiás,25.000094110185977,1991,Incidence
+DF,53.0,Distrito Federal,42.31331625591789,1991,Incidence
+Região Centro-Oeste,,,36.67979066339871,1991,Incidence
+BR,76.0,Brasil***,54.63720914341613,1991,Incidence
+RO,11.0,Rondônia,1084.0,1992,Cases
+AC,12.0,Acre,379.0,1992,Cases
+AM,13.0,Amazonas,1977.0,1992,Cases
+RR,14.0,Roraima,214.0,1992,Cases
+PA,15.0,Pará,3304.0,1992,Cases
+AP,16.0,Amapá,160.0,1992,Cases
+TO,17.0,Tocantins,373.0,1992,Cases
+Região Norte,,,7491.0,1992,Cases
+MA,21.0,Maranhão,3409.0,1992,Cases
+PI,22.0,Piauí,1754.0,1992,Cases
+CE,23.0,Ceará,3837.0,1992,Cases
+RN,24.0,Rio Grande do Norte,1361.0,1992,Cases
+PB,25.0,Paraíba,1345.0,1992,Cases
+PE,26.0,Pernambuco,3860.0,1992,Cases
+AL,27.0,Alagoas,1383.0,1992,Cases
+SE,28.0,Sergipe,625.0,1992,Cases
+BA,29.0,Bahia,7041.0,1992,Cases
+Região Nordeste,,,24617.0,1992,Cases
+MG,31.0,Minas Gerais,6533.0,1992,Cases
+ES,32.0,Espírito Santo,1420.0,1992,Cases
+RJ,33.0,Rio de Janeiro,15558.0,1992,Cases
+SP,35.0,São Paulo,17690.0,1992,Cases
+Região Sudeste,,,41201.0,1992,Cases
+PR,41.0,Paraná,2812.0,1992,Cases
+SC,42.0,Santa Catarina,1258.0,1992,Cases
+RS,43.0,Rio Grande do Sul,4299.0,1992,Cases
+Região Sul,,,8368.0,1992,Cases
+MS,50.0,Mato Grosso do Sul,1018.0,1992,Cases
+MT,51.0,Mato Grosso,1521.0,1992,Cases
+GO,52.0,Goiás,996.0,1992,Cases
+DF,53.0,Distrito Federal,744.0,1992,Cases
+Região Centro-Oeste,,,4279.0,1992,Cases
+BR,76.0,Brasil***,85956.0,1992,Cases
+RO,11.0,Rondônia,1190739.0,1992,Population
+AC,12.0,Acre,428006.0,1992,Population
+AM,13.0,Amazonas,2165852.0,1992,Population
+RR,14.0,Roraima,228749.0,1992,Population
+PA,15.0,Pará,5328133.0,1992,Population
+AP,16.0,Amapá,299305.0,1992,Population
+TO,17.0,Tocantins,946604.0,1992,Population
+Região Norte,,,10587388.0,1992,Population
+MA,21.0,Maranhão,4990749.0,1992,Population
+PI,22.0,Piauí,2610476.0,1992,Population
+CE,23.0,Ceará,6433713.0,1992,Population
+RN,24.0,Rio Grande do Norte,2448267.0,1992,Population
+PB,25.0,Paraíba,3229163.0,1992,Population
+PE,26.0,Pernambuco,7187355.0,1992,Population
+AL,27.0,Alagoas,2548092.0,1992,Population
+SE,28.0,Sergipe,1515142.0,1992,Population
+BA,29.0,Bahia,12014023.0,1992,Population
+Região Nordeste,,,42976980.0,1992,Population
+MG,31.0,Minas Gerais,15941939.0,1992,Population
+ES,32.0,Espírito Santo,2649747.0,1992,Population
+RJ,33.0,Rio de Janeiro,12916705.0,1992,Population
+SP,35.0,São Paulo,32126058.0,1992,Population
+Região Sudeste,,,63634449.0,1992,Population
+PR,41.0,Paraná,8511279.0,1992,Population
+SC,42.0,Santa Catarina,4614268.0,1992,Population
+RS,43.0,Rio Grande do Sul,9249199.0,1992,Population
+Região Sul,,,22374746.0,1992,Population
+MS,50.0,Mato Grosso do Sul,1818175.0,1992,Population
+MT,51.0,Mato Grosso,2107698.0,1992,Population
+GO,52.0,Goiás,4098513.0,1992,Population
+DF,53.0,Distrito Federal,1639035.0,1992,Population
+Região Centro-Oeste,,,9663421.0,1992,Population
+BR,76.0,Brasil***,149236984.0,1992,Population
+RO,11.0,Rondônia,91.03590291407268,1992,Incidence
+AC,12.0,Acre,88.55016051176852,1992,Incidence
+AM,13.0,Amazonas,91.28047530486847,1992,Incidence
+RR,14.0,Roraima,93.55232154020347,1992,Incidence
+PA,15.0,Pará,62.010464078130184,1992,Incidence
+AP,16.0,Amapá,53.45717579058151,1992,Incidence
+TO,17.0,Tocantins,39.40401688562482,1992,Incidence
+Região Norte,,,70.75399522526236,1992,Incidence
+MA,21.0,Maranhão,68.3063804651366,1992,Incidence
+PI,22.0,Piauí,67.19081117773158,1992,Incidence
+CE,23.0,Ceará,59.638967420523734,1992,Incidence
+RN,24.0,Rio Grande do Norte,55.59034206644945,1992,Incidence
+PB,25.0,Paraíba,41.651660198014156,1992,Incidence
+PE,26.0,Pernambuco,53.70543127478746,1992,Incidence
+AL,27.0,Alagoas,54.27590526558696,1992,Incidence
+SE,28.0,Sergipe,41.25025905162685,1992,Incidence
+BA,29.0,Bahia,58.606513405209895,1992,Incidence
+Região Nordeste,,,57.27950172394617,1992,Incidence
+MG,31.0,Minas Gerais,40.97995858596624,1992,Incidence
+ES,32.0,Espírito Santo,53.590021990778745,1992,Incidence
+RJ,33.0,Rio de Janeiro,120.44867479748126,1992,Incidence
+SP,35.0,São Paulo,55.06433437927554,1992,Incidence
+Região Sudeste,,,64.74637660491096,1992,Incidence
+PR,41.0,Paraná,33.03851277816178,1992,Incidence
+SC,42.0,Santa Catarina,27.263262558655025,1992,Incidence
+RS,43.0,Rio Grande do Sul,46.479700566503105,1992,Incidence
+Região Sul,,,37.39930723682852,1992,Incidence
+MS,50.0,Mato Grosso do Sul,55.99020996328736,1992,Incidence
+MT,51.0,Mato Grosso,72.16403868106342,1992,Incidence
+GO,52.0,Goiás,24.301496664765978,1992,Incidence
+DF,53.0,Distrito Federal,45.392563307067874,1992,Incidence
+Região Centro-Oeste,,,44.28038476229071,1992,Incidence
+BR,76.0,Brasil***,57.59698279616801,1992,Incidence
+RO,11.0,Rondônia,818.0,1993,Cases
+AC,12.0,Acre,374.0,1993,Cases
+AM,13.0,Amazonas,2070.0,1993,Cases
+RR,14.0,Roraima,202.0,1993,Cases
+PA,15.0,Pará,3536.0,1993,Cases
+AP,16.0,Amapá,175.0,1993,Cases
+TO,17.0,Tocantins,330.0,1993,Cases
+Região Norte,,,7505.0,1993,Cases
+MA,21.0,Maranhão,3280.0,1993,Cases
+PI,22.0,Piauí,1872.0,1993,Cases
+CE,23.0,Ceará,4503.0,1993,Cases
+RN,24.0,Rio Grande do Norte,1405.0,1993,Cases
+PB,25.0,Paraíba,1649.0,1993,Cases
+PE,26.0,Pernambuco,4573.0,1993,Cases
+AL,27.0,Alagoas,1332.0,1993,Cases
+SE,28.0,Sergipe,655.0,1993,Cases
+BA,29.0,Bahia,9168.0,1993,Cases
+Região Nordeste,,,28437.0,1993,Cases
+MG,31.0,Minas Gerais,6965.0,1993,Cases
+ES,32.0,Espírito Santo,1490.0,1993,Cases
+RJ,33.0,Rio de Janeiro,0.0,1993,Cases
+SP,35.0,São Paulo,18581.0,1993,Cases
+Região Sudeste,,,27039.0,1993,Cases
+PR,41.0,Paraná,2504.0,1993,Cases
+SC,42.0,Santa Catarina,1339.0,1993,Cases
+RS,43.0,Rio Grande do Sul,4474.0,1993,Cases
+Região Sul,,,8317.0,1993,Cases
+MS,50.0,Mato Grosso do Sul,1112.0,1993,Cases
+MT,51.0,Mato Grosso,1210.0,1993,Cases
+GO,52.0,Goiás,1128.0,1993,Cases
+DF,53.0,Distrito Federal,707.0,1993,Cases
+Região Centro-Oeste,,,4157.0,1993,Cases
+BR,76.0,Brasil***,75460.0,1993,Cases
+RO,11.0,Rondônia,1241693.0,1993,Population
+AC,12.0,Acre,437495.0,1993,Population
+AM,13.0,Amazonas,2217600.0,1993,Population
+RR,14.0,Roraima,241099.0,1993,Population
+PA,15.0,Pará,5212812.0,1993,Population
+AP,16.0,Amapá,308787.0,1993,Population
+TO,17.0,Tocantins,970259.0,1993,Population
+Região Norte,,,10629745.0,1993,Population
+MA,21.0,Maranhão,5088898.0,1993,Population
+PI,22.0,Piauí,2657415.0,1993,Population
+CE,23.0,Ceará,6549847.0,1993,Population
+RN,24.0,Rio Grande do Norte,2503463.0,1993,Population
+PB,25.0,Paraíba,3274323.0,1993,Population
+PE,26.0,Pernambuco,7295118.0,1993,Population
+AL,27.0,Alagoas,2604394.0,1993,Population
+SE,28.0,Sergipe,1551633.0,1993,Population
+BA,29.0,Bahia,12278027.0,1993,Population
+Região Nordeste,,,43803118.0,1993,Population
+MG,31.0,Minas Gerais,16144856.0,1993,Population
+ES,32.0,Espírito Santo,2698687.0,1993,Population
+RJ,33.0,Rio de Janeiro,13065279.0,1993,Population
+SP,35.0,São Paulo,32701353.0,1993,Population
+Região Sudeste,,,64610175.0,1993,Population
+PR,41.0,Paraná,8587901.0,1993,Population
+SC,42.0,Santa Catarina,4697277.0,1993,Population
+RS,43.0,Rio Grande do Sul,9370531.0,1993,Population
+Região Sul,,,22655709.0,1993,Population
+MS,50.0,Mato Grosso do Sul,1850162.0,1993,Population
+MT,51.0,Mato Grosso,2178178.0,1993,Population
+GO,52.0,Goiás,4171489.0,1993,Population
+DF,53.0,Distrito Federal,1673151.0,1993,Population
+Região Centro-Oeste,,,9872980.0,1993,Population
+BR,76.0,Brasil***,151571727.0,1993,Population
+RO,11.0,Rondônia,65.87779749100623,1993,Incidence
+AC,12.0,Acre,85.48669127647173,1993,Incidence
+AM,13.0,Amazonas,93.34415584415584,1993,Incidence
+RR,14.0,Roraima,83.78301029867399,1993,Incidence
+PA,15.0,Pará,67.83287024354608,1993,Incidence
+AP,16.0,Amapá,56.67337031675556,1993,Incidence
+TO,17.0,Tocantins,34.01153712565408,1993,Incidence
+Região Norte,,,70.6037633075864,1993,Incidence
+MA,21.0,Maranhão,64.45403307356524,1993,Incidence
+PI,22.0,Piauí,70.44439803342722,1993,Incidence
+CE,23.0,Ceará,68.74969751201822,1993,Incidence
+RN,24.0,Rio Grande do Norte,56.122259446215104,1993,Incidence
+PB,25.0,Paraíba,50.36155565593254,1993,Incidence
+PE,26.0,Pernambuco,62.68575779034691,1993,Incidence
+AL,27.0,Alagoas,51.1443353041053,1993,Incidence
+SE,28.0,Sergipe,42.213590455990555,1993,Incidence
+BA,29.0,Bahia,74.66997751348812,1993,Incidence
+Região Nordeste,,,64.92003605770714,1993,Incidence
+MG,31.0,Minas Gerais,43.14067589082244,1993,Incidence
+ES,32.0,Espírito Santo,55.2120345931188,1993,Incidence
+RJ,33.0,Rio de Janeiro,0.0,1993,Incidence
+SP,35.0,São Paulo,56.820278965215905,1993,Incidence
+Região Sudeste,,,41.849445540118104,1993,Incidence
+PR,41.0,Paraná,29.157299321452356,1993,Incidence
+SC,42.0,Santa Catarina,28.505876915498064,1993,Incidence
+RS,43.0,Rio Grande do Sul,47.74542659322081,1993,Incidence
+Região Sul,,,36.710393834949066,1993,Incidence
+MS,50.0,Mato Grosso do Sul,60.10284504816335,1993,Incidence
+MT,51.0,Mato Grosso,55.55101557356653,1993,Incidence
+GO,52.0,Goiás,27.040704170621087,1993,Incidence
+DF,53.0,Distrito Federal,42.255600361234585,1993,Incidence
+Região Centro-Oeste,,,42.10481536476322,1993,Incidence
+BR,76.0,Brasil***,49.78501036674208,1993,Incidence
+RO,11.0,Rondônia,763.0,1994,Cases
+AC,12.0,Acre,285.0,1994,Cases
+AM,13.0,Amazonas,2064.0,1994,Cases
+RR,14.0,Roraima,183.0,1994,Cases
+PA,15.0,Pará,3313.0,1994,Cases
+AP,16.0,Amapá,202.0,1994,Cases
+TO,17.0,Tocantins,379.0,1994,Cases
+Região Norte,,,7189.0,1994,Cases
+MA,21.0,Maranhão,3338.0,1994,Cases
+PI,22.0,Piauí,1831.0,1994,Cases
+CE,23.0,Ceará,4523.0,1994,Cases
+RN,24.0,Rio Grande do Norte,1433.0,1994,Cases
+PB,25.0,Paraíba,1598.0,1994,Cases
+PE,26.0,Pernambuco,4523.0,1994,Cases
+AL,27.0,Alagoas,1269.0,1994,Cases
+SE,28.0,Sergipe,646.0,1994,Cases
+BA,29.0,Bahia,9603.0,1994,Cases
+Região Nordeste,,,28764.0,1994,Cases
+MG,31.0,Minas Gerais,6648.0,1994,Cases
+ES,32.0,Espírito Santo,1511.0,1994,Cases
+RJ,33.0,Rio de Janeiro,0.0,1994,Cases
+SP,35.0,São Paulo,18975.0,1994,Cases
+Região Sudeste,,,27134.0,1994,Cases
+PR,41.0,Paraná,2531.0,1994,Cases
+SC,42.0,Santa Catarina,1489.0,1994,Cases
+RS,43.0,Rio Grande do Sul,4698.0,1994,Cases
+Região Sul,,,8718.0,1994,Cases
+MS,50.0,Mato Grosso do Sul,982.0,1994,Cases
+MT,51.0,Mato Grosso,1160.0,1994,Cases
+GO,52.0,Goiás,1102.0,1994,Cases
+DF,53.0,Distrito Federal,709.0,1994,Cases
+Região Centro-Oeste,,,3953.0,1994,Cases
+BR,76.0,Brasil***,75758.0,1994,Cases
+RO,11.0,Rondônia,1291214.0,1994,Population
+AC,12.0,Acre,446480.0,1994,Population
+AM,13.0,Amazonas,2269555.0,1994,Population
+RR,14.0,Roraima,251783.0,1994,Population
+PA,15.0,Pará,5332187.0,1994,Population
+AP,16.0,Amapá,317597.0,1994,Population
+TO,17.0,Tocantins,990760.0,1994,Population
+Região Norte,,,10899576.0,1994,Population
+MA,21.0,Maranhão,5160974.0,1994,Population
+PI,22.0,Piauí,2691615.0,1994,Population
+CE,23.0,Ceará,6633080.0,1994,Population
+RN,24.0,Rio Grande do Norte,2543397.0,1994,Population
+PB,25.0,Paraíba,3307583.0,1994,Population
+PE,26.0,Pernambuco,7371110.0,1994,Population
+AL,27.0,Alagoas,2645417.0,1994,Population
+SE,28.0,Sergipe,1578782.0,1994,Population
+BA,29.0,Bahia,12464316.0,1994,Population
+Região Nordeste,,,44396274.0,1994,Population
+MG,31.0,Minas Gerais,16327360.0,1994,Population
+ES,32.0,Espírito Santo,2743243.0,1994,Population
+RJ,33.0,Rio de Janeiro,13182301.0,1994,Population
+SP,35.0,São Paulo,33206755.0,1994,Population
+Região Sudeste,,,65459659.0,1994,Population
+PR,41.0,Paraná,8651138.0,1994,Population
+SC,42.0,Santa Catarina,4767826.0,1994,Population
+RS,43.0,Rio Grande do Sul,9475871.0,1994,Population
+Região Sul,,,22894835.0,1994,Population
+MS,50.0,Mato Grosso do Sul,1881868.0,1994,Population
+MT,51.0,Mato Grosso,2246757.0,1994,Population
+GO,52.0,Goiás,4240812.0,1994,Population
+DF,53.0,Distrito Federal,1705889.0,1994,Population
+Região Centro-Oeste,,,10075326.0,1994,Population
+BR,76.0,Brasil***,153725670.0,1994,Population
+RO,11.0,Rondônia,59.091676515279424,1994,Incidence
+AC,12.0,Acre,63.83264647912561,1994,Incidence
+AM,13.0,Amazonas,90.94293815307407,1994,Incidence
+RR,14.0,Roraima,72.68163458216003,1994,Incidence
+PA,15.0,Pará,62.1321045192151,1994,Incidence
+AP,16.0,Amapá,63.602615893726956,1994,Incidence
+TO,17.0,Tocantins,38.253461988776294,1994,Incidence
+Região Norte,,,65.95669409525655,1994,Incidence
+MA,21.0,Maranhão,64.67771393539282,1994,Incidence
+PI,22.0,Piauí,68.02607356549878,1994,Incidence
+CE,23.0,Ceará,68.18853383345294,1994,Incidence
+RN,24.0,Rio Grande do Norte,56.341970993910905,1994,Incidence
+PB,25.0,Paraíba,48.31322449051165,1994,Incidence
+PE,26.0,Pernambuco,61.36117898118465,1994,Incidence
+AL,27.0,Alagoas,47.96975297278274,1994,Incidence
+SE,28.0,Sergipe,40.91761877193938,1994,Incidence
+BA,29.0,Bahia,77.04393887318005,1994,Incidence
+Região Nordeste,,,64.78922082515304,1994,Incidence
+MG,31.0,Minas Gerais,40.71693157987574,1994,Incidence
+ES,32.0,Espírito Santo,55.08079306135111,1994,Incidence
+RJ,33.0,Rio de Janeiro,0.0,1994,Incidence
+SP,35.0,São Paulo,57.14198812862022,1994,Incidence
+Região Sudeste,,,41.4514838826154,1994,Incidence
+PR,41.0,Paraná,29.25626663220492,1994,Incidence
+SC,42.0,Santa Catarina,31.230166537117753,1994,Incidence
+RS,43.0,Rio Grande do Sul,49.578555892118,1994,Incidence
+Região Sul,,,38.07845743373997,1994,Incidence
+MS,50.0,Mato Grosso do Sul,52.18219343758436,1994,Incidence
+MT,51.0,Mato Grosso,51.62997155455619,1994,Incidence
+GO,52.0,Goiás,25.985589552189534,1994,Incidence
+DF,53.0,Distrito Federal,41.56190701739679,1994,Incidence
+Região Centro-Oeste,,,39.234462487863915,1994,Incidence
+BR,76.0,Brasil***,49.28129439930234,1994,Incidence
+RO,11.0,Rondônia,775.0,1995,Cases
+AC,12.0,Acre,307.0,1995,Cases
+AM,13.0,Amazonas,2021.0,1995,Cases
+RR,14.0,Roraima,206.0,1995,Cases
+PA,15.0,Pará,2894.0,1995,Cases
+AP,16.0,Amapá,200.0,1995,Cases
+TO,17.0,Tocantins,385.0,1995,Cases
+Região Norte,,,6788.0,1995,Cases
+MA,21.0,Maranhão,3655.0,1995,Cases
+PI,22.0,Piauí,1893.0,1995,Cases
+CE,23.0,Ceará,4501.0,1995,Cases
+RN,24.0,Rio Grande do Norte,1258.0,1995,Cases
+PB,25.0,Paraíba,1420.0,1995,Cases
+PE,26.0,Pernambuco,5217.0,1995,Cases
+AL,27.0,Alagoas,1145.0,1995,Cases
+SE,28.0,Sergipe,678.0,1995,Cases
+BA,29.0,Bahia,8698.0,1995,Cases
+Região Nordeste,,,28465.0,1995,Cases
+MG,31.0,Minas Gerais,6657.0,1995,Cases
+ES,32.0,Espírito Santo,1460.0,1995,Cases
+RJ,33.0,Rio de Janeiro,16859.0,1995,Cases
+SP,35.0,São Paulo,18265.0,1995,Cases
+Região Sudeste,,,43241.0,1995,Cases
+PR,41.0,Paraná,2311.0,1995,Cases
+SC,42.0,Santa Catarina,1453.0,1995,Cases
+RS,43.0,Rio Grande do Sul,4846.0,1995,Cases
+Região Sul,,,8610.0,1995,Cases
+MS,50.0,Mato Grosso do Sul,1002.0,1995,Cases
+MT,51.0,Mato Grosso,1089.0,1995,Cases
+GO,52.0,Goiás,1081.0,1995,Cases
+DF,53.0,Distrito Federal,737.0,1995,Cases
+Região Centro-Oeste,,,3909.0,1995,Cases
+BR,76.0,Brasil***,91016.0,1995,Cases
+RO,11.0,Rondônia,1339507.0,1995,Population
+AC,12.0,Acre,455242.0,1995,Population
+AM,13.0,Amazonas,2320221.0,1995,Population
+RR,14.0,Roraima,262201.0,1995,Population
+PA,15.0,Pará,5448598.0,1995,Population
+AP,16.0,Amapá,326188.0,1995,Population
+TO,17.0,Tocantins,1007041.0,1995,Population
+Região Norte,,,11158998.0,1995,Population
+MA,21.0,Maranhão,5231261.0,1995,Population
+PI,22.0,Piauí,2724967.0,1995,Population
+CE,23.0,Ceará,6714246.0,1995,Population
+RN,24.0,Rio Grande do Norte,2582339.0,1995,Population
+PB,25.0,Paraíba,3340018.0,1995,Population
+PE,26.0,Pernambuco,7445216.0,1995,Population
+AL,27.0,Alagoas,2685421.0,1995,Population
+SE,28.0,Sergipe,1605257.0,1995,Population
+BA,29.0,Bahia,12645982.0,1995,Population
+Região Nordeste,,,44974707.0,1995,Population
+MG,31.0,Minas Gerais,16505334.0,1995,Population
+ES,32.0,Espírito Santo,2786692.0,1995,Population
+RJ,33.0,Rio de Janeiro,13296419.0,1995,Population
+SP,35.0,São Paulo,33699614.0,1995,Population
+Região Sudeste,,,66288059.0,1995,Population
+PR,41.0,Paraná,8712805.0,1995,Population
+SC,42.0,Santa Catarina,4836624.0,1995,Population
+RS,43.0,Rio Grande do Sul,9578597.0,1995,Population
+Região Sul,,,23128026.0,1995,Population
+MS,50.0,Mato Grosso do Sul,1912788.0,1995,Population
+MT,51.0,Mato Grosso,2313634.0,1995,Population
+GO,52.0,Goiás,4308415.0,1995,Population
+DF,53.0,Distrito Federal,1737813.0,1995,Population
+Região Centro-Oeste,,,10272650.0,1995,Population
+BR,76.0,Brasil***,155822440.0,1995,Population
+RO,11.0,Rondônia,57.857107129712645,1995,Incidence
+AC,12.0,Acre,67.43666006212081,1995,Incidence
+AM,13.0,Amazonas,87.10377158037963,1995,Incidence
+RR,14.0,Roraima,78.56568052753423,1995,Incidence
+PA,15.0,Pará,53.114581035341565,1995,Incidence
+AP,16.0,Amapá,61.314334065017725,1995,Incidence
+TO,17.0,Tocantins,38.23081681877898,1995,Incidence
+Região Norte,,,60.82983436326452,1995,Incidence
+MA,21.0,Maranhão,69.8684313399771,1995,Incidence
+PI,22.0,Piauí,69.46873118096475,1995,Incidence
+CE,23.0,Ceará,67.03656672692661,1995,Incidence
+RN,24.0,Rio Grande do Norte,48.7155249562509,1995,Incidence
+PB,25.0,Paraíba,42.51474093852189,1995,Incidence
+PE,26.0,Pernambuco,70.07184210639423,1995,Incidence
+AL,27.0,Alagoas,42.63763484384757,1995,Incidence
+SE,28.0,Sergipe,42.236227594709135,1995,Incidence
+BA,29.0,Bahia,68.7807400010533,1995,Incidence
+Região Nordeste,,,63.29112938968118,1995,Incidence
+MG,31.0,Minas Gerais,40.332416175280066,1995,Incidence
+ES,32.0,Espírito Santo,52.39186820789667,1995,Incidence
+RJ,33.0,Rio de Janeiro,126.79353741785664,1995,Incidence
+SP,35.0,São Paulo,54.199433857016885,1995,Incidence
+Região Sudeste,,,65.23195980138746,1995,Incidence
+PR,41.0,Paraná,26.524179067475977,1995,Incidence
+SC,42.0,Santa Catarina,30.041615804743145,1995,Incidence
+RS,43.0,Rio Grande do Sul,50.59196038835332,1995,Incidence
+Região Sul,,,37.22756105514582,1995,Incidence
+MS,50.0,Mato Grosso do Sul,52.384268408208335,1995,Incidence
+MT,51.0,Mato Grosso,47.068810364992906,1995,Incidence
+GO,52.0,Goiás,25.090433488881644,1995,Incidence
+DF,53.0,Distrito Federal,42.40962635220245,1995,Incidence
+Região Centro-Oeste,,,38.05249862498965,1995,Incidence
+BR,76.0,Brasil***,58.41007238752005,1995,Incidence
+RO,11.0,Rondônia,687.0,1996,Cases
+AC,12.0,Acre,367.0,1996,Cases
+AM,13.0,Amazonas,2020.0,1996,Cases
+RR,14.0,Roraima,186.0,1996,Cases
+PA,15.0,Pará,3023.0,1996,Cases
+AP,16.0,Amapá,204.0,1996,Cases
+TO,17.0,Tocantins,452.0,1996,Cases
+Região Norte,,,6939.0,1996,Cases
+MA,21.0,Maranhão,3220.0,1996,Cases
+PI,22.0,Piauí,1406.0,1996,Cases
+CE,23.0,Ceará,3961.0,1996,Cases
+RN,24.0,Rio Grande do Norte,1226.0,1996,Cases
+PB,25.0,Paraíba,1330.0,1996,Cases
+PE,26.0,Pernambuco,4310.0,1996,Cases
+AL,27.0,Alagoas,1162.0,1996,Cases
+SE,28.0,Sergipe,640.0,1996,Cases
+BA,29.0,Bahia,7896.0,1996,Cases
+Região Nordeste,,,25151.0,1996,Cases
+MG,31.0,Minas Gerais,6169.0,1996,Cases
+ES,32.0,Espírito Santo,1479.0,1996,Cases
+RJ,33.0,Rio de Janeiro,14972.0,1996,Cases
+SP,35.0,São Paulo,18534.0,1996,Cases
+Região Sudeste,,,41154.0,1996,Cases
+PR,41.0,Paraná,2451.0,1996,Cases
+SC,42.0,Santa Catarina,1450.0,1996,Cases
+RS,43.0,Rio Grande do Sul,4934.0,1996,Cases
+Região Sul,,,8835.0,1996,Cases
+MS,50.0,Mato Grosso do Sul,891.0,1996,Cases
+MT,51.0,Mato Grosso,1073.0,1996,Cases
+GO,52.0,Goiás,1026.0,1996,Cases
+DF,53.0,Distrito Federal,791.0,1996,Cases
+Região Centro-Oeste,,,3781.0,1996,Cases
+BR,76.0,Brasil***,85860.0,1996,Cases
+RO,11.0,Rondônia,1229306.0,1996,Population
+AC,12.0,Acre,483593.0,1996,Population
+AM,13.0,Amazonas,2389279.0,1996,Population
+RR,14.0,Roraima,247131.0,1996,Population
+PA,15.0,Pará,5510849.0,1996,Population
+AP,16.0,Amapá,379459.0,1996,Population
+TO,17.0,Tocantins,1048642.0,1996,Population
+Região Norte,,,11288259.0,1996,Population
+MA,21.0,Maranhão,5222183.0,1996,Population
+PI,22.0,Piauí,2673085.0,1996,Population
+CE,23.0,Ceará,6809290.0,1996,Population
+RN,24.0,Rio Grande do Norte,2558660.0,1996,Population
+PB,25.0,Paraíba,3305616.0,1996,Population
+PE,26.0,Pernambuco,7399071.0,1996,Population
+AL,27.0,Alagoas,2633251.0,1996,Population
+SE,28.0,Sergipe,1624020.0,1996,Population
+BA,29.0,Bahia,12541675.0,1996,Population
+Região Nordeste,,,44766851.0,1996,Population
+MG,31.0,Minas Gerais,16672613.0,1996,Population
+ES,32.0,Espírito Santo,2802707.0,1996,Population
+RJ,33.0,Rio de Janeiro,13406308.0,1996,Population
+SP,35.0,São Paulo,34119110.0,1996,Population
+Região Sudeste,,,67000738.0,1996,Population
+PR,41.0,Paraná,9003804.0,1996,Population
+SC,42.0,Santa Catarina,4875244.0,1996,Population
+RS,43.0,Rio Grande do Sul,9634688.0,1996,Population
+Região Sul,,,23513736.0,1996,Population
+MS,50.0,Mato Grosso do Sul,1927834.0,1996,Population
+MT,51.0,Mato Grosso,2235832.0,1996,Population
+GO,52.0,Goiás,4514967.0,1996,Population
+DF,53.0,Distrito Federal,1821946.0,1996,Population
+Região Centro-Oeste,,,10500579.0,1996,Population
+BR,76.0,Brasil***,157070163.0,1996,Population
+RO,11.0,Rondônia,55.88519050586265,1996,Incidence
+AC,12.0,Acre,75.89026309313824,1996,Incidence
+AM,13.0,Amazonas,84.5443332486495,1996,Incidence
+RR,14.0,Roraima,75.26372652560788,1996,Incidence
+PA,15.0,Pará,54.85543153151175,1996,Incidence
+AP,16.0,Amapá,53.76074885560759,1996,Incidence
+TO,17.0,Tocantins,43.10336606773331,1996,Incidence
+Região Norte,,,61.470949594618624,1996,Incidence
+MA,21.0,Maranhão,61.66003757432476,1996,Incidence
+PI,22.0,Piauí,52.59840222065517,1996,Incidence
+CE,23.0,Ceará,58.17052879228231,1996,Incidence
+RN,24.0,Rio Grande do Norte,47.915705877295146,1996,Incidence
+PB,25.0,Paraíba,40.23455840000774,1996,Incidence
+PE,26.0,Pernambuco,58.25055604953649,1996,Incidence
+AL,27.0,Alagoas,44.127961975519995,1996,Incidence
+SE,28.0,Sergipe,39.408381670176475,1996,Incidence
+BA,29.0,Bahia,62.95809770226066,1996,Incidence
+Região Nordeste,,,56.1821960628859,1996,Incidence
+MG,31.0,Minas Gerais,37.00079885498452,1996,Incidence
+ES,32.0,Espírito Santo,52.770410892041156,1996,Incidence
+RJ,33.0,Rio de Janeiro,111.67877091888387,1996,Incidence
+SP,35.0,São Paulo,54.32146383654204,1996,Incidence
+Região Sudeste,,,61.423204025006406,1996,Incidence
+PR,41.0,Paraná,27.221827574211968,1996,Incidence
+SC,42.0,Santa Catarina,29.742101113298123,1996,Incidence
+RS,43.0,Rio Grande do Sul,51.210791672755775,1996,Incidence
+Região Sul,,,37.57378240531407,1996,Incidence
+MS,50.0,Mato Grosso do Sul,46.21767226846295,1996,Incidence
+MT,51.0,Mato Grosso,47.991083408771324,1996,Incidence
+GO,52.0,Goiás,22.724418583790314,1996,Incidence
+DF,53.0,Distrito Federal,43.415117681863244,1996,Incidence
+Região Centro-Oeste,,,36.00753825098597,1996,Incidence
+BR,76.0,Brasil***,54.66346908928846,1996,Incidence
+RO,11.0,Rondônia,597.0,1997,Cases
+AC,12.0,Acre,330.0,1997,Cases
+AM,13.0,Amazonas,1966.0,1997,Cases
+RR,14.0,Roraima,212.0,1997,Cases
+PA,15.0,Pará,2952.0,1997,Cases
+AP,16.0,Amapá,205.0,1997,Cases
+TO,17.0,Tocantins,494.0,1997,Cases
+Região Norte,,,6756.0,1997,Cases
+MA,21.0,Maranhão,3317.0,1997,Cases
+PI,22.0,Piauí,1343.0,1997,Cases
+CE,23.0,Ceará,3689.0,1997,Cases
+RN,24.0,Rio Grande do Norte,898.0,1997,Cases
+PB,25.0,Paraíba,1260.0,1997,Cases
+PE,26.0,Pernambuco,3993.0,1997,Cases
+AL,27.0,Alagoas,1106.0,1997,Cases
+SE,28.0,Sergipe,604.0,1997,Cases
+BA,29.0,Bahia,7805.0,1997,Cases
+Região Nordeste,,,24014.0,1997,Cases
+MG,31.0,Minas Gerais,5548.0,1997,Cases
+ES,32.0,Espírito Santo,1419.0,1997,Cases
+RJ,33.0,Rio de Janeiro,15193.0,1997,Cases
+SP,35.0,São Paulo,17609.0,1997,Cases
+Região Sudeste,,,39771.0,1997,Cases
+PR,41.0,Paraná,2252.0,1997,Cases
+SC,42.0,Santa Catarina,1410.0,1997,Cases
+RS,43.0,Rio Grande do Sul,4954.0,1997,Cases
+Região Sul,,,8617.0,1997,Cases
+MS,50.0,Mato Grosso do Sul,1001.0,1997,Cases
+MT,51.0,Mato Grosso,1276.0,1997,Cases
+GO,52.0,Goiás,1130.0,1997,Cases
+DF,53.0,Distrito Federal,746.0,1997,Cases
+Região Centro-Oeste,,,4153.0,1997,Cases
+BR,76.0,Brasil***,83314.0,1997,Cases
+RO,11.0,Rondônia,1255522.0,1997,Population
+AC,12.0,Acre,500185.0,1997,Population
+AM,13.0,Amazonas,2460602.0,1997,Population
+RR,14.0,Roraima,254499.0,1997,Population
+PA,15.0,Pará,5650681.0,1997,Population
+AP,16.0,Amapá,401916.0,1997,Population
+TO,17.0,Tocantins,1080753.0,1997,Population
+Região Norte,,,11604158.0,1997,Population
+MA,21.0,Maranhão,5295452.0,1997,Population
+PI,22.0,Piauí,2695876.0,1997,Population
+CE,23.0,Ceará,6920292.0,1997,Population
+RN,24.0,Rio Grande do Norte,2594340.0,1997,Population
+PB,25.0,Paraíba,3331673.0,1997,Population
+PE,26.0,Pernambuco,7466773.0,1997,Population
+AL,27.0,Alagoas,2663071.0,1997,Population
+SE,28.0,Sergipe,1657164.0,1997,Population
+BA,29.0,Bahia,12709744.0,1997,Population
+Região Nordeste,,,45334385.0,1997,Population
+MG,31.0,Minas Gerais,16904977.0,1997,Population
+ES,32.0,Espírito Santo,2853098.0,1997,Population
+RJ,33.0,Rio de Janeiro,13555657.0,1997,Population
+SP,35.0,São Paulo,34752225.0,1997,Population
+Região Sudeste,,,68065957.0,1997,Population
+PR,41.0,Paraná,9142215.0,1997,Population
+SC,42.0,Santa Catarina,4958339.0,1997,Population
+RS,43.0,Rio Grande do Sul,9762110.0,1997,Population
+Região Sul,,,23862664.0,1997,Population
+MS,50.0,Mato Grosso do Sul,1964603.0,1997,Population
+MT,51.0,Mato Grosso,2287846.0,1997,Population
+GO,52.0,Goiás,4639785.0,1997,Population
+DF,53.0,Distrito Federal,1877015.0,1997,Population
+Região Centro-Oeste,,,10769249.0,1997,Population
+BR,76.0,Brasil***,159636413.0,1997,Population
+RO,11.0,Rondônia,47.549943370167945,1997,Incidence
+AC,12.0,Acre,65.97558903205814,1997,Incidence
+AM,13.0,Amazonas,79.89914663159666,1997,Incidence
+RR,14.0,Roraima,83.30091670301259,1997,Incidence
+PA,15.0,Pará,52.2414908928676,1997,Incidence
+AP,16.0,Amapá,51.005682779486264,1997,Incidence
+TO,17.0,Tocantins,45.7088714997784,1997,Incidence
+Região Norte,,,58.22051026881916,1997,Incidence
+MA,21.0,Maranhão,62.63865671901096,1997,Incidence
+PI,22.0,Piauí,49.816831337939874,1997,Incidence
+CE,23.0,Ceará,53.306999184427475,1997,Incidence
+RN,24.0,Rio Grande do Norte,34.61381314708173,1997,Incidence
+PB,25.0,Paraíba,37.818837562990126,1997,Incidence
+PE,26.0,Pernambuco,53.47691700283376,1997,Incidence
+AL,27.0,Alagoas,41.53099936126374,1997,Incidence
+SE,28.0,Sergipe,36.447810838275515,1997,Incidence
+BA,29.0,Bahia,61.409576778257694,1997,Incidence
+Região Nordeste,,,52.9708299781722,1997,Incidence
+MG,31.0,Minas Gerais,32.81873734581242,1997,Incidence
+ES,32.0,Espírito Santo,49.73541042053235,1997,Incidence
+RJ,33.0,Rio de Janeiro,112.07866944405573,1997,Incidence
+SP,35.0,São Paulo,50.67013694806592,1997,Incidence
+Região Sudeste,,,58.430090096287046,1997,Incidence
+PR,41.0,Paraná,24.63298008196044,1997,Incidence
+SC,42.0,Santa Catarina,28.436942290553347,1997,Incidence
+RS,43.0,Rio Grande do Sul,50.74722575344879,1997,Incidence
+Região Sul,,,36.11080472825666,1997,Incidence
+MS,50.0,Mato Grosso do Sul,50.951769899567495,1997,Incidence
+MT,51.0,Mato Grosso,55.772984720125386,1997,Incidence
+GO,52.0,Goiás,24.354576774570372,1997,Incidence
+DF,53.0,Distrito Federal,39.743955162851655,1997,Incidence
+Região Centro-Oeste,,,38.56350614606459,1997,Incidence
+BR,76.0,Brasil***,52.189847187308075,1997,Incidence
+RO,11.0,Rondônia,538.0,1998,Cases
+AC,12.0,Acre,176.0,1998,Cases
+AM,13.0,Amazonas,2012.0,1998,Cases
+RR,14.0,Roraima,206.0,1998,Cases
+PA,15.0,Pará,2895.0,1998,Cases
+AP,16.0,Amapá,215.0,1998,Cases
+TO,17.0,Tocantins,363.0,1998,Cases
+Região Norte,,,6406.0,1998,Cases
+MA,21.0,Maranhão,3059.0,1998,Cases
+PI,22.0,Piauí,1397.0,1998,Cases
+CE,23.0,Ceará,3636.0,1998,Cases
+RN,24.0,Rio Grande do Norte,1240.0,1998,Cases
+PB,25.0,Paraíba,1547.0,1998,Cases
+PE,26.0,Pernambuco,4051.0,1998,Cases
+AL,27.0,Alagoas,1024.0,1998,Cases
+SE,28.0,Sergipe,614.0,1998,Cases
+BA,29.0,Bahia,7855.0,1998,Cases
+Região Nordeste,,,24422.0,1998,Cases
+MG,31.0,Minas Gerais,5896.0,1998,Cases
+ES,32.0,Espírito Santo,1497.0,1998,Cases
+RJ,33.0,Rio de Janeiro,13219.0,1998,Cases
+SP,35.0,São Paulo,18379.0,1998,Cases
+Região Sudeste,,,38991.0,1998,Cases
+PR,41.0,Paraná,2574.0,1998,Cases
+SC,42.0,Santa Catarina,1544.0,1998,Cases
+RS,43.0,Rio Grande do Sul,5147.0,1998,Cases
+Região Sul,,,9266.0,1998,Cases
+MS,50.0,Mato Grosso do Sul,921.0,1998,Cases
+MT,51.0,Mato Grosso,1216.0,1998,Cases
+GO,52.0,Goiás,1052.0,1998,Cases
+DF,53.0,Distrito Federal,657.0,1998,Cases
+Região Centro-Oeste,,,3846.0,1998,Cases
+BR,76.0,Brasil***,82934.0,1998,Cases
+RO,11.0,Rondônia,1276173.0,1998,Population
+AC,12.0,Acre,514050.0,1998,Population
+AM,13.0,Amazonas,2520684.0,1998,Population
+RR,14.0,Roraima,260705.0,1998,Population
+PA,15.0,Pará,5768476.0,1998,Population
+AP,16.0,Amapá,420834.0,1998,Population
+TO,17.0,Tocantins,1107803.0,1998,Population
+Região Norte,,,11868725.0,1998,Population
+MA,21.0,Maranhão,5356853.0,1998,Population
+PI,22.0,Piauí,2714999.0,1998,Population
+CE,23.0,Ceará,7013376.0,1998,Population
+RN,24.0,Rio Grande do Norte,2624397.0,1998,Population
+PB,25.0,Paraíba,3353624.0,1998,Population
+PE,26.0,Pernambuco,7523755.0,1998,Population
+AL,27.0,Alagoas,2688117.0,1998,Population
+SE,28.0,Sergipe,1684953.0,1998,Population
+BA,29.0,Bahia,12851268.0,1998,Population
+Região Nordeste,,,45811342.0,1998,Population
+MG,31.0,Minas Gerais,17100314.0,1998,Population
+ES,32.0,Espírito Santo,2895547.0,1998,Population
+RJ,33.0,Rio de Janeiro,13681410.0,1998,Population
+SP,35.0,São Paulo,35284072.0,1998,Population
+Região Sudeste,,,68961343.0,1998,Population
+PR,41.0,Paraná,9258813.0,1998,Population
+SC,42.0,Santa Catarina,5028339.0,1998,Population
+RS,43.0,Rio Grande do Sul,9866928.0,1998,Population
+Região Sul,,,24154080.0,1998,Population
+MS,50.0,Mato Grosso do Sul,1995578.0,1998,Population
+MT,51.0,Mato Grosso,2331663.0,1998,Population
+GO,52.0,Goiás,4744174.0,1998,Population
+DF,53.0,Distrito Federal,1923406.0,1998,Population
+Região Centro-Oeste,,,10994821.0,1998,Population
+BR,76.0,Brasil***,161790311.0,1998,Population
+RO,11.0,Rondônia,42.157293721149095,1998,Incidence
+AC,12.0,Acre,34.23791459974711,1998,Incidence
+AM,13.0,Amazonas,79.81960452004297,1998,Incidence
+RR,14.0,Roraima,79.0165129168984,1998,Incidence
+PA,15.0,Pará,50.18656574110736,1998,Incidence
+AP,16.0,Amapá,51.089027977777455,1998,Incidence
+TO,17.0,Tocantins,32.767558852972954,1998,Incidence
+Região Norte,,,53.973784041672545,1998,Incidence
+MA,21.0,Maranhão,57.10442306331721,1998,Incidence
+PI,22.0,Piauí,51.454899246740055,1998,Incidence
+CE,23.0,Ceará,51.84379106438896,1998,Incidence
+RN,24.0,Rio Grande do Norte,47.24894899666476,1998,Incidence
+PB,25.0,Paraíba,46.12920231963989,1998,Incidence
+PE,26.0,Pernambuco,53.842795253168134,1998,Incidence
+AL,27.0,Alagoas,38.093580004144165,1998,Incidence
+SE,28.0,Sergipe,36.44018557194177,1998,Incidence
+BA,29.0,Bahia,61.122373294215016,1998,Incidence
+Região Nordeste,,,53.309942328255744,1998,Incidence
+MG,31.0,Minas Gerais,34.478899042438634,1998,Incidence
+ES,32.0,Espírito Santo,51.70007601327141,1998,Incidence
+RJ,33.0,Rio de Janeiro,96.6201583023972,1998,Incidence
+SP,35.0,São Paulo,52.08865915475968,1998,Incidence
+Região Sudeste,,,56.54037219083742,1998,Incidence
+PR,41.0,Paraná,27.80053987481981,1998,Incidence
+SC,42.0,Santa Catarina,30.705964733085818,1998,Incidence
+RS,43.0,Rio Grande do Sul,52.164158895250885,1998,Incidence
+Região Sul,,,38.36204897888887,1998,Incidence
+MS,50.0,Mato Grosso do Sul,46.15204216522732,1998,Incidence
+MT,51.0,Mato Grosso,52.15161882313182,1998,Incidence
+GO,52.0,Goiás,22.17456610992767,1998,Incidence
+DF,53.0,Distrito Federal,34.158154856540946,1998,Incidence
+Região Centro-Oeste,,,34.98010563337048,1998,Incidence
+BR,76.0,Brasil***,51.26017713137346,1998,Incidence
+RO,11.0,Rondônia,702.0,1999,Cases
+AC,12.0,Acre,3.0,1999,Cases
+AM,13.0,Amazonas,2043.0,1999,Cases
+RR,14.0,Roraima,213.0,1999,Cases
+PA,15.0,Pará,3035.0,1999,Cases
+AP,16.0,Amapá,12.0,1999,Cases
+TO,17.0,Tocantins,323.0,1999,Cases
+Região Norte,,,6331.0,1999,Cases
+MA,21.0,Maranhão,3430.0,1999,Cases
+PI,22.0,Piauí,1314.0,1999,Cases
+CE,23.0,Ceará,3968.0,1999,Cases
+RN,24.0,Rio Grande do Norte,1196.0,1999,Cases
+PB,25.0,Paraíba,2280.0,1999,Cases
+PE,26.0,Pernambuco,4090.0,1999,Cases
+AL,27.0,Alagoas,1191.0,1999,Cases
+SE,28.0,Sergipe,653.0,1999,Cases
+BA,29.0,Bahia,7593.0,1999,Cases
+Região Nordeste,,,25715.0,1999,Cases
+MG,31.0,Minas Gerais,6118.0,1999,Cases
+ES,32.0,Espírito Santo,1630.0,1999,Cases
+RJ,33.0,Rio de Janeiro,11172.0,1999,Cases
+SP,35.0,São Paulo,19731.0,1999,Cases
+Região Sudeste,,,38651.0,1999,Cases
+PR,41.0,Paraná,3062.0,1999,Cases
+SC,42.0,Santa Catarina,1709.0,1999,Cases
+RS,43.0,Rio Grande do Sul,4940.0,1999,Cases
+Região Sul,,,9711.0,1999,Cases
+MS,50.0,Mato Grosso do Sul,965.0,1999,Cases
+MT,51.0,Mato Grosso,1407.0,1999,Cases
+GO,52.0,Goiás,1141.0,1999,Cases
+DF,53.0,Distrito Federal,417.0,1999,Cases
+Região Centro-Oeste,,,3930.0,1999,Cases
+BR,76.0,Brasil***,84338.0,1999,Cases
+RO,11.0,Rondônia,1296856.0,1999,Population
+AC,12.0,Acre,527937.0,1999,Population
+AM,13.0,Amazonas,2580860.0,1999,Population
+RR,14.0,Roraima,266922.0,1999,Population
+PA,15.0,Pará,5886454.0,1999,Population
+AP,16.0,Amapá,439781.0,1999,Population
+TO,17.0,Tocantins,1134895.0,1999,Population
+Região Norte,,,12133705.0,1999,Population
+MA,21.0,Maranhão,5418349.0,1999,Population
+PI,22.0,Piauí,2734152.0,1999,Population
+CE,23.0,Ceará,7106605.0,1999,Population
+RN,24.0,Rio Grande do Norte,2654501.0,1999,Population
+PB,25.0,Paraíba,3375609.0,1999,Population
+PE,26.0,Pernambuco,7580826.0,1999,Population
+AL,27.0,Alagoas,2713203.0,1999,Population
+SE,28.0,Sergipe,1712786.0,1999,Population
+BA,29.0,Bahia,12993011.0,1999,Population
+Região Nordeste,,,46289042.0,1999,Population
+MG,31.0,Minas Gerais,17295955.0,1999,Population
+ES,32.0,Espírito Santo,2938062.0,1999,Population
+RJ,33.0,Rio de Janeiro,13807358.0,1999,Population
+SP,35.0,São Paulo,35816740.0,1999,Population
+Região Sudeste,,,69858115.0,1999,Population
+PR,41.0,Paraná,9375592.0,1999,Population
+SC,42.0,Santa Catarina,5098448.0,1999,Population
+RS,43.0,Rio Grande do Sul,9971910.0,1999,Population
+Região Sul,,,24445950.0,1999,Population
+MS,50.0,Mato Grosso do Sul,2026600.0,1999,Population
+MT,51.0,Mato Grosso,2375549.0,1999,Population
+GO,52.0,Goiás,4848725.0,1999,Population
+DF,53.0,Distrito Federal,1969868.0,1999,Population
+Região Centro-Oeste,,,11220742.0,1999,Population
+BR,76.0,Brasil***,163947554.0,1999,Population
+RO,11.0,Rondônia,54.130913532419946,1999,Incidence
+AC,12.0,Acre,0.5682496206933783,1999,Incidence
+AM,13.0,Amazonas,79.15965995830847,1999,Incidence
+RR,14.0,Roraima,79.79859284734866,1999,Incidence
+PA,15.0,Pará,51.55905405869136,1999,Incidence
+AP,16.0,Amapá,2.7286308412596267,1999,Incidence
+TO,17.0,Tocantins,28.460782715581615,1999,Incidence
+Região Norte,,,52.17697315041037,1999,Incidence
+MA,21.0,Maranhão,63.30341585601075,1999,Incidence
+PI,22.0,Piauí,48.05877654205033,1999,Incidence
+CE,23.0,Ceará,55.835381310766536,1999,Incidence
+RN,24.0,Rio Grande do Norte,45.05554904669465,1999,Incidence
+PB,25.0,Paraíba,67.5433677300896,1999,Incidence
+PE,26.0,Pernambuco,53.95190444946237,1999,Incidence
+AL,27.0,Alagoas,43.89645743425759,1999,Incidence
+SE,28.0,Sergipe,38.125019704738364,1999,Incidence
+BA,29.0,Bahia,58.43911007233042,1999,Incidence
+Região Nordeste,,,55.553104771535345,1999,Incidence
+MG,31.0,Minas Gerais,35.372432456028015,1999,Incidence
+ES,32.0,Espírito Santo,55.47874755536132,1999,Incidence
+RJ,33.0,Rio de Janeiro,80.91337966322014,1999,Incidence
+SP,35.0,São Paulo,55.08876575590074,1999,Incidence
+Região Sudeste,,,55.32785990575326,1999,Incidence
+PR,41.0,Paraná,32.659271009233336,1999,Incidence
+SC,42.0,Santa Catarina,33.520004519022265,1999,Incidence
+RS,43.0,Rio Grande do Sul,49.53915548776513,1999,Incidence
+Região Sul,,,39.724371521663095,1999,Incidence
+MS,50.0,Mato Grosso do Sul,47.61669791769466,1999,Incidence
+MT,51.0,Mato Grosso,59.22841414763493,1999,Incidence
+GO,52.0,Goiás,23.531959432634352,1999,Incidence
+DF,53.0,Distrito Federal,21.168931116196617,1999,Incidence
+Região Centro-Oeste,,,35.02442173610266,1999,Incidence
+BR,76.0,Brasil***,51.44206055065634,1999,Incidence
+RO,11.0,Rondônia,549.0,2000,Cases
+AC,12.0,Acre,323.0,2000,Cases
+AM,13.0,Amazonas,2075.0,2000,Cases
+RR,14.0,Roraima,187.0,2000,Cases
+PA,15.0,Pará,2972.0,2000,Cases
+AP,16.0,Amapá,226.0,2000,Cases
+TO,17.0,Tocantins,247.0,2000,Cases
+Região Norte,,,6579.0,2000,Cases
+MA,21.0,Maranhão,2939.0,2000,Cases
+PI,22.0,Piauí,1241.0,2000,Cases
+CE,23.0,Ceará,3421.0,2000,Cases
+RN,24.0,Rio Grande do Norte,1796.0,2000,Cases
+PB,25.0,Paraíba,1336.0,2000,Cases
+PE,26.0,Pernambuco,3808.0,2000,Cases
+AL,27.0,Alagoas,1153.0,2000,Cases
+SE,28.0,Sergipe,550.0,2000,Cases
+BA,29.0,Bahia,6480.0,2000,Cases
+Região Nordeste,,,22724.0,2000,Cases
+MG,31.0,Minas Gerais,6223.0,2000,Cases
+ES,32.0,Espírito Santo,1333.0,2000,Cases
+RJ,33.0,Rio de Janeiro,14142.0,2000,Cases
+SP,35.0,São Paulo,18213.0,2000,Cases
+Região Sudeste,,,39911.0,2000,Cases
+PR,41.0,Paraná,2299.0,2000,Cases
+SC,42.0,Santa Catarina,1352.0,2000,Cases
+RS,43.0,Rio Grande do Sul,4753.0,2000,Cases
+Região Sul,,,8404.0,2000,Cases
+MS,50.0,Mato Grosso do Sul,885.0,2000,Cases
+MT,51.0,Mato Grosso,1203.0,2000,Cases
+GO,52.0,Goiás,1097.0,2000,Cases
+DF,53.0,Distrito Federal,380.0,2000,Cases
+Região Centro-Oeste,,,3565.0,2000,Cases
+BR,76.0,Brasil***,81183.0,2000,Cases
+RO,11.0,Rondônia,1379787.0,2000,Population
+AC,12.0,Acre,557526.0,2000,Population
+AM,13.0,Amazonas,2812557.0,2000,Population
+RR,14.0,Roraima,324397.0,2000,Population
+PA,15.0,Pará,6192307.0,2000,Population
+AP,16.0,Amapá,477032.0,2000,Population
+TO,17.0,Tocantins,1157098.0,2000,Population
+Região Norte,,,12900704.0,2000,Population
+MA,21.0,Maranhão,5651475.0,2000,Population
+PI,22.0,Piauí,2843278.0,2000,Population
+CE,23.0,Ceará,7430661.0,2000,Population
+RN,24.0,Rio Grande do Norte,2776782.0,2000,Population
+PB,25.0,Paraíba,3443825.0,2000,Population
+PE,26.0,Pernambuco,7918344.0,2000,Population
+AL,27.0,Alagoas,2822621.0,2000,Population
+SE,28.0,Sergipe,1784475.0,2000,Population
+BA,29.0,Bahia,13070250.0,2000,Population
+Região Nordeste,,,47741711.0,2000,Population
+MG,31.0,Minas Gerais,17891494.0,2000,Population
+ES,32.0,Espírito Santo,3097232.0,2000,Population
+RJ,33.0,Rio de Janeiro,14391282.0,2000,Population
+SP,35.0,São Paulo,37032403.0,2000,Population
+Região Sudeste,,,72412411.0,2000,Population
+PR,41.0,Paraná,9563458.0,2000,Population
+SC,42.0,Santa Catarina,5356360.0,2000,Population
+RS,43.0,Rio Grande do Sul,10187798.0,2000,Population
+Região Sul,,,25107616.0,2000,Population
+MS,50.0,Mato Grosso do Sul,2078001.0,2000,Population
+MT,51.0,Mato Grosso,2504353.0,2000,Population
+GO,52.0,Goiás,5003228.0,2000,Population
+DF,53.0,Distrito Federal,2051146.0,2000,Population
+Região Centro-Oeste,,,11636728.0,2000,Population
+BR,76.0,Brasil***,169799170.0,2000,Population
+RO,11.0,Rondônia,39.78875000271781,2000,Incidence
+AC,12.0,Acre,57.93451785208224,2000,Incidence
+AM,13.0,Amazonas,73.77628257845086,2000,Incidence
+RR,14.0,Roraima,57.645415956374435,2000,Incidence
+PA,15.0,Pará,47.99503642180532,2000,Incidence
+AP,16.0,Amapá,47.37627664391487,2000,Incidence
+TO,17.0,Tocantins,21.34650651889468,2000,Incidence
+Região Norte,,,50.99721689607017,2000,Incidence
+MA,21.0,Maranhão,52.00412281749455,2000,Incidence
+PI,22.0,Piauí,43.646804849895084,2000,Incidence
+CE,23.0,Ceará,46.03897284508067,2000,Incidence
+RN,24.0,Rio Grande do Norte,64.67918619466707,2000,Incidence
+PB,25.0,Paraíba,38.79407345030598,2000,Incidence
+PE,26.0,Pernambuco,48.09086344316438,2000,Incidence
+AL,27.0,Alagoas,40.848558839461624,2000,Incidence
+SE,28.0,Sergipe,30.821390044691018,2000,Incidence
+BA,29.0,Bahia,49.57824066104321,2000,Incidence
+Região Nordeste,,,47.59779137366903,2000,Incidence
+MG,31.0,Minas Gerais,34.7818913278008,2000,Incidence
+ES,32.0,Espírito Santo,43.038429152223664,2000,Incidence
+RJ,33.0,Rio de Janeiro,98.26782631318044,2000,Incidence
+SP,35.0,São Paulo,49.18125350925782,2000,Incidence
+Região Sudeste,,,55.11624243529192,2000,Incidence
+PR,41.0,Paraná,24.0394217238158,2000,Incidence
+SC,42.0,Santa Catarina,25.241021887998563,2000,Incidence
+RS,43.0,Rio Grande do Sul,46.653850027258095,2000,Incidence
+Região Sul,,,33.471915453860696,2000,Incidence
+MS,50.0,Mato Grosso do Sul,42.58900741626207,2000,Incidence
+MT,51.0,Mato Grosso,48.03635909154979,2000,Incidence
+GO,52.0,Goiás,21.92584467467803,2000,Incidence
+DF,53.0,Distrito Federal,18.526228752121984,2000,Incidence
+Região Centro-Oeste,,,30.635759467781664,2000,Incidence
+BR,76.0,Brasil***,47.811187769645755,2000,Incidence
+RO,11.0,Rondônia,560.0,2001,Cases
+AC,12.0,Acre,325.0,2001,Cases
+AM,13.0,Amazonas,2273.0,2001,Cases
+RR,14.0,Roraima,131.0,2001,Cases
+PA,15.0,Pará,3024.0,2001,Cases
+AP,16.0,Amapá,194.0,2001,Cases
+TO,17.0,Tocantins,268.0,2001,Cases
+Região Norte,,,6775.0,2001,Cases
+MA,21.0,Maranhão,2637.0,2001,Cases
+PI,22.0,Piauí,1168.0,2001,Cases
+CE,23.0,Ceará,3545.0,2001,Cases
+RN,24.0,Rio Grande do Norte,1041.0,2001,Cases
+PB,25.0,Paraíba,1137.0,2001,Cases
+PE,26.0,Pernambuco,3810.0,2001,Cases
+AL,27.0,Alagoas,1141.0,2001,Cases
+SE,28.0,Sergipe,434.0,2001,Cases
+BA,29.0,Bahia,7315.0,2001,Cases
+Região Nordeste,,,22228.0,2001,Cases
+MG,31.0,Minas Gerais,1187.0,2001,Cases
+ES,32.0,Espírito Santo,1335.0,2001,Cases
+RJ,33.0,Rio de Janeiro,13670.0,2001,Cases
+SP,35.0,São Paulo,16450.0,2001,Cases
+Região Sudeste,,,32642.0,2001,Cases
+PR,41.0,Paraná,2635.0,2001,Cases
+SC,42.0,Santa Catarina,1352.0,2001,Cases
+RS,43.0,Rio Grande do Sul,4216.0,2001,Cases
+Região Sul,,,8203.0,2001,Cases
+MS,50.0,Mato Grosso do Sul,838.0,2001,Cases
+MT,51.0,Mato Grosso,1217.0,2001,Cases
+GO,52.0,Goiás,1012.0,2001,Cases
+DF,53.0,Distrito Federal,345.0,2001,Cases
+Região Centro-Oeste,,,3412.0,2001,Cases
+BR,76.0,Brasil***,73800.0,2001,Cases
+RO,11.0,Rondônia,1432779.0,2001,Population
+AC,12.0,Acre,600611.0,2001,Population
+AM,13.0,Amazonas,2939965.0,2001,Population
+RR,14.0,Roraima,345858.0,2001,Population
+PA,15.0,Pará,6517813.0,2001,Population
+AP,16.0,Amapá,515684.0,2001,Population
+TO,17.0,Tocantins,1213339.0,2001,Population
+Região Norte,,,13566049.0,2001,Population
+MA,21.0,Maranhão,5929149.0,2001,Population
+PI,22.0,Piauí,2960502.0,2001,Population
+CE,23.0,Ceará,7743048.0,2001,Population
+RN,24.0,Rio Grande do Norte,2896569.0,2001,Population
+PB,25.0,Paraíba,3567007.0,2001,Population
+PE,26.0,Pernambuco,8218631.0,2001,Population
+AL,27.0,Alagoas,2926756.0,2001,Population
+SE,28.0,Sergipe,1862816.0,2001,Population
+BA,29.0,Bahia,13511607.0,2001,Population
+Região Nordeste,,,49616085.0,2001,Population
+MG,31.0,Minas Gerais,18560709.0,2001,Population
+ES,32.0,Espírito Santo,3221149.0,2001,Population
+RJ,33.0,Rio de Janeiro,14908622.0,2001,Population
+SP,35.0,São Paulo,38230286.0,2001,Population
+Região Sudeste,,,74920766.0,2001,Population
+PR,41.0,Paraná,9884374.0,2001,Population
+SC,42.0,Santa Catarina,5577642.0,2001,Population
+RS,43.0,Rio Grande do Sul,10457469.0,2001,Population
+Região Sul,,,25919485.0,2001,Population
+MS,50.0,Mato Grosso do Sul,2170330.0,2001,Population
+MT,51.0,Mato Grosso,2624341.0,2001,Population
+GO,52.0,Goiás,5245502.0,2001,Population
+DF,53.0,Distrito Federal,2146088.0,2001,Population
+Região Centro-Oeste,,,12186261.0,2001,Population
+BR,76.0,Brasil***,176208646.0,2001,Population
+RO,11.0,Rondônia,39.08488329323643,2001,Incidence
+AC,12.0,Acre,54.11156305828565,2001,Incidence
+AM,13.0,Amazonas,77.31384557299151,2001,Incidence
+RR,14.0,Roraima,37.87681649694383,2001,Incidence
+PA,15.0,Pará,46.39593065956326,2001,Incidence
+AP,16.0,Amapá,37.619937791360606,2001,Incidence
+TO,17.0,Tocantins,22.087808930562687,2001,Incidence
+Região Norte,,,49.94084865829395,2001,Incidence
+MA,21.0,Maranhão,44.47518522472618,2001,Incidence
+PI,22.0,Piauí,39.45276848318292,2001,Incidence
+CE,23.0,Ceará,45.78300431561318,2001,Incidence
+RN,24.0,Rio Grande do Norte,35.9390713633958,2001,Incidence
+PB,25.0,Paraíba,31.875463098334258,2001,Incidence
+PE,26.0,Pernambuco,46.35808567144577,2001,Incidence
+AL,27.0,Alagoas,38.98514259473629,2001,Incidence
+SE,28.0,Sergipe,23.29806057066291,2001,Incidence
+BA,29.0,Bahia,54.13863798732453,2001,Incidence
+Região Nordeste,,,44.79998774590942,2001,Incidence
+MG,31.0,Minas Gerais,6.395229837394682,2001,Incidence
+ES,32.0,Espírito Santo,41.4448384722346,2001,Incidence
+RJ,33.0,Rio de Janeiro,91.69190821257659,2001,Incidence
+SP,35.0,São Paulo,43.02871289008928,2001,Incidence
+Região Sudeste,,,43.56869495968581,2001,Incidence
+PR,41.0,Paraná,26.658238549047212,2001,Incidence
+SC,42.0,Santa Catarina,24.239633881127546,2001,Incidence
+RS,43.0,Rio Grande do Sul,40.31568250405524,2001,Incidence
+Região Sul,,,31.64800535195819,2001,Incidence
+MS,50.0,Mato Grosso do Sul,38.61163970456106,2001,Incidence
+MT,51.0,Mato Grosso,46.373546730398225,2001,Incidence
+GO,52.0,Goiás,19.292719743505963,2001,Incidence
+DF,53.0,Distrito Federal,16.075762037717,2001,Incidence
+Região Centro-Oeste,,,27.998743831270314,2001,Incidence
+BR,76.0,Brasil***,41.88216734836042,2001,Incidence
+RO,11.0,Rondônia,535.0,2002,Cases
+AC,12.0,Acre,305.0,2002,Cases
+AM,13.0,Amazonas,2105.0,2002,Cases
+RR,14.0,Roraima,145.0,2002,Cases
+PA,15.0,Pará,3278.0,2002,Cases
+AP,16.0,Amapá,252.0,2002,Cases
+TO,17.0,Tocantins,269.0,2002,Cases
+Região Norte,,,6889.0,2002,Cases
+MA,21.0,Maranhão,2725.0,2002,Cases
+PI,22.0,Piauí,1103.0,2002,Cases
+CE,23.0,Ceará,3593.0,2002,Cases
+RN,24.0,Rio Grande do Norte,1080.0,2002,Cases
+PB,25.0,Paraíba,1150.0,2002,Cases
+PE,26.0,Pernambuco,4043.0,2002,Cases
+AL,27.0,Alagoas,1146.0,2002,Cases
+SE,28.0,Sergipe,457.0,2002,Cases
+BA,29.0,Bahia,6264.0,2002,Cases
+Região Nordeste,,,21561.0,2002,Cases
+MG,31.0,Minas Gerais,5029.0,2002,Cases
+ES,32.0,Espírito Santo,1333.0,2002,Cases
+RJ,33.0,Rio de Janeiro,13584.0,2002,Cases
+SP,35.0,São Paulo,16333.0,2002,Cases
+Região Sudeste,,,36279.0,2002,Cases
+PR,41.0,Paraná,2800.0,2002,Cases
+SC,42.0,Santa Catarina,1526.0,2002,Cases
+RS,43.0,Rio Grande do Sul,4587.0,2002,Cases
+Região Sul,,,8913.0,2002,Cases
+MS,50.0,Mato Grosso do Sul,767.0,2002,Cases
+MT,51.0,Mato Grosso,1055.0,2002,Cases
+GO,52.0,Goiás,1014.0,2002,Cases
+DF,53.0,Distrito Federal,345.0,2002,Cases
+Região Centro-Oeste,,,3181.0,2002,Cases
+BR,76.0,Brasil***,76823.0,2002,Cases
+RO,11.0,Rondônia,1454686.0,2002,Population
+AC,12.0,Acre,619261.0,2002,Population
+AM,13.0,Amazonas,3008836.0,2002,Population
+RR,14.0,Roraima,358071.0,2002,Population
+PA,15.0,Pará,6661752.0,2002,Population
+AP,16.0,Amapá,535914.0,2002,Population
+TO,17.0,Tocantins,1236238.0,2002,Population
+Região Norte,,,13874758.0,2002,Population
+MA,21.0,Maranhão,6015286.0,2002,Population
+PI,22.0,Piauí,2994611.0,2002,Population
+CE,23.0,Ceará,7854562.0,2002,Population
+RN,24.0,Rio Grande do Norte,2937858.0,2002,Population
+PB,25.0,Paraíba,3603237.0,2002,Population
+PE,26.0,Pernambuco,8313498.0,2002,Population
+AL,27.0,Alagoas,2963870.0,2002,Population
+SE,28.0,Sergipe,1891853.0,2002,Population
+BA,29.0,Bahia,13625227.0,2002,Population
+Região Nordeste,,,50200002.0,2002,Population
+MG,31.0,Minas Gerais,18750916.0,2002,Population
+ES,32.0,Espírito Santo,3265905.0,2002,Population
+RJ,33.0,Rio de Janeiro,15078818.0,2002,Population
+SP,35.0,São Paulo,38714552.0,2002,Population
+Região Sudeste,,,75810191.0,2002,Population
+PR,41.0,Paraná,9985028.0,2002,Population
+SC,42.0,Santa Catarina,5666538.0,2002,Population
+RS,43.0,Rio Grande do Sul,10527301.0,2002,Population
+Região Sul,,,26178867.0,2002,Population
+MS,50.0,Mato Grosso do Sul,2206669.0,2002,Population
+MT,51.0,Mato Grosso,2677427.0,2002,Population
+GO,52.0,Goiás,5349219.0,2002,Population
+DF,53.0,Distrito Federal,2202122.0,2002,Population
+Região Centro-Oeste,,,12435437.0,2002,Population
+BR,76.0,Brasil***,178499255.0,2002,Population
+RO,11.0,Rondônia,36.77769635508969,2002,Incidence
+AC,12.0,Acre,49.25225389617625,2002,Incidence
+AM,13.0,Amazonas,69.96060935192214,2002,Incidence
+RR,14.0,Roraima,40.49476221196355,2002,Incidence
+PA,15.0,Pará,49.20627486583109,2002,Incidence
+AP,16.0,Amapá,47.02247002317536,2002,Incidence
+TO,17.0,Tocantins,21.75956409688102,2002,Incidence
+Região Norte,,,49.65131644097864,2002,Incidence
+MA,21.0,Maranhão,45.30125417145585,2002,Incidence
+PI,22.0,Piauí,36.83283070822888,2002,Incidence
+CE,23.0,Ceará,45.74411660382845,2002,Incidence
+RN,24.0,Rio Grande do Norte,36.76147723953983,2002,Incidence
+PB,25.0,Paraíba,31.915746868718323,2002,Incidence
+PE,26.0,Pernambuco,48.63175524911416,2002,Incidence
+AL,27.0,Alagoas,38.665663473769094,2002,Incidence
+SE,28.0,Sergipe,24.156210868391994,2002,Incidence
+BA,29.0,Bahia,45.973545982022905,2002,Incidence
+Região Nordeste,,,42.950197492024,2002,Incidence
+MG,31.0,Minas Gerais,26.820023085805513,2002,Incidence
+ES,32.0,Espírito Santo,40.81563915668092,2002,Incidence
+RJ,33.0,Rio de Janeiro,90.08663676423444,2002,Incidence
+SP,35.0,São Paulo,42.188270705031016,2002,Incidence
+Região Sudeste,,,47.855043657652836,2002,Incidence
+PR,41.0,Paraná,28.041984459132212,2002,Incidence
+SC,42.0,Santa Catarina,26.930023234645212,2002,Incidence
+RS,43.0,Rio Grande do Sul,43.57242183917796,2002,Incidence
+Região Sul,,,34.04654601744224,2002,Incidence
+MS,50.0,Mato Grosso do Sul,34.758271403640514,2002,Incidence
+MT,51.0,Mato Grosso,39.40350194421734,2002,Incidence
+GO,52.0,Goiás,18.956038255304186,2002,Incidence
+DF,53.0,Distrito Federal,15.666706930860325,2002,Incidence
+Região Centro-Oeste,,,25.580122355169344,2002,Incidence
+BR,76.0,Brasil***,43.03827486562899,2002,Incidence
+RO,11.0,Rondônia,545.0,2003,Cases
+AC,12.0,Acre,305.0,2003,Cases
+AM,13.0,Amazonas,2035.0,2003,Cases
+RR,14.0,Roraima,161.0,2003,Cases
+PA,15.0,Pará,3410.0,2003,Cases
+AP,16.0,Amapá,211.0,2003,Cases
+TO,17.0,Tocantins,218.0,2003,Cases
+Região Norte,,,6885.0,2003,Cases
+MA,21.0,Maranhão,2623.0,2003,Cases
+PI,22.0,Piauí,1035.0,2003,Cases
+CE,23.0,Ceará,3915.0,2003,Cases
+RN,24.0,Rio Grande do Norte,1128.0,2003,Cases
+PB,25.0,Paraíba,1186.0,2003,Cases
+PE,26.0,Pernambuco,4309.0,2003,Cases
+AL,27.0,Alagoas,1196.0,2003,Cases
+SE,28.0,Sergipe,527.0,2003,Cases
+BA,29.0,Bahia,6856.0,2003,Cases
+Região Nordeste,,,22775.0,2003,Cases
+MG,31.0,Minas Gerais,5152.0,2003,Cases
+ES,32.0,Espírito Santo,1321.0,2003,Cases
+RJ,33.0,Rio de Janeiro,13279.0,2003,Cases
+SP,35.0,São Paulo,15905.0,2003,Cases
+Região Sudeste,,,35657.0,2003,Cases
+PR,41.0,Paraná,2872.0,2003,Cases
+SC,42.0,Santa Catarina,1576.0,2003,Cases
+RS,43.0,Rio Grande do Sul,4766.0,2003,Cases
+Região Sul,,,9214.0,2003,Cases
+MS,50.0,Mato Grosso do Sul,880.0,2003,Cases
+MT,51.0,Mato Grosso,1049.0,2003,Cases
+GO,52.0,Goiás,1034.0,2003,Cases
+DF,53.0,Distrito Federal,373.0,2003,Cases
+Região Centro-Oeste,,,3336.0,2003,Cases
+BR,76.0,Brasil***,78615.0,2003,Cases
+RO,11.0,Rondônia,1474963.0,2003,Population
+AC,12.0,Acre,637959.0,2003,Population
+AM,13.0,Amazonas,3075835.0,2003,Population
+RR,14.0,Roraima,370356.0,2003,Population
+PA,15.0,Pará,6804896.0,2003,Population
+AP,16.0,Amapá,556215.0,2003,Population
+TO,17.0,Tocantins,1259293.0,2003,Population
+Região Norte,,,14179517.0,2003,Population
+MA,21.0,Maranhão,6108981.0,2003,Population
+PI,22.0,Piauí,3024270.0,2003,Population
+CE,23.0,Ceará,7959511.0,2003,Population
+RN,24.0,Rio Grande do Norte,2977895.0,2003,Population
+PB,25.0,Paraíba,3637153.0,2003,Population
+PE,26.0,Pernambuco,8405822.0,2003,Population
+AL,27.0,Alagoas,2998911.0,2003,Population
+SE,28.0,Sergipe,1920225.0,2003,Population
+BA,29.0,Bahia,13733555.0,2003,Population
+Região Nordeste,,,50766323.0,2003,Population
+MG,31.0,Minas Gerais,18928892.0,2003,Population
+ES,32.0,Espírito Santo,3309693.0,2003,Population
+RJ,33.0,Rio de Janeiro,15241955.0,2003,Population
+SP,35.0,São Paulo,39179618.0,2003,Population
+Região Sudeste,,,76660158.0,2003,Population
+PR,41.0,Paraná,10077766.0,2003,Population
+SC,42.0,Santa Catarina,5753033.0,2003,Population
+RS,43.0,Rio Grande do Sul,10588296.0,2003,Population
+Região Sul,,,26419095.0,2003,Population
+MS,50.0,Mato Grosso do Sul,2243357.0,2003,Population
+MT,51.0,Mato Grosso,2730776.0,2003,Population
+GO,52.0,Goiás,5451596.0,2003,Population
+DF,53.0,Distrito Federal,2257522.0,2003,Population
+Região Centro-Oeste,,,12683251.0,2003,Population
+BR,76.0,Brasil***,180708344.0,2003,Population
+RO,11.0,Rondônia,36.950079425721185,2003,Incidence
+AC,12.0,Acre,47.80871498011628,2003,Incidence
+AM,13.0,Amazonas,66.16089614689996,2003,Incidence
+RR,14.0,Roraima,43.471686701444014,2003,Incidence
+PA,15.0,Pará,50.11097891870794,2003,Incidence
+AP,16.0,Amapá,37.93497118919842,2003,Incidence
+TO,17.0,Tocantins,17.311300864850356,2003,Incidence
+Região Norte,,,48.55595574940952,2003,Incidence
+MA,21.0,Maranhão,42.93678438351666,2003,Incidence
+PI,22.0,Piauí,34.223134839151264,2003,Incidence
+CE,23.0,Ceará,49.18643871463963,2003,Incidence
+RN,24.0,Rio Grande do Norte,37.879105878481276,2003,Incidence
+PB,25.0,Paraíba,32.607921635410996,2003,Incidence
+PE,26.0,Pernambuco,51.26208953746582,2003,Incidence
+AL,27.0,Alagoas,39.88114352176507,2003,Incidence
+SE,28.0,Sergipe,27.444700490827895,2003,Incidence
+BA,29.0,Bahia,49.92152432491077,2003,Incidence
+Região Nordeste,,,44.86241794584965,2003,Incidence
+MG,31.0,Minas Gerais,27.21765225349693,2003,Incidence
+ES,32.0,Espírito Santo,39.91306746577401,2003,Incidence
+RJ,33.0,Rio de Janeiro,87.1213699292512,2003,Incidence
+SP,35.0,São Paulo,40.59508696588109,2003,Incidence
+Região Sudeste,,,46.51307919297531,2003,Incidence
+PR,41.0,Paraná,28.49837950196502,2003,Incidence
+SC,42.0,Santa Catarina,27.394245783050437,2003,Incidence
+RS,43.0,Rio Grande do Sul,45.011964153627744,2003,Incidence
+Região Sul,,,34.87628929000028,2003,Incidence
+MS,50.0,Mato Grosso do Sul,39.22692643212828,2003,Incidence
+MT,51.0,Mato Grosso,38.4139892836322,2003,Incidence
+GO,52.0,Goiás,18.966922714008888,2003,Incidence
+DF,53.0,Distrito Federal,16.522541087085752,2003,Incidence
+Região Centro-Oeste,,,26.30240464373054,2003,Incidence
+BR,76.0,Brasil***,43.50380190524019,2003,Incidence
+RO,11.0,Rondônia,531.0,2004,Cases
+AC,12.0,Acre,278.0,2004,Cases
+AM,13.0,Amazonas,2135.0,2004,Cases
+RR,14.0,Roraima,185.0,2004,Cases
+PA,15.0,Pará,3544.0,2004,Cases
+AP,16.0,Amapá,224.0,2004,Cases
+TO,17.0,Tocantins,219.0,2004,Cases
+Região Norte,,,7116.0,2004,Cases
+MA,21.0,Maranhão,2668.0,2004,Cases
+PI,22.0,Piauí,1102.0,2004,Cases
+CE,23.0,Ceará,3855.0,2004,Cases
+RN,24.0,Rio Grande do Norte,1169.0,2004,Cases
+PB,25.0,Paraíba,1219.0,2004,Cases
+PE,26.0,Pernambuco,4465.0,2004,Cases
+AL,27.0,Alagoas,1183.0,2004,Cases
+SE,28.0,Sergipe,491.0,2004,Cases
+BA,29.0,Bahia,6725.0,2004,Cases
+Região Nordeste,,,22877.0,2004,Cases
+MG,31.0,Minas Gerais,5189.0,2004,Cases
+ES,32.0,Espírito Santo,1276.0,2004,Cases
+RJ,33.0,Rio de Janeiro,12943.0,2004,Cases
+SP,35.0,São Paulo,15358.0,2004,Cases
+Região Sudeste,,,34766.0,2004,Cases
+PR,41.0,Paraná,2616.0,2004,Cases
+SC,42.0,Santa Catarina,1516.0,2004,Cases
+RS,43.0,Rio Grande do Sul,4843.0,2004,Cases
+Região Sul,,,8975.0,2004,Cases
+MS,50.0,Mato Grosso do Sul,863.0,2004,Cases
+MT,51.0,Mato Grosso,955.0,2004,Cases
+GO,52.0,Goiás,935.0,2004,Cases
+DF,53.0,Distrito Federal,343.0,2004,Cases
+Região Centro-Oeste,,,3096.0,2004,Cases
+BR,76.0,Brasil***,77717.0,2004,Cases
+RO,11.0,Rondônia,1494506.0,2004,Population
+AC,12.0,Acre,656312.0,2004,Population
+AM,13.0,Amazonas,3140990.0,2004,Population
+RR,14.0,Roraima,383083.0,2004,Population
+PA,15.0,Pará,6947242.0,2004,Population
+AP,16.0,Amapá,576205.0,2004,Population
+TO,17.0,Tocantins,1281932.0,2004,Population
+Região Norte,,,14480270.0,2004,Population
+MA,21.0,Maranhão,6204069.0,2004,Population
+PI,22.0,Piauí,3052015.0,2004,Population
+CE,23.0,Ceará,8058687.0,2004,Population
+RN,24.0,Rio Grande do Norte,3016738.0,2004,Population
+PB,25.0,Paraíba,3669400.0,2004,Population
+PE,26.0,Pernambuco,8496236.0,2004,Population
+AL,27.0,Alagoas,3031224.0,2004,Population
+SE,28.0,Sergipe,1947959.0,2004,Population
+BA,29.0,Bahia,13834245.0,2004,Population
+Região Nordeste,,,51310573.0,2004,Population
+MG,31.0,Minas Gerais,19097573.0,2004,Population
+ES,32.0,Espírito Santo,3352781.0,2004,Population
+RJ,33.0,Rio de Janeiro,15402965.0,2004,Population
+SP,35.0,São Paulo,39639613.0,2004,Population
+Região Sudeste,,,77492932.0,2004,Population
+PR,41.0,Paraná,10164956.0,2004,Population
+SC,42.0,Santa Catarina,5839860.0,2004,Population
+RS,43.0,Rio Grande do Sul,10646733.0,2004,Population
+Região Sul,,,26651549.0,2004,Population
+MS,50.0,Mato Grosso do Sul,2280444.0,2004,Population
+MT,51.0,Mato Grosso,2785242.0,2004,Population
+GO,52.0,Goiás,5551621.0,2004,Population
+DF,53.0,Distrito Federal,2312412.0,2004,Population
+Região Centro-Oeste,,,12929719.0,2004,Population
+BR,76.0,Brasil***,182865043.0,2004,Population
+RO,11.0,Rondônia,35.53013504127785,2004,Incidence
+AC,12.0,Acre,42.35790294859762,2004,Incidence
+AM,13.0,Amazonas,67.97219984781869,2004,Incidence
+RR,14.0,Roraima,48.29240660640122,2004,Incidence
+PA,15.0,Pará,51.01304949503702,2004,Incidence
+AP,16.0,Amapá,38.875053149486725,2004,Incidence
+TO,17.0,Tocantins,17.083589457163097,2004,Incidence
+Região Norte,,,49.14273007340333,2004,Incidence
+MA,21.0,Maranhão,43.00403493255797,2004,Incidence
+PI,22.0,Piauí,36.10729305065669,2004,Incidence
+CE,23.0,Ceará,47.83657685178739,2004,Incidence
+RN,24.0,Rio Grande do Norte,38.750464906133715,2004,Incidence
+PB,25.0,Paraíba,33.22069003106775,2004,Incidence
+PE,26.0,Pernambuco,52.55268332941788,2004,Incidence
+AL,27.0,Alagoas,39.02713887195404,2004,Incidence
+SE,28.0,Sergipe,25.205869322711617,2004,Incidence
+BA,29.0,Bahia,48.61125417397191,2004,Incidence
+Região Nordeste,,,44.585352808279886,2004,Incidence
+MG,31.0,Minas Gerais,27.170991832312932,2004,Incidence
+ES,32.0,Espírito Santo,38.057958452997674,2004,Incidence
+RJ,33.0,Rio de Janeiro,84.02927618156633,2004,Incidence
+SP,35.0,São Paulo,38.74407149232259,2004,Incidence
+Região Sudeste,,,44.86344638501999,2004,Incidence
+PR,41.0,Paraná,25.73547785155194,2004,Incidence
+SC,42.0,Santa Catarina,25.959526427003386,2004,Incidence
+RS,43.0,Rio Grande do Sul,45.48813236886846,2004,Incidence
+Região Sul,,,33.67534097173864,2004,Incidence
+MS,50.0,Mato Grosso do Sul,37.84350766780504,2004,Incidence
+MT,51.0,Mato Grosso,34.28786439383005,2004,Incidence
+GO,52.0,Goiás,16.841927790099504,2004,Incidence
+DF,53.0,Distrito Federal,14.832996888097796,2004,Incidence
+Região Centro-Oeste,,,23.944835924121783,2004,Incidence
+BR,76.0,Brasil***,42.499648224182465,2004,Incidence
+RO,11.0,Rondônia,539.0,2005,Cases
+AC,12.0,Acre,267.0,2005,Cases
+AM,13.0,Amazonas,2085.0,2005,Cases
+RR,14.0,Roraima,130.0,2005,Cases
+PA,15.0,Pará,3477.0,2005,Cases
+AP,16.0,Amapá,230.0,2005,Cases
+TO,17.0,Tocantins,212.0,2005,Cases
+Região Norte,,,6940.0,2005,Cases
+MA,21.0,Maranhão,2760.0,2005,Cases
+PI,22.0,Piauí,1088.0,2005,Cases
+CE,23.0,Ceará,3997.0,2005,Cases
+RN,24.0,Rio Grande do Norte,1083.0,2005,Cases
+PB,25.0,Paraíba,1214.0,2005,Cases
+PE,26.0,Pernambuco,4433.0,2005,Cases
+AL,27.0,Alagoas,1258.0,2005,Cases
+SE,28.0,Sergipe,676.0,2005,Cases
+BA,29.0,Bahia,6648.0,2005,Cases
+Região Nordeste,,,23157.0,2005,Cases
+MG,31.0,Minas Gerais,5044.0,2005,Cases
+ES,32.0,Espírito Santo,1270.0,2005,Cases
+RJ,33.0,Rio de Janeiro,12329.0,2005,Cases
+SP,35.0,São Paulo,15520.0,2005,Cases
+Região Sudeste,,,34163.0,2005,Cases
+PR,41.0,Paraná,2676.0,2005,Cases
+SC,42.0,Santa Catarina,1485.0,2005,Cases
+RS,43.0,Rio Grande do Sul,4580.0,2005,Cases
+Região Sul,,,8741.0,2005,Cases
+MS,50.0,Mato Grosso do Sul,895.0,2005,Cases
+MT,51.0,Mato Grosso,1119.0,2005,Cases
+GO,52.0,Goiás,921.0,2005,Cases
+DF,53.0,Distrito Federal,358.0,2005,Cases
+Região Centro-Oeste,,,3293.0,2005,Cases
+BR,76.0,Brasil***,77115.0,2005,Cases
+RO,11.0,Rondônia,1513687.0,2005,Population
+AC,12.0,Acre,674989.0,2005,Population
+AM,13.0,Amazonas,3207750.0,2005,Population
+RR,14.0,Roraima,395424.0,2005,Population
+PA,15.0,Pará,7087681.0,2005,Population
+AP,16.0,Amapá,595517.0,2005,Population
+TO,17.0,Tocantins,1304536.0,2005,Population
+Região Norte,,,14779584.0,2005,Population
+MA,21.0,Maranhão,6297463.0,2005,Population
+PI,22.0,Piauí,3079931.0,2005,Population
+CE,23.0,Ceará,8157557.0,2005,Population
+RN,24.0,Rio Grande do Norte,3056025.0,2005,Population
+PB,25.0,Paraíba,3701283.0,2005,Population
+PE,26.0,Pernambuco,8584552.0,2005,Population
+AL,27.0,Alagoas,3062006.0,2005,Population
+SE,28.0,Sergipe,1975399.0,2005,Population
+BA,29.0,Bahia,13926990.0,2005,Population
+Região Nordeste,,,51841206.0,2005,Population
+MG,31.0,Minas Gerais,19258641.0,2005,Population
+ES,32.0,Espírito Santo,3394747.0,2005,Population
+RJ,33.0,Rio de Janeiro,15558887.0,2005,Population
+SP,35.0,São Paulo,40097923.0,2005,Population
+Região Sudeste,,,78310198.0,2005,Population
+PR,41.0,Paraná,10252353.0,2005,Population
+SC,42.0,Santa Catarina,5927906.0,2005,Population
+RS,43.0,Rio Grande do Sul,10703449.0,2005,Population
+Região Sul,,,26883708.0,2005,Population
+MS,50.0,Mato Grosso do Sul,2317444.0,2005,Population
+MT,51.0,Mato Grosso,2841541.0,2005,Population
+GO,52.0,Goiás,5650100.0,2005,Population
+DF,53.0,Distrito Federal,2367362.0,2005,Population
+Região Centro-Oeste,,,13176447.0,2005,Population
+BR,76.0,Brasil***,184991143.0,2005,Population
+RO,11.0,Rondônia,35.60841838504261,2005,Incidence
+AC,12.0,Acre,39.556200175113965,2005,Incidence
+AM,13.0,Amazonas,64.99883095627777,2005,Incidence
+RR,14.0,Roraima,32.87610261390305,2005,Incidence
+PA,15.0,Pará,49.05694824583668,2005,Incidence
+AP,16.0,Amapá,38.62190332097992,2005,Incidence
+TO,17.0,Tocantins,16.250988857340847,2005,Incidence
+Região Norte,,,46.956666709969646,2005,Incidence
+MA,21.0,Maranhão,43.827172942500816,2005,Incidence
+PI,22.0,Piauí,35.325466706884015,2005,Incidence
+CE,23.0,Ceará,48.99751236797977,2005,Incidence
+RN,24.0,Rio Grande do Norte,35.43819176871917,2005,Incidence
+PB,25.0,Paraíba,32.79943738428,2005,Incidence
+PE,26.0,Pernambuco,51.63927016808798,2005,Incidence
+AL,27.0,Alagoas,41.08417814987952,2005,Incidence
+SE,28.0,Sergipe,34.22093460612261,2005,Incidence
+BA,29.0,Bahia,47.73465048800926,2005,Incidence
+Região Nordeste,,,44.669099711916424,2005,Incidence
+MG,31.0,Minas Gerais,26.190840776355923,2005,Incidence
+ES,32.0,Espírito Santo,37.41074077096172,2005,Incidence
+RJ,33.0,Rio de Janeiro,79.24088657498444,2005,Incidence
+SP,35.0,São Paulo,38.70524665329922,2005,Incidence
+Região Sudeste,,,43.62522490365814,2005,Incidence
+PR,41.0,Paraná,26.101325227486804,2005,Incidence
+SC,42.0,Santa Catarina,25.051004519977205,2005,Incidence
+RS,43.0,Rio Grande do Sul,42.78994555866992,2005,Incidence
+Região Sul,,,32.514115984297995,2005,Incidence
+MS,50.0,Mato Grosso do Sul,38.62013494177205,2005,Incidence
+MT,51.0,Mato Grosso,39.380040618805076,2005,Incidence
+GO,52.0,Goiás,16.30059644962036,2005,Incidence
+DF,53.0,Distrito Federal,15.122317583876063,2005,Incidence
+Região Centro-Oeste,,,24.991562596502686,2005,Incidence
+BR,76.0,Brasil***,41.68577951864431,2005,Incidence
+RO,11.0,Rondônia,449.0,2006,Cases
+AC,12.0,Acre,347.0,2006,Cases
+AM,13.0,Amazonas,2131.0,2006,Cases
+RR,14.0,Roraima,123.0,2006,Cases
+PA,15.0,Pará,3323.0,2006,Cases
+AP,16.0,Amapá,222.0,2006,Cases
+TO,17.0,Tocantins,237.0,2006,Cases
+Região Norte,,,6832.0,2006,Cases
+MA,21.0,Maranhão,2550.0,2006,Cases
+PI,22.0,Piauí,961.0,2006,Cases
+CE,23.0,Ceará,3504.0,2006,Cases
+RN,24.0,Rio Grande do Norte,940.0,2006,Cases
+PB,25.0,Paraíba,972.0,2006,Cases
+PE,26.0,Pernambuco,4030.0,2006,Cases
+AL,27.0,Alagoas,1151.0,2006,Cases
+SE,28.0,Sergipe,582.0,2006,Cases
+BA,29.0,Bahia,6034.0,2006,Cases
+Região Nordeste,,,20724.0,2006,Cases
+MG,31.0,Minas Gerais,4565.0,2006,Cases
+ES,32.0,Espírito Santo,1208.0,2006,Cases
+RJ,33.0,Rio de Janeiro,11517.0,2006,Cases
+SP,35.0,São Paulo,15381.0,2006,Cases
+Região Sudeste,,,32671.0,2006,Cases
+PR,41.0,Paraná,2353.0,2006,Cases
+SC,42.0,Santa Catarina,1539.0,2006,Cases
+RS,43.0,Rio Grande do Sul,4274.0,2006,Cases
+Região Sul,,,8166.0,2006,Cases
+MS,50.0,Mato Grosso do Sul,772.0,2006,Cases
+MT,51.0,Mato Grosso,1150.0,2006,Cases
+GO,52.0,Goiás,848.0,2006,Cases
+DF,53.0,Distrito Federal,370.0,2006,Cases
+Região Centro-Oeste,,,3140.0,2006,Cases
+BR,76.0,Brasil***,71562.0,2006,Cases
+RO,11.0,Rondônia,1532259.0,2006,Population
+AC,12.0,Acre,693719.0,2006,Population
+AM,13.0,Amazonas,3276510.0,2006,Population
+RR,14.0,Roraima,407693.0,2006,Population
+PA,15.0,Pará,7228687.0,2006,Population
+AP,16.0,Amapá,615079.0,2006,Population
+TO,17.0,Tocantins,1327543.0,2006,Population
+Região Norte,,,15081490.0,2006,Population
+MA,21.0,Maranhão,6389886.0,2006,Population
+PI,22.0,Piauí,3106563.0,2006,Population
+CE,23.0,Ceará,8255850.0,2006,Population
+RN,24.0,Rio Grande do Norte,3094682.0,2006,Population
+PB,25.0,Paraíba,3732327.0,2006,Population
+PE,26.0,Pernambuco,8671636.0,2006,Population
+AL,27.0,Alagoas,3091754.0,2006,Population
+SE,28.0,Sergipe,2003252.0,2006,Population
+BA,29.0,Bahia,14010419.0,2006,Population
+Região Nordeste,,,52356369.0,2006,Population
+MG,31.0,Minas Gerais,19411167.0,2006,Population
+ES,32.0,Espírito Santo,3435356.0,2006,Population
+RJ,33.0,Rio de Janeiro,15708629.0,2006,Population
+SP,35.0,São Paulo,40543155.0,2006,Population
+Região Sudeste,,,79098307.0,2006,Population
+PR,41.0,Paraná,10337621.0,2006,Population
+SC,42.0,Santa Catarina,6014601.0,2006,Population
+RS,43.0,Rio Grande do Sul,10753011.0,2006,Population
+Região Sul,,,27105233.0,2006,Population
+MS,50.0,Mato Grosso do Sul,2353564.0,2006,Population
+MT,51.0,Mato Grosso,2897305.0,2006,Population
+GO,52.0,Goiás,5746698.0,2006,Population
+DF,53.0,Distrito Federal,2422644.0,2006,Population
+Região Centro-Oeste,,,13420211.0,2006,Population
+BR,76.0,Brasil***,187061610.0,2006,Population
+RO,11.0,Rondônia,29.30314000439873,2006,Incidence
+AC,12.0,Acre,50.0202531572582,2006,Incidence
+AM,13.0,Amazonas,65.03871497416458,2006,Incidence
+RR,14.0,Roraima,30.169760089086644,2006,Incidence
+PA,15.0,Pará,45.969620762387414,2006,Incidence
+AP,16.0,Amapá,36.092924648703665,2006,Incidence
+TO,17.0,Tocantins,17.85252907062144,2006,Incidence
+Região Norte,,,45.300563803709046,2006,Incidence
+MA,21.0,Maranhão,39.906815238957314,2006,Incidence
+PI,22.0,Piauí,30.934508651522602,2006,Incidence
+CE,23.0,Ceará,42.44263158850996,2006,Incidence
+RN,24.0,Rio Grande do Norte,30.374687932394995,2006,Incidence
+PB,25.0,Paraíba,26.042734197727047,2006,Incidence
+PE,26.0,Pernambuco,46.47335289442499,2006,Incidence
+AL,27.0,Alagoas,37.228058894724484,2006,Incidence
+SE,28.0,Sergipe,29.052760211895457,2006,Incidence
+BA,29.0,Bahia,43.06794821768,2006,Incidence
+Região Nordeste,,,39.5825768589873,2006,Incidence
+MG,31.0,Minas Gerais,23.51739078850849,2006,Incidence
+ES,32.0,Espírito Santo,35.163750132446246,2006,Incidence
+RJ,33.0,Rio de Janeiro,73.3163919015466,2006,Incidence
+SP,35.0,São Paulo,37.93735342007794,2006,Incidence
+Região Sudeste,,,41.30429744849027,2006,Incidence
+PR,41.0,Paraná,22.761523178301857,2006,Incidence
+SC,42.0,Santa Catarina,25.58773225356096,2006,Incidence
+RS,43.0,Rio Grande do Sul,39.74700667561858,2006,Incidence
+Região Sul,,,30.127023811232316,2006,Incidence
+MS,50.0,Mato Grosso do Sul,32.801317491260065,2006,Incidence
+MT,51.0,Mato Grosso,39.69205865450824,2006,Incidence
+GO,52.0,Goiás,14.756300052656325,2006,Incidence
+DF,53.0,Distrito Federal,15.272569969009066,2006,Incidence
+Região Centro-Oeste,,,23.397545686874818,2006,Incidence
+BR,76.0,Brasil***,38.25584522660743,2006,Incidence
+RO,11.0,Rondônia,468.0,2007,Cases
+AC,12.0,Acre,282.0,2007,Cases
+AM,13.0,Amazonas,2075.0,2007,Cases
+RR,14.0,Roraima,122.0,2007,Cases
+PA,15.0,Pará,3326.0,2007,Cases
+AP,16.0,Amapá,243.0,2007,Cases
+TO,17.0,Tocantins,208.0,2007,Cases
+Região Norte,,,6724.0,2007,Cases
+MA,21.0,Maranhão,2469.0,2007,Cases
+PI,22.0,Piauí,995.0,2007,Cases
+CE,23.0,Ceará,3467.0,2007,Cases
+RN,24.0,Rio Grande do Norte,925.0,2007,Cases
+PB,25.0,Paraíba,994.0,2007,Cases
+PE,26.0,Pernambuco,4063.0,2007,Cases
+AL,27.0,Alagoas,1177.0,2007,Cases
+SE,28.0,Sergipe,490.0,2007,Cases
+BA,29.0,Bahia,5554.0,2007,Cases
+Região Nordeste,,,20134.0,2007,Cases
+MG,31.0,Minas Gerais,4549.0,2007,Cases
+ES,32.0,Espírito Santo,1258.0,2007,Cases
+RJ,33.0,Rio de Janeiro,11530.0,2007,Cases
+SP,35.0,São Paulo,15159.0,2007,Cases
+Região Sudeste,,,32496.0,2007,Cases
+PR,41.0,Paraná,2547.0,2007,Cases
+SC,42.0,Santa Catarina,1564.0,2007,Cases
+RS,43.0,Rio Grande do Sul,4495.0,2007,Cases
+Região Sul,,,8606.0,2007,Cases
+MS,50.0,Mato Grosso do Sul,809.0,2007,Cases
+MT,51.0,Mato Grosso,1016.0,2007,Cases
+GO,52.0,Goiás,853.0,2007,Cases
+DF,53.0,Distrito Federal,403.0,2007,Cases
+Região Centro-Oeste,,,3081.0,2007,Cases
+BR,76.0,Brasil***,71089.0,2007,Cases
+RO,11.0,Rondônia,1549747.0,2007,Population
+AC,12.0,Acre,712059.0,2007,Population
+AM,13.0,Amazonas,3345514.0,2007,Population
+RR,14.0,Roraima,420331.0,2007,Population
+PA,15.0,Pará,7367310.0,2007,Population
+AP,16.0,Amapá,634544.0,2007,Population
+TO,17.0,Tocantins,1349481.0,2007,Population
+Região Norte,,,15378986.0,2007,Population
+MA,21.0,Maranhão,6477394.0,2007,Population
+PI,22.0,Piauí,3130768.0,2007,Population
+CE,23.0,Ceará,8350441.0,2007,Population
+RN,24.0,Rio Grande do Norte,3130943.0,2007,Population
+PB,25.0,Paraíba,3760733.0,2007,Population
+PE,26.0,Pernambuco,8754845.0,2007,Population
+AL,27.0,Alagoas,3119271.0,2007,Population
+SE,28.0,Sergipe,2030173.0,2007,Population
+BA,29.0,Bahia,14086566.0,2007,Population
+Região Nordeste,,,52841134.0,2007,Population
+MG,31.0,Minas Gerais,19551338.0,2007,Population
+ES,32.0,Espírito Santo,3474578.0,2007,Population
+RJ,33.0,Rio de Janeiro,15854580.0,2007,Population
+SP,35.0,São Paulo,40974276.0,2007,Population
+Região Sudeste,,,79854772.0,2007,Population
+PR,41.0,Paraná,10416632.0,2007,Population
+SC,42.0,Santa Catarina,6098418.0,2007,Population
+RS,43.0,Rio Grande do Sul,10794069.0,2007,Population
+Região Sul,,,27309119.0,2007,Population
+MS,50.0,Mato Grosso do Sul,2387703.0,2007,Population
+MT,51.0,Mato Grosso,2950139.0,2007,Population
+GO,52.0,Goiás,5839392.0,2007,Population
+DF,53.0,Distrito Federal,2477023.0,2007,Population
+Região Centro-Oeste,,,13654257.0,2007,Population
+BR,76.0,Brasil***,189038268.0,2007,Population
+RO,11.0,Rondônia,30.19847755794978,2007,Incidence
+AC,12.0,Acre,39.603459825660515,2007,Incidence
+AM,13.0,Amazonas,62.02335425886724,2007,Incidence
+RR,14.0,Roraima,29.02474478446748,2007,Incidence
+PA,15.0,Pará,45.14537870674643,2007,Incidence
+AP,16.0,Amapá,38.29521672255982,2007,Incidence
+TO,17.0,Tocantins,15.413332977641035,2007,Incidence
+Região Norte,,,43.721998316403955,2007,Incidence
+MA,21.0,Maranhão,38.11718107621676,2007,Incidence
+PI,22.0,Piauí,31.781339275219374,2007,Incidence
+CE,23.0,Ceará,41.51876529634782,2007,Incidence
+RN,24.0,Rio Grande do Norte,29.543814754851812,2007,Incidence
+PB,25.0,Paraíba,26.43101757024495,2007,Incidence
+PE,26.0,Pernambuco,46.40858861578931,2007,Incidence
+AL,27.0,Alagoas,37.73317547593653,2007,Incidence
+SE,28.0,Sergipe,24.13587413486437,2007,Incidence
+BA,29.0,Bahia,39.427636231569856,2007,Incidence
+Região Nordeste,,,38.1028915844236,2007,Incidence
+MG,31.0,Minas Gerais,23.266949811823622,2007,Incidence
+ES,32.0,Espírito Santo,36.20583564392568,2007,Incidence
+RJ,33.0,Rio de Janeiro,72.72346539611898,2007,Incidence
+SP,35.0,São Paulo,36.99638280368883,2007,Incidence
+Região Sudeste,,,40.69387362348239,2007,Incidence
+PR,41.0,Paraná,24.45128137386441,2007,Incidence
+SC,42.0,Santa Catarina,25.64599540405397,2007,Incidence
+RS,43.0,Rio Grande do Sul,41.64323944936798,2007,Incidence
+Região Sul,,,31.513283163766655,2007,Incidence
+MS,50.0,Mato Grosso do Sul,33.881935902413325,2007,Incidence
+MT,51.0,Mato Grosso,34.43905524451559,2007,Incidence
+GO,52.0,Goiás,14.607685183662955,2007,Incidence
+DF,53.0,Distrito Federal,16.2695299962899,2007,Incidence
+Região Centro-Oeste,,,22.564391456818193,2007,Incidence
+BR,76.0,Brasil***,37.60561327191169,2007,Incidence
+RO,11.0,Rondônia,479.0,2008,Cases
+AC,12.0,Acre,274.0,2008,Cases
+AM,13.0,Amazonas,2285.0,2008,Cases
+RR,14.0,Roraima,136.0,2008,Cases
+PA,15.0,Pará,3318.0,2008,Cases
+AP,16.0,Amapá,232.0,2008,Cases
+TO,17.0,Tocantins,179.0,2008,Cases
+Região Norte,,,6903.0,2008,Cases
+MA,21.0,Maranhão,2218.0,2008,Cases
+PI,22.0,Piauí,881.0,2008,Cases
+CE,23.0,Ceará,3787.0,2008,Cases
+RN,24.0,Rio Grande do Norte,1010.0,2008,Cases
+PB,25.0,Paraíba,1057.0,2008,Cases
+PE,26.0,Pernambuco,4166.0,2008,Cases
+AL,27.0,Alagoas,1203.0,2008,Cases
+SE,28.0,Sergipe,583.0,2008,Cases
+BA,29.0,Bahia,5530.0,2008,Cases
+Região Nordeste,,,20435.0,2008,Cases
+MG,31.0,Minas Gerais,4432.0,2008,Cases
+ES,32.0,Espírito Santo,1376.0,2008,Cases
+RJ,33.0,Rio de Janeiro,11837.0,2008,Cases
+SP,35.0,São Paulo,15942.0,2008,Cases
+Região Sudeste,,,33587.0,2008,Cases
+PR,41.0,Paraná,2544.0,2008,Cases
+SC,42.0,Santa Catarina,1672.0,2008,Cases
+RS,43.0,Rio Grande do Sul,4659.0,2008,Cases
+Região Sul,,,8875.0,2008,Cases
+MS,50.0,Mato Grosso do Sul,875.0,2008,Cases
+MT,51.0,Mato Grosso,1096.0,2008,Cases
+GO,52.0,Goiás,841.0,2008,Cases
+DF,53.0,Distrito Federal,350.0,2008,Cases
+Região Centro-Oeste,,,3162.0,2008,Cases
+BR,76.0,Brasil***,73018.0,2008,Cases
+RO,11.0,Rondônia,1566588.0,2008,Population
+AC,12.0,Acre,730523.0,2008,Population
+AM,13.0,Amazonas,3415112.0,2008,Population
+RR,14.0,Roraima,433189.0,2008,Population
+PA,15.0,Pará,7504065.0,2008,Population
+AP,16.0,Amapá,654211.0,2008,Population
+TO,17.0,Tocantins,1370924.0,2008,Population
+Região Norte,,,15674612.0,2008,Population
+MA,21.0,Maranhão,6561681.0,2008,Population
+PI,22.0,Piauí,3153248.0,2008,Population
+CE,23.0,Ceará,8443897.0,2008,Population
+RN,24.0,Rio Grande do Norte,3167448.0,2008,Population
+PB,25.0,Paraíba,3788518.0,2008,Population
+PE,26.0,Pernambuco,8838282.0,2008,Population
+AL,27.0,Alagoas,3146543.0,2008,Population
+SE,28.0,Sergipe,2056815.0,2008,Population
+BA,29.0,Bahia,14162161.0,2008,Population
+Região Nordeste,,,53318593.0,2008,Population
+MG,31.0,Minas Gerais,19689598.0,2008,Population
+ES,32.0,Espírito Santo,3514773.0,2008,Population
+RJ,33.0,Rio de Janeiro,16002537.0,2008,Population
+SP,35.0,São Paulo,41411375.0,2008,Population
+Região Sudeste,,,80618283.0,2008,Population
+PR,41.0,Paraná,10494940.0,2008,Population
+SC,42.0,Santa Catarina,6182665.0,2008,Population
+RS,43.0,Rio Grande do Sul,10833900.0,2008,Population
+Região Sul,,,27511505.0,2008,Population
+MS,50.0,Mato Grosso do Sul,2422756.0,2008,Population
+MT,51.0,Mato Grosso,3002237.0,2008,Population
+GO,52.0,Goiás,5931185.0,2008,Population
+DF,53.0,Distrito Federal,2531103.0,2008,Population
+Região Centro-Oeste,,,13887281.0,2008,Population
+BR,76.0,Brasil***,191010274.0,2008,Population
+RO,11.0,Rondônia,30.576003390808562,2008,Incidence
+AC,12.0,Acre,37.507374853358485,2008,Incidence
+AM,13.0,Amazonas,66.90849377707086,2008,Incidence
+RR,14.0,Roraima,31.395072358716405,2008,Incidence
+PA,15.0,Pará,44.216034909079276,2008,Incidence
+AP,16.0,Amapá,35.46256483000133,2008,Incidence
+TO,17.0,Tocantins,13.056887179741548,2008,Incidence
+Região Norte,,,44.03936760922695,2008,Incidence
+MA,21.0,Maranhão,33.802313766853345,2008,Incidence
+PI,22.0,Piauí,27.93944529577122,2008,Incidence
+CE,23.0,Ceará,44.84896014245555,2008,Incidence
+RN,24.0,Rio Grande do Norte,31.886869176699978,2008,Incidence
+PB,25.0,Paraíba,27.90009180370794,2008,Incidence
+PE,26.0,Pernambuco,47.13585739853062,2008,Incidence
+AL,27.0,Alagoas,38.23243477047668,2008,Incidence
+SE,28.0,Sergipe,28.344795229517484,2008,Incidence
+BA,29.0,Bahia,39.047713127961195,2008,Incidence
+Região Nordeste,,,38.32621764794131,2008,Incidence
+MG,31.0,Minas Gerais,22.509347321362274,2008,Incidence
+ES,32.0,Espírito Santo,39.14904319567722,2008,Incidence
+RJ,33.0,Rio de Janeiro,73.96952120779349,2008,Incidence
+SP,35.0,São Paulo,38.49666909152376,2008,Incidence
+Região Sudeste,,,41.66176548314729,2008,Incidence
+PR,41.0,Paraná,24.24025292188426,2008,Incidence
+SC,42.0,Santa Catarina,27.043354281689208,2008,Incidence
+RS,43.0,Rio Grande do Sul,43.003904411153876,2008,Incidence
+Região Sul,,,32.259231183463065,2008,Incidence
+MS,50.0,Mato Grosso do Sul,36.11589446068857,2008,Incidence
+MT,51.0,Mato Grosso,36.506111942528186,2008,Incidence
+GO,52.0,Goiás,14.179291322054532,2008,Incidence
+DF,53.0,Distrito Federal,13.827963540006078,2008,Incidence
+Região Centro-Oeste,,,22.76903592575105,2008,Incidence
+BR,76.0,Brasil***,38.22726310522962,2008,Incidence
+RO,11.0,Rondônia,569.0,2009,Cases
+AC,12.0,Acre,319.0,2009,Cases
+AM,13.0,Amazonas,2275.0,2009,Cases
+RR,14.0,Roraima,132.0,2009,Cases
+PA,15.0,Pará,3564.0,2009,Cases
+AP,16.0,Amapá,219.0,2009,Cases
+TO,17.0,Tocantins,200.0,2009,Cases
+Região Norte,,,7278.0,2009,Cases
+MA,21.0,Maranhão,2162.0,2009,Cases
+PI,22.0,Piauí,836.0,2009,Cases
+CE,23.0,Ceará,3820.0,2009,Cases
+RN,24.0,Rio Grande do Norte,950.0,2009,Cases
+PB,25.0,Paraíba,1040.0,2009,Cases
+PE,26.0,Pernambuco,4132.0,2009,Cases
+AL,27.0,Alagoas,1177.0,2009,Cases
+SE,28.0,Sergipe,560.0,2009,Cases
+BA,29.0,Bahia,5726.0,2009,Cases
+Região Nordeste,,,20403.0,2009,Cases
+MG,31.0,Minas Gerais,4158.0,2009,Cases
+ES,32.0,Espírito Santo,1273.0,2009,Cases
+RJ,33.0,Rio de Janeiro,11642.0,2009,Cases
+SP,35.0,São Paulo,15671.0,2009,Cases
+Região Sudeste,,,32744.0,2009,Cases
+PR,41.0,Paraná,2389.0,2009,Cases
+SC,42.0,Santa Catarina,1625.0,2009,Cases
+RS,43.0,Rio Grande do Sul,4964.0,2009,Cases
+Região Sul,,,8978.0,2009,Cases
+MS,50.0,Mato Grosso do Sul,898.0,2009,Cases
+MT,51.0,Mato Grosso,984.0,2009,Cases
+GO,52.0,Goiás,879.0,2009,Cases
+DF,53.0,Distrito Federal,284.0,2009,Cases
+Região Centro-Oeste,,,3045.0,2009,Cases
+BR,76.0,Brasil***,72506.0,2009,Cases
+RO,11.0,Rondônia,1582874.0,2009,Population
+AC,12.0,Acre,748586.0,2009,Population
+AM,13.0,Amazonas,3485174.0,2009,Population
+RR,14.0,Roraima,446088.0,2009,Population
+PA,15.0,Pará,7637004.0,2009,Population
+AP,16.0,Amapá,674343.0,2009,Population
+TO,17.0,Tocantins,1392316.0,2009,Population
+Região Norte,,,15966385.0,2009,Population
+MA,21.0,Maranhão,6639032.0,2009,Population
+PI,22.0,Piauí,3173620.0,2009,Population
+CE,23.0,Ceará,8535619.0,2009,Population
+RN,24.0,Rio Grande do Norte,3204610.0,2009,Population
+PB,25.0,Paraíba,3815616.0,2009,Population
+PE,26.0,Pernambuco,8921850.0,2009,Population
+AL,27.0,Alagoas,3172200.0,2009,Population
+SE,28.0,Sergipe,2083198.0,2009,Population
+BA,29.0,Bahia,14235773.0,2009,Population
+Região Nordeste,,,53781518.0,2009,Population
+MG,31.0,Minas Gerais,19826376.0,2009,Population
+ES,32.0,Espírito Santo,3555703.0,2009,Population
+RJ,33.0,Rio de Janeiro,16153634.0,2009,Population
+SP,35.0,São Paulo,41857032.0,2009,Population
+Região Sudeste,,,81392745.0,2009,Population
+PR,41.0,Paraná,10574671.0,2009,Population
+SC,42.0,Santa Catarina,6268299.0,2009,Population
+RS,43.0,Rio Grande do Sul,10875483.0,2009,Population
+Região Sul,,,27718453.0,2009,Population
+MS,50.0,Mato Grosso do Sul,2459099.0,2009,Population
+MT,51.0,Mato Grosso,3055066.0,2009,Population
+GO,52.0,Goiás,6022281.0,2009,Population
+DF,53.0,Distrito Federal,2585358.0,2009,Population
+Região Centro-Oeste,,,14121804.0,2009,Population
+BR,76.0,Brasil***,192980905.0,2009,Population
+RO,11.0,Rondônia,35.9472705976597,2009,Incidence
+AC,12.0,Acre,42.61367431397328,2009,Incidence
+AM,13.0,Amazonas,65.27651130187473,2009,Incidence
+RR,14.0,Roraima,29.59057405713671,2009,Incidence
+PA,15.0,Pará,46.66751516694243,2009,Incidence
+AP,16.0,Amapá,32.47605447079602,2009,Incidence
+TO,17.0,Tocantins,14.364555172819964,2009,Incidence
+Região Norte,,,45.58326759626553,2009,Incidence
+MA,21.0,Maranhão,32.564988389873704,2009,Incidence
+PI,22.0,Piauí,26.342158166384127,2009,Incidence
+CE,23.0,Ceará,44.75363766822301,2009,Incidence
+RN,24.0,Rio Grande do Norte,29.644792970127412,2009,Incidence
+PB,25.0,Paraíba,27.256411546654594,2009,Incidence
+PE,26.0,Pernambuco,46.31326462561016,2009,Incidence
+AL,27.0,Alagoas,37.103587415673665,2009,Incidence
+SE,28.0,Sergipe,26.881746238235632,2009,Incidence
+BA,29.0,Bahia,40.222613833474306,2009,Incidence
+Região Nordeste,,,37.93682431946231,2009,Incidence
+MG,31.0,Minas Gerais,20.97206267045475,2009,Incidence
+ES,32.0,Espírito Santo,35.80164035072671,2009,Incidence
+RJ,33.0,Rio de Janeiro,72.07047033503422,2009,Incidence
+SP,35.0,São Paulo,37.43934830352998,2009,Incidence
+Região Sudeste,,,40.22962980300026,2009,Incidence
+PR,41.0,Paraná,22.591719401955864,2009,Incidence
+SC,42.0,Santa Catarina,25.924098387776333,2009,Incidence
+RS,43.0,Rio Grande do Sul,45.64394979055183,2009,Incidence
+Região Sul,,,32.38997501051015,2009,Incidence
+MS,50.0,Mato Grosso do Sul,36.51743992413482,2009,Incidence
+MT,51.0,Mato Grosso,32.20879679849797,2009,Incidence
+GO,52.0,Goiás,14.59579850226185,2009,Incidence
+DF,53.0,Distrito Federal,10.984939029720449,2009,Incidence
+Região Centro-Oeste,,,21.562400951039965,2009,Incidence
+BR,76.0,Brasil***,37.57159289930784,2009,Incidence
+RO,11.0,Rondônia,464.0,2010,Cases
+AC,12.0,Acre,308.0,2010,Cases
+AM,13.0,Amazonas,2312.0,2010,Cases
+RR,14.0,Roraima,129.0,2010,Cases
+PA,15.0,Pará,3592.0,2010,Cases
+AP,16.0,Amapá,192.0,2010,Cases
+TO,17.0,Tocantins,184.0,2010,Cases
+Região Norte,,,7181.0,2010,Cases
+MA,21.0,Maranhão,2107.0,2010,Cases
+PI,22.0,Piauí,768.0,2010,Cases
+CE,23.0,Ceará,3566.0,2010,Cases
+RN,24.0,Rio Grande do Norte,905.0,2010,Cases
+PB,25.0,Paraíba,1028.0,2010,Cases
+PE,26.0,Pernambuco,4102.0,2010,Cases
+AL,27.0,Alagoas,1130.0,2010,Cases
+SE,28.0,Sergipe,505.0,2010,Cases
+BA,29.0,Bahia,5259.0,2010,Cases
+Região Nordeste,,,19370.0,2010,Cases
+MG,31.0,Minas Gerais,3742.0,2010,Cases
+ES,32.0,Espírito Santo,1292.0,2010,Cases
+RJ,33.0,Rio de Janeiro,11280.0,2010,Cases
+SP,35.0,São Paulo,15982.0,2010,Cases
+Região Sudeste,,,32296.0,2010,Cases
+PR,41.0,Paraná,2355.0,2010,Cases
+SC,42.0,Santa Catarina,1702.0,2010,Cases
+RS,43.0,Rio Grande do Sul,4801.0,2010,Cases
+Região Sul,,,8858.0,2010,Cases
+MS,50.0,Mato Grosso do Sul,815.0,2010,Cases
+MT,51.0,Mato Grosso,1164.0,2010,Cases
+GO,52.0,Goiás,883.0,2010,Cases
+DF,53.0,Distrito Federal,290.0,2010,Cases
+Região Centro-Oeste,,,3152.0,2010,Cases
+BR,76.0,Brasil***,70915.0,2010,Cases
+RO,11.0,Rondônia,1598634.0,2010,Population
+AC,12.0,Acre,765325.0,2010,Population
+AM,13.0,Amazonas,3553148.0,2010,Population
+RR,14.0,Roraima,458820.0,2010,Population
+PA,15.0,Pará,7762953.0,2010,Population
+AP,16.0,Amapá,694261.0,2010,Population
+TO,17.0,Tocantins,1412989.0,2010,Population
+Região Norte,,,16246130.0,2010,Population
+MA,21.0,Maranhão,6710964.0,2010,Population
+PI,22.0,Piauí,3192643.0,2010,Population
+CE,23.0,Ceará,8623766.0,2010,Population
+RN,24.0,Rio Grande do Norte,3239939.0,2010,Population
+PB,25.0,Paraíba,3840796.0,2010,Population
+PE,26.0,Pernambuco,9000873.0,2010,Population
+AL,27.0,Alagoas,3195720.0,2010,Population
+SE,28.0,Sergipe,2108297.0,2010,Population
+BA,29.0,Bahia,14302571.0,2010,Population
+Região Nordeste,,,54215569.0,2010,Population
+MG,31.0,Minas Gerais,19957444.0,2010,Population
+ES,32.0,Espírito Santo,3596057.0,2010,Population
+RJ,33.0,Rio de Janeiro,16303188.0,2010,Population
+SP,35.0,São Paulo,42298906.0,2010,Population
+Região Sudeste,,,82155595.0,2010,Population
+PR,41.0,Paraná,10653276.0,2010,Population
+SC,42.0,Santa Catarina,6353055.0,2010,Population
+RS,43.0,Rio Grande do Sul,10914795.0,2010,Population
+Região Sul,,,27921126.0,2010,Population
+MS,50.0,Mato Grosso do Sul,2494745.0,2010,Population
+MT,51.0,Mato Grosso,3106513.0,2010,Population
+GO,52.0,Goiás,6111792.0,2010,Population
+DF,53.0,Distrito Federal,2639212.0,2010,Population
+Região Centro-Oeste,,,14352262.0,2010,Population
+BR,76.0,Brasil***,194890682.0,2010,Population
+RO,11.0,Rondônia,29.024779905844614,2010,Incidence
+AC,12.0,Acre,40.24434063959756,2010,Incidence
+AM,13.0,Amazonas,65.06905988717611,2010,Incidence
+RR,14.0,Roraima,28.115600889237612,2010,Incidence
+PA,15.0,Pará,46.271051750538746,2010,Incidence
+AP,16.0,Amapá,27.655305425481192,2010,Incidence
+TO,17.0,Tocantins,13.022040511284942,2010,Incidence
+Região Norte,,,44.201295939402186,2010,Incidence
+MA,21.0,Maranhão,31.396383589600543,2010,Incidence
+PI,22.0,Piauí,24.055304648844235,2010,Incidence
+CE,23.0,Ceará,41.350843703319406,2010,Incidence
+RN,24.0,Rio Grande do Norte,27.93262465743954,2010,Incidence
+PB,25.0,Paraíba,26.765285112773498,2010,Incidence
+PE,26.0,Pernambuco,45.57335716213305,2010,Incidence
+AL,27.0,Alagoas,35.35979372410599,2010,Incidence
+SE,28.0,Sergipe,23.952981956526997,2010,Incidence
+BA,29.0,Bahia,36.76961295979583,2010,Incidence
+Região Nordeste,,,35.72774455249192,2010,Incidence
+MG,31.0,Minas Gerais,18.749896028770017,2010,Incidence
+ES,32.0,Espírito Santo,35.92824029207546,2010,Incidence
+RJ,33.0,Rio de Janeiro,69.18892182314282,2010,Incidence
+SP,35.0,São Paulo,37.78348310001209,2010,Incidence
+Região Sudeste,,,39.31077366063747,2010,Incidence
+PR,41.0,Paraná,22.105876164289747,2010,Incidence
+SC,42.0,Santa Catarina,26.790260748568993,2010,Incidence
+RS,43.0,Rio Grande do Sul,43.98616739938772,2010,Incidence
+Região Sul,,,31.725081574432206,2010,Incidence
+MS,50.0,Mato Grosso do Sul,32.66866954338019,2010,Incidence
+MT,51.0,Mato Grosso,37.46966454027393,2010,Incidence
+GO,52.0,Goiás,14.447481197004086,2010,Incidence
+DF,53.0,Distrito Federal,10.988128274651677,2010,Incidence
+Região Centro-Oeste,,,21.96169495790977,2010,Incidence
+BR,76.0,Brasil***,36.387065442153876,2010,Incidence
+RO,11.0,Rondônia,562.0,2011,Cases
+AC,12.0,Acre,346.0,2011,Cases
+AM,13.0,Amazonas,2176.0,2011,Cases
+RR,14.0,Roraima,152.0,2011,Cases
+PA,15.0,Pará,3772.0,2011,Cases
+AP,16.0,Amapá,227.0,2011,Cases
+TO,17.0,Tocantins,191.0,2011,Cases
+Região Norte,,,7426.0,2011,Cases
+MA,21.0,Maranhão,2182.0,2011,Cases
+PI,22.0,Piauí,793.0,2011,Cases
+CE,23.0,Ceará,3656.0,2011,Cases
+RN,24.0,Rio Grande do Norte,991.0,2011,Cases
+PB,25.0,Paraíba,1079.0,2011,Cases
+PE,26.0,Pernambuco,4267.0,2011,Cases
+AL,27.0,Alagoas,1098.0,2011,Cases
+SE,28.0,Sergipe,570.0,2011,Cases
+BA,29.0,Bahia,5228.0,2011,Cases
+Região Nordeste,,,19864.0,2011,Cases
+MG,31.0,Minas Gerais,3882.0,2011,Cases
+ES,32.0,Espírito Santo,1252.0,2011,Cases
+RJ,33.0,Rio de Janeiro,11438.0,2011,Cases
+SP,35.0,São Paulo,16548.0,2011,Cases
+Região Sudeste,,,33120.0,2011,Cases
+PR,41.0,Paraná,2331.0,2011,Cases
+SC,42.0,Santa Catarina,1778.0,2011,Cases
+RS,43.0,Rio Grande do Sul,4927.0,2011,Cases
+Região Sul,,,9036.0,2011,Cases
+MS,50.0,Mato Grosso do Sul,909.0,2011,Cases
+MT,51.0,Mato Grosso,1150.0,2011,Cases
+GO,52.0,Goiás,895.0,2011,Cases
+DF,53.0,Distrito Federal,318.0,2011,Cases
+Região Centro-Oeste,,,3272.0,2011,Cases
+BR,76.0,Brasil***,72783.0,2011,Cases
+RO,11.0,Rondônia,1618210.0,2011,Population
+AC,12.0,Acre,778499.0,2011,Population
+AM,13.0,Amazonas,3618040.0,2011,Population
+RR,14.0,Roraima,469543.0,2011,Population
+PA,15.0,Pará,7862943.0,2011,Population
+AP,16.0,Amapá,711453.0,2011,Population
+TO,17.0,Tocantins,1431478.0,2011,Population
+Região Norte,,,16490166.0,2011,Population
+MA,21.0,Maranhão,6757213.0,2011,Population
+PI,22.0,Piauí,3203635.0,2011,Population
+CE,23.0,Ceará,8680836.0,2011,Population
+RN,24.0,Rio Grande do Norte,3271415.0,2011,Population
+PB,25.0,Paraíba,3859813.0,2011,Population
+PE,26.0,Pernambuco,9062229.0,2011,Population
+AL,27.0,Alagoas,3213606.0,2011,Population
+SE,28.0,Sergipe,2130440.0,2011,Population
+BA,29.0,Bahia,14372994.0,2011,Population
+Região Nordeste,,,54552181.0,2011,Population
+MG,31.0,Minas Gerais,20096163.0,2011,Population
+ES,32.0,Espírito Santo,3642595.0,2011,Population
+RJ,33.0,Rio de Janeiro,16405508.0,2011,Population
+SP,35.0,São Paulo,42707383.0,2011,Population
+Região Sudeste,,,82851649.0,2011,Population
+PR,41.0,Paraná,10738066.0,2011,Population
+SC,42.0,Santa Catarina,6441468.0,2011,Population
+RS,43.0,Rio Grande do Sul,10963317.0,2011,Population
+Região Sul,,,28142851.0,2011,Population
+MS,50.0,Mato Grosso do Sul,2525762.0,2011,Population
+MT,51.0,Mato Grosso,3145830.0,2011,Population
+GO,52.0,Goiás,6214241.0,2011,Population
+DF,53.0,Distrito Federal,2681052.0,2011,Population
+Região Centro-Oeste,,,14566885.0,2011,Population
+BR,76.0,Brasil***,196603732.0,2011,Population
+RO,11.0,Rondônia,34.7297322350004,2011,Incidence
+AC,12.0,Acre,44.44450153436292,2011,Incidence
+AM,13.0,Amazonas,60.14306088379343,2011,Incidence
+RR,14.0,Roraima,32.371902040920645,2011,Incidence
+PA,15.0,Pará,47.97185990029433,2011,Incidence
+AP,16.0,Amapá,31.906534936250182,2011,Incidence
+TO,17.0,Tocantins,13.342852632034862,2011,Incidence
+Região Norte,,,45.0329002145885,2011,Incidence
+MA,21.0,Maranhão,32.29141955418603,2011,Incidence
+PI,22.0,Piauí,24.7531319891311,2011,Incidence
+CE,23.0,Ceará,42.11575935773928,2011,Incidence
+RN,24.0,Rio Grande do Norte,30.29270208762875,2011,Incidence
+PB,25.0,Paraíba,27.95472215881961,2011,Incidence
+PE,26.0,Pernambuco,47.08554595122237,2011,Incidence
+AL,27.0,Alagoas,34.16722522922847,2011,Incidence
+SE,28.0,Sergipe,26.755036518277915,2011,Incidence
+BA,29.0,Bahia,36.373771532917914,2011,Incidence
+Região Nordeste,,,36.41284296222731,2011,Incidence
+MG,31.0,Minas Gerais,19.31712038760832,2011,Incidence
+ES,32.0,Espírito Santo,34.37110082235329,2011,Incidence
+RJ,33.0,Rio de Janeiro,69.72048655853875,2011,Incidence
+SP,35.0,São Paulo,38.74739878114283,2011,Incidence
+Região Sudeste,,,39.975064346637204,2011,Incidence
+PR,41.0,Paraná,21.70781963902997,2011,Incidence
+SC,42.0,Santa Catarina,27.602403675683867,2011,Incidence
+RS,43.0,Rio Grande do Sul,44.940778415875414,2011,Incidence
+Região Sul,,,32.10762122146047,2011,Incidence
+MS,50.0,Mato Grosso do Sul,35.989139119204424,2011,Incidence
+MT,51.0,Mato Grosso,36.556330125912716,2011,Incidence
+GO,52.0,Goiás,14.402402481654638,2011,Incidence
+DF,53.0,Distrito Federal,11.861015750533745,2011,Incidence
+Região Centro-Oeste,,,22.461905891341903,2011,Incidence
+BR,76.0,Brasil***,37.020151784300815,2011,Incidence
+RO,11.0,Rondônia,560.0,2012,Cases
+AC,12.0,Acre,350.0,2012,Cases
+AM,13.0,Amazonas,2386.0,2012,Cases
+RR,14.0,Roraima,117.0,2012,Cases
+PA,15.0,Pará,3481.0,2012,Cases
+AP,16.0,Amapá,202.0,2012,Cases
+TO,17.0,Tocantins,188.0,2012,Cases
+Região Norte,,,7284.0,2012,Cases
+MA,21.0,Maranhão,1922.0,2012,Cases
+PI,22.0,Piauí,713.0,2012,Cases
+CE,23.0,Ceará,3432.0,2012,Cases
+RN,24.0,Rio Grande do Norte,959.0,2012,Cases
+PB,25.0,Paraíba,1137.0,2012,Cases
+PE,26.0,Pernambuco,4531.0,2012,Cases
+AL,27.0,Alagoas,1100.0,2012,Cases
+SE,28.0,Sergipe,512.0,2012,Cases
+BA,29.0,Bahia,4957.0,2012,Cases
+Região Nordeste,,,19263.0,2012,Cases
+MG,31.0,Minas Gerais,3597.0,2012,Cases
+ES,32.0,Espírito Santo,1250.0,2012,Cases
+RJ,33.0,Rio de Janeiro,11170.0,2012,Cases
+SP,35.0,São Paulo,16172.0,2012,Cases
+Região Sudeste,,,32189.0,2012,Cases
+PR,41.0,Paraná,2180.0,2012,Cases
+SC,42.0,Santa Catarina,1825.0,2012,Cases
+RS,43.0,Rio Grande do Sul,4801.0,2012,Cases
+Região Sul,,,8806.0,2012,Cases
+MS,50.0,Mato Grosso do Sul,920.0,2012,Cases
+MT,51.0,Mato Grosso,1313.0,2012,Cases
+GO,52.0,Goiás,913.0,2012,Cases
+DF,53.0,Distrito Federal,373.0,2012,Cases
+Região Centro-Oeste,,,3519.0,2012,Cases
+BR,76.0,Brasil***,71128.0,2012,Cases
+RO,11.0,Rondônia,1637884.0,2012,Population
+AC,12.0,Acre,792045.0,2012,Population
+AM,13.0,Amazonas,3684326.0,2012,Population
+RR,14.0,Roraima,480290.0,2012,Population
+PA,15.0,Pará,7960134.0,2012,Population
+AP,16.0,Amapá,728015.0,2012,Population
+TO,17.0,Tocantins,1449779.0,2012,Population
+Região Norte,,,16732473.0,2012,Population
+MA,21.0,Maranhão,6798830.0,2012,Population
+PI,22.0,Piauí,3213393.0,2012,Population
+CE,23.0,Ceará,8737287.0,2012,Population
+RN,24.0,Rio Grande do Norte,3302720.0,2012,Population
+PB,25.0,Paraíba,3875373.0,2012,Population
+PE,26.0,Pernambuco,9126434.0,2012,Population
+AL,27.0,Alagoas,3230877.0,2012,Population
+SE,28.0,Sergipe,2152329.0,2012,Population
+BA,29.0,Bahia,14441531.0,2012,Population
+Região Nordeste,,,54878774.0,2012,Population
+MG,31.0,Minas Gerais,20235204.0,2012,Population
+ES,32.0,Espírito Santo,3689347.0,2012,Population
+RJ,33.0,Rio de Janeiro,16510627.0,2012,Population
+SP,35.0,São Paulo,43119841.0,2012,Population
+Região Sudeste,,,83555019.0,2012,Population
+PR,41.0,Paraná,10822187.0,2012,Population
+SC,42.0,Santa Catarina,6530943.0,2012,Population
+RS,43.0,Rio Grande do Sul,11014448.0,2012,Population
+Região Sul,,,28367578.0,2012,Population
+MS,50.0,Mato Grosso do Sul,2557442.0,2012,Population
+MT,51.0,Mato Grosso,3185148.0,2012,Population
+GO,52.0,Goiás,6316302.0,2012,Population
+DF,53.0,Distrito Federal,2722198.0,2012,Population
+Região Centro-Oeste,,,14781090.0,2012,Population
+BR,76.0,Brasil***,198314934.0,2012,Population
+RO,11.0,Rondônia,34.19045549013239,2012,Incidence
+AC,12.0,Acre,44.18940843007657,2012,Incidence
+AM,13.0,Amazonas,64.76082735349695,2012,Incidence
+RR,14.0,Roraima,24.36028232942597,2012,Incidence
+PA,15.0,Pará,43.73041961353917,2012,Incidence
+AP,16.0,Amapá,27.746681043659812,2012,Incidence
+TO,17.0,Tocantins,12.967493666276033,2012,Incidence
+Região Norte,,,43.532118653351475,2012,Incidence
+MA,21.0,Maranhão,28.26956991129356,2012,Incidence
+PI,22.0,Piauí,22.188384676259645,2012,Incidence
+CE,23.0,Ceará,39.27992751067923,2012,Incidence
+RN,24.0,Rio Grande do Norte,29.036672803022967,2012,Incidence
+PB,25.0,Paraíba,29.339111357797044,2012,Incidence
+PE,26.0,Pernambuco,49.646992461677804,2012,Incidence
+AL,27.0,Alagoas,34.04648335421002,2012,Incidence
+SE,28.0,Sergipe,23.7881847988853,2012,Incidence
+BA,29.0,Bahia,34.324615582655326,2012,Incidence
+Região Nordeste,,,35.10100280301451,2012,Incidence
+MG,31.0,Minas Gerais,17.775951258015485,2012,Incidence
+ES,32.0,Espírito Santo,33.881334555952584,2012,Incidence
+RJ,33.0,Rio de Janeiro,67.65339680921869,2012,Incidence
+SP,35.0,São Paulo,37.50477651343844,2012,Incidence
+Região Sudeste,,,38.524316534474124,2012,Incidence
+PR,41.0,Paraná,20.14380272675015,2012,Incidence
+SC,42.0,Santa Catarina,27.943897228930037,2012,Incidence
+RS,43.0,Rio Grande do Sul,43.588203421542325,2012,Incidence
+Região Sul,,,31.04248096189248,2012,Incidence
+MS,50.0,Mato Grosso do Sul,35.973445341086915,2012,Incidence
+MT,51.0,Mato Grosso,41.222574272843836,2012,Incidence
+GO,52.0,Goiás,14.454660337646931,2012,Incidence
+DF,53.0,Distrito Federal,13.702162737611298,2012,Incidence
+Região Centro-Oeste,,,23.807445864953127,2012,Incidence
+BR,76.0,Brasil***,35.86618443974572,2012,Incidence
+RO,11.0,Rondônia,563.0,2013,Cases
+AC,12.0,Acre,351.0,2013,Cases
+AM,13.0,Amazonas,2621.0,2013,Cases
+RR,14.0,Roraima,153.0,2013,Cases
+PA,15.0,Pará,3591.0,2013,Cases
+AP,16.0,Amapá,184.0,2013,Cases
+TO,17.0,Tocantins,189.0,2013,Cases
+Região Norte,,,7652.0,2013,Cases
+MA,21.0,Maranhão,1972.0,2013,Cases
+PI,22.0,Piauí,719.0,2013,Cases
+CE,23.0,Ceará,3311.0,2013,Cases
+RN,24.0,Rio Grande do Norte,1024.0,2013,Cases
+PB,25.0,Paraíba,1121.0,2013,Cases
+PE,26.0,Pernambuco,4390.0,2013,Cases
+AL,27.0,Alagoas,1079.0,2013,Cases
+SE,28.0,Sergipe,615.0,2013,Cases
+BA,29.0,Bahia,4774.0,2013,Cases
+Região Nordeste,,,19005.0,2013,Cases
+MG,31.0,Minas Gerais,3589.0,2013,Cases
+ES,32.0,Espírito Santo,1185.0,2013,Cases
+RJ,33.0,Rio de Janeiro,10654.0,2013,Cases
+SP,35.0,São Paulo,16441.0,2013,Cases
+Região Sudeste,,,31869.0,2013,Cases
+PR,41.0,Paraná,2285.0,2013,Cases
+SC,42.0,Santa Catarina,1850.0,2013,Cases
+RS,43.0,Rio Grande do Sul,4693.0,2013,Cases
+Região Sul,,,8828.0,2013,Cases
+MS,50.0,Mato Grosso do Sul,912.0,2013,Cases
+MT,51.0,Mato Grosso,1624.0,2013,Cases
+GO,52.0,Goiás,931.0,2013,Cases
+DF,53.0,Distrito Federal,321.0,2013,Cases
+Região Centro-Oeste,,,3788.0,2013,Cases
+BR,76.0,Brasil***,71192.0,2013,Cases
+RO,11.0,Rondônia,1657620.0,2013,Population
+AC,12.0,Acre,805014.0,2013,Population
+AM,13.0,Amazonas,3751293.0,2013,Population
+RR,14.0,Roraima,491066.0,2013,Population
+PA,15.0,Pará,8054419.0,2013,Population
+AP,16.0,Amapá,744809.0,2013,Population
+TO,17.0,Tocantins,1467474.0,2013,Population
+Região Norte,,,16971695.0,2013,Population
+MA,21.0,Maranhão,6836179.0,2013,Population
+PI,22.0,Piauí,3221407.0,2013,Population
+CE,23.0,Ceará,8791846.0,2013,Population
+RN,24.0,Rio Grande do Norte,3332952.0,2013,Population
+PB,25.0,Paraíba,3890494.0,2013,Population
+PE,26.0,Pernambuco,9189504.0,2013,Population
+AL,27.0,Alagoas,3247527.0,2013,Population
+SE,28.0,Sergipe,2173632.0,2013,Population
+BA,29.0,Bahia,14505033.0,2013,Population
+Região Nordeste,,,55188574.0,2013,Population
+MG,31.0,Minas Gerais,20371328.0,2013,Population
+ES,32.0,Espírito Santo,3736386.0,2013,Population
+RJ,33.0,Rio de Janeiro,16616344.0,2013,Population
+SP,35.0,São Paulo,43528708.0,2013,Population
+Região Sudeste,,,84252766.0,2013,Population
+PR,41.0,Paraná,10908262.0,2013,Population
+SC,42.0,Santa Catarina,6620186.0,2013,Population
+RS,43.0,Rio Grande do Sul,11066527.0,2013,Population
+Região Sul,,,28594975.0,2013,Population
+MS,50.0,Mato Grosso do Sul,2589069.0,2013,Population
+MT,51.0,Mato Grosso,3226030.0,2013,Population
+GO,52.0,Goiás,6417591.0,2013,Population
+DF,53.0,Distrito Federal,2763488.0,2013,Population
+Região Centro-Oeste,,,14996178.0,2013,Population
+BR,76.0,Brasil***,200004188.0,2013,Population
+RO,11.0,Rondônia,33.96435853814505,2013,Incidence
+AC,12.0,Acre,43.601726181159584,2013,Incidence
+AM,13.0,Amazonas,69.86924241854742,2013,Incidence
+RR,14.0,Roraima,31.156708059609095,2013,Incidence
+PA,15.0,Pará,44.58422140690719,2013,Incidence
+AP,16.0,Amapá,24.704320167989376,2013,Incidence
+TO,17.0,Tocantins,12.879274181348357,2013,Incidence
+Região Norte,,,45.08683428496683,2013,Incidence
+MA,21.0,Maranhão,28.846523767151208,2013,Incidence
+PI,22.0,Piauí,22.319439921748476,2013,Incidence
+CE,23.0,Ceará,37.65989531663771,2013,Incidence
+RN,24.0,Rio Grande do Norte,30.723514770089697,2013,Incidence
+PB,25.0,Paraíba,28.813821586667398,2013,Incidence
+PE,26.0,Pernambuco,47.77189280291951,2013,Incidence
+AL,27.0,Alagoas,33.2252818837226,2013,Incidence
+SE,28.0,Sergipe,28.293657804080915,2013,Incidence
+BA,29.0,Bahia,32.91271381457733,2013,Incidence
+Região Nordeste,,,34.43647592706418,2013,Incidence
+MG,31.0,Minas Gerais,17.617899039277166,2013,Incidence
+ES,32.0,Espírito Santo,31.715138639316173,2013,Incidence
+RJ,33.0,Rio de Janeiro,64.11759409891852,2013,Incidence
+SP,35.0,São Paulo,37.77047552157992,2013,Incidence
+Região Sudeste,,,37.82546438890802,2013,Incidence
+PR,41.0,Paraná,20.947424988508708,2013,Incidence
+SC,42.0,Santa Catarina,27.94483417837505,2013,Incidence
+RS,43.0,Rio Grande do Sul,42.407161704842,2013,Incidence
+Região Sul,,,30.872557153835597,2013,Incidence
+MS,50.0,Mato Grosso do Sul,35.225017177989464,2013,Incidence
+MT,51.0,Mato Grosso,50.340511402559805,2013,Incidence
+GO,52.0,Goiás,14.507001147315247,2013,Incidence
+DF,53.0,Distrito Federal,11.615755161592885,2013,Incidence
+Região Centro-Oeste,,,25.25976952260769,2013,Incidence
+BR,76.0,Brasil***,35.59525463536794,2013,Incidence
+RO,11.0,Rondônia,563.0,2014,Cases
+AC,12.0,Acre,393.0,2014,Cases
+AM,13.0,Amazonas,2668.0,2014,Cases
+RR,14.0,Roraima,128.0,2014,Cases
+PA,15.0,Pará,3470.0,2014,Cases
+AP,16.0,Amapá,165.0,2014,Cases
+TO,17.0,Tocantins,167.0,2014,Cases
+Região Norte,,,7554.0,2014,Cases
+MA,21.0,Maranhão,1810.0,2014,Cases
+PI,22.0,Piauí,640.0,2014,Cases
+CE,23.0,Ceará,3206.0,2014,Cases
+RN,24.0,Rio Grande do Norte,960.0,2014,Cases
+PB,25.0,Paraíba,1032.0,2014,Cases
+PE,26.0,Pernambuco,4350.0,2014,Cases
+AL,27.0,Alagoas,1067.0,2014,Cases
+SE,28.0,Sergipe,643.0,2014,Cases
+BA,29.0,Bahia,4687.0,2014,Cases
+Região Nordeste,,,18395.0,2014,Cases
+MG,31.0,Minas Gerais,3584.0,2014,Cases
+ES,32.0,Espírito Santo,1124.0,2014,Cases
+RJ,33.0,Rio de Janeiro,10465.0,2014,Cases
+SP,35.0,São Paulo,16672.0,2014,Cases
+Região Sudeste,,,31845.0,2014,Cases
+PR,41.0,Paraná,2200.0,2014,Cases
+SC,42.0,Santa Catarina,1840.0,2014,Cases
+RS,43.0,Rio Grande do Sul,4650.0,2014,Cases
+Região Sul,,,8690.0,2014,Cases
+MS,50.0,Mato Grosso do Sul,830.0,2014,Cases
+MT,51.0,Mato Grosso,1488.0,2014,Cases
+GO,52.0,Goiás,864.0,2014,Cases
+DF,53.0,Distrito Federal,372.0,2014,Cases
+Região Centro-Oeste,,,3554.0,2014,Cases
+BR,76.0,Brasil***,70039.0,2014,Cases
+RO,11.0,Rondônia,1677766.0,2014,Population
+AC,12.0,Acre,818273.0,2014,Population
+AM,13.0,Amazonas,3819636.0,2014,Population
+RR,14.0,Roraima,501970.0,2014,Population
+PA,15.0,Pará,8149418.0,2014,Population
+AP,16.0,Amapá,762156.0,2014,Population
+TO,17.0,Tocantins,1485318.0,2014,Population
+Região Norte,,,17214537.0,2014,Population
+MA,21.0,Maranhão,6875302.0,2014,Population
+PI,22.0,Piauí,3229320.0,2014,Population
+CE,23.0,Ceará,8846267.0,2014,Population
+RN,24.0,Rio Grande do Norte,3363084.0,2014,Population
+PB,25.0,Paraíba,3910059.0,2014,Population
+PE,26.0,Pernambuco,9252020.0,2014,Population
+AL,27.0,Alagoas,3263946.0,2014,Population
+SE,28.0,Sergipe,2195015.0,2014,Population
+BA,29.0,Bahia,14565807.0,2014,Population
+Região Nordeste,,,55500820.0,2014,Population
+MG,31.0,Minas Gerais,20508631.0,2014,Population
+ES,32.0,Espírito Santo,3784361.0,2014,Population
+RJ,33.0,Rio de Janeiro,16726184.0,2014,Population
+SP,35.0,São Paulo,43937755.0,2014,Population
+Região Sudeste,,,84956931.0,2014,Population
+PR,41.0,Paraná,10997989.0,2014,Population
+SC,42.0,Santa Catarina,6710154.0,2014,Population
+RS,43.0,Rio Grande do Sul,11119817.0,2014,Population
+Região Sul,,,28827960.0,2014,Population
+MS,50.0,Mato Grosso do Sul,2621214.0,2014,Population
+MT,51.0,Mato Grosso,3269448.0,2014,Population
+GO,52.0,Goiás,6520857.0,2014,Population
+DF,53.0,Distrito Federal,2805774.0,2014,Population
+Região Centro-Oeste,,,15217293.0,2014,Population
+BR,76.0,Brasil***,201717541.0,2014,Population
+RO,11.0,Rondônia,33.556526953103116,2014,Incidence
+AC,12.0,Acre,48.02798088168618,2014,Incidence
+AM,13.0,Amazonas,69.84958776176579,2014,Incidence
+RR,14.0,Roraima,25.499531844532545,2014,Incidence
+PA,15.0,Pará,42.579727779333446,2014,Incidence
+AP,16.0,Amapá,21.64911120557996,2014,Incidence
+TO,17.0,Tocantins,11.24338357173346,2014,Incidence
+Região Norte,,,43.88151711544725,2014,Incidence
+MA,21.0,Maranhão,26.326116292782487,2014,Incidence
+PI,22.0,Piauí,19.818413783706788,2014,Incidence
+CE,23.0,Ceará,36.241275557249175,2014,Incidence
+RN,24.0,Rio Grande do Norte,28.54522812989506,2014,Incidence
+PB,25.0,Paraíba,26.39346362804244,2014,Incidence
+PE,26.0,Pernambuco,47.01675958331262,2014,Incidence
+AL,27.0,Alagoas,32.690491815734696,2014,Incidence
+SE,28.0,Sergipe,29.29364947392159,2014,Incidence
+BA,29.0,Bahia,32.178100396359774,2014,Incidence
+Região Nordeste,,,33.143654454114376,2014,Incidence
+MG,31.0,Minas Gerais,17.475569188406578,2014,Incidence
+ES,32.0,Espírito Santo,29.701183370191163,2014,Incidence
+RJ,33.0,Rio de Janeiro,62.566572267768905,2014,Incidence
+SP,35.0,São Paulo,37.94458774691606,2014,Incidence
+Região Sudeste,,,37.48369865196755,2014,Incidence
+PR,41.0,Paraná,20.00365703220834,2014,Incidence
+SC,42.0,Santa Catarina,27.421129231907347,2014,Incidence
+RS,43.0,Rio Grande do Sul,41.817234941905966,2014,Incidence
+Região Sul,,,30.14434597522683,2014,Incidence
+MS,50.0,Mato Grosso do Sul,31.664717188295196,2014,Incidence
+MT,51.0,Mato Grosso,45.51226996116776,2014,Incidence
+GO,52.0,Goiás,13.249792166888493,2014,Incidence
+DF,53.0,Distrito Federal,13.258373625245655,2014,Incidence
+Região Centro-Oeste,,,23.355008016208927,2014,Incidence
+BR,76.0,Brasil***,34.721323516431326,2014,Incidence
+RO,11.0,Rondônia,521.0,2015,Cases
+AC,12.0,Acre,298.0,2015,Cases
+AM,13.0,Amazonas,2861.0,2015,Cases
+RR,14.0,Roraima,152.0,2015,Cases
+PA,15.0,Pará,3447.0,2015,Cases
+AP,16.0,Amapá,181.0,2015,Cases
+TO,17.0,Tocantins,158.0,2015,Cases
+Região Norte,,,7618.0,2015,Cases
+MA,21.0,Maranhão,1940.0,2015,Cases
+PI,22.0,Piauí,574.0,2015,Cases
+CE,23.0,Ceará,3290.0,2015,Cases
+RN,24.0,Rio Grande do Norte,899.0,2015,Cases
+PB,25.0,Paraíba,998.0,2015,Cases
+PE,26.0,Pernambuco,4456.0,2015,Cases
+AL,27.0,Alagoas,888.0,2015,Cases
+SE,28.0,Sergipe,620.0,2015,Cases
+BA,29.0,Bahia,4335.0,2015,Cases
+Região Nordeste,,,18000.0,2015,Cases
+MG,31.0,Minas Gerais,3393.0,2015,Cases
+ES,32.0,Espírito Santo,1178.0,2015,Cases
+RJ,33.0,Rio de Janeiro,10672.0,2015,Cases
+SP,35.0,São Paulo,16946.0,2015,Cases
+Região Sudeste,,,32189.0,2015,Cases
+PR,41.0,Paraná,2136.0,2015,Cases
+SC,42.0,Santa Catarina,1768.0,2015,Cases
+RS,43.0,Rio Grande do Sul,4694.0,2015,Cases
+Região Sul,,,8598.0,2015,Cases
+MS,50.0,Mato Grosso do Sul,839.0,2015,Cases
+MT,51.0,Mato Grosso,1194.0,2015,Cases
+GO,52.0,Goiás,967.0,2015,Cases
+DF,53.0,Distrito Federal,352.0,2015,Cases
+Região Centro-Oeste,,,3352.0,2015,Cases
+BR,76.0,Brasil***,69809.0,2015,Cases
+RO,11.0,Rondônia,1698263.0,2015,Population
+AC,12.0,Acre,831665.0,2015,Population
+AM,13.0,Amazonas,3887740.0,2015,Population
+RR,14.0,Roraima,513328.0,2015,Population
+PA,15.0,Pará,8244575.0,2015,Population
+AP,16.0,Amapá,779416.0,2015,Population
+TO,17.0,Tocantins,1503482.0,2015,Population
+Região Norte,,,17458469.0,2015,Population
+MA,21.0,Maranhão,6916244.0,2015,Population
+PI,22.0,Piauí,3238459.0,2015,Population
+CE,23.0,Ceará,8904499.0,2015,Population
+RN,24.0,Rio Grande do Norte,3393814.0,2015,Population
+PB,25.0,Paraíba,3932537.0,2015,Population
+PE,26.0,Pernambuco,9317317.0,2015,Population
+AL,27.0,Alagoas,3279649.0,2015,Population
+SE,28.0,Sergipe,2216657.0,2015,Population
+BA,29.0,Bahia,14629018.0,2015,Population
+Região Nordeste,,,55828194.0,2015,Population
+MG,31.0,Minas Gerais,20648978.0,2015,Population
+ES,32.0,Espírito Santo,3832826.0,2015,Population
+RJ,33.0,Rio de Janeiro,16841138.0,2015,Population
+SP,35.0,São Paulo,44356304.0,2015,Population
+Região Sudeste,,,85679246.0,2015,Population
+PR,41.0,Paraná,11089062.0,2015,Population
+SC,42.0,Santa Catarina,6802306.0,2015,Population
+RS,43.0,Rio Grande do Sul,11175777.0,2015,Population
+Região Sul,,,29067145.0,2015,Population
+MS,50.0,Mato Grosso do Sul,2653928.0,2015,Population
+MT,51.0,Mato Grosso,3314540.0,2015,Population
+GO,52.0,Goiás,6625528.0,2015,Population
+DF,53.0,Distrito Federal,2848633.0,2015,Population
+Região Centro-Oeste,,,15442629.0,2015,Population
+BR,76.0,Brasil***,203475683.0,2015,Population
+RO,11.0,Rondônia,30.678404934924686,2015,Incidence
+AC,12.0,Acre,35.83173513373774,2015,Incidence
+AM,13.0,Amazonas,73.59031210934887,2015,Incidence
+RR,14.0,Roraima,29.61069725399744,2015,Incidence
+PA,15.0,Pará,41.80931097115376,2015,Incidence
+AP,16.0,Amapá,23.22251531916204,2015,Incidence
+TO,17.0,Tocantins,10.508938583900573,2015,Incidence
+Região Norte,,,43.63498311335319,2015,Incidence
+MA,21.0,Maranhão,28.049906856958774,2015,Incidence
+PI,22.0,Piauí,17.724479451492208,2015,Incidence
+CE,23.0,Ceará,36.94761490792463,2015,Incidence
+RN,24.0,Rio Grande do Norte,26.48937154481654,2015,Incidence
+PB,25.0,Paraíba,25.378019329506625,2015,Incidence
+PE,26.0,Pernambuco,47.8249264246349,2015,Incidence
+AL,27.0,Alagoas,27.0760682012008,2015,Incidence
+SE,28.0,Sergipe,27.9700467866702,2015,Incidence
+BA,29.0,Bahia,29.632884449250117,2015,Incidence
+Região Nordeste,,,32.24177375324017,2015,Incidence
+MG,31.0,Minas Gerais,16.431805971220463,2015,Incidence
+ES,32.0,Espírito Santo,30.734502427190797,2015,Incidence
+RJ,33.0,Rio de Janeiro,63.36863934016811,2015,Incidence
+SP,35.0,São Paulo,38.204265170515555,2015,Incidence
+Região Sudeste,,,37.56919149358527,2015,Incidence
+PR,41.0,Paraná,19.262224343231196,2015,Incidence
+SC,42.0,Santa Catarina,25.99118593018309,2015,Incidence
+RS,43.0,Rio Grande do Sul,42.001553896431545,2015,Incidence
+Região Sul,,,29.57978845187582,2015,Incidence
+MS,50.0,Mato Grosso do Sul,31.61351777440835,2015,Incidence
+MT,51.0,Mato Grosso,36.02309822780838,2015,Incidence
+GO,52.0,Goiás,14.595063216093871,2015,Incidence
+DF,53.0,Distrito Federal,12.356804123240867,2015,Incidence
+Região Centro-Oeste,,,21.706148609799534,2015,Incidence
+BR,76.0,Brasil***,34.30827653248374,2015,Incidence
+RO,11.0,Rondônia,605.0,2016,Cases
+AC,12.0,Acre,379.0,2016,Cases
+AM,13.0,Amazonas,2796.0,2016,Cases
+RR,14.0,Roraima,142.0,2016,Cases
+PA,15.0,Pará,3629.0,2016,Cases
+AP,16.0,Amapá,232.0,2016,Cases
+TO,17.0,Tocantins,175.0,2016,Cases
+Região Norte,,,7958.0,2016,Cases
+MA,21.0,Maranhão,2080.0,2016,Cases
+PI,22.0,Piauí,636.0,2016,Cases
+CE,23.0,Ceará,3312.0,2016,Cases
+RN,24.0,Rio Grande do Norte,964.0,2016,Cases
+PB,25.0,Paraíba,982.0,2016,Cases
+PE,26.0,Pernambuco,4405.0,2016,Cases
+AL,27.0,Alagoas,1030.0,2016,Cases
+SE,28.0,Sergipe,659.0,2016,Cases
+BA,29.0,Bahia,4282.0,2016,Cases
+Região Nordeste,,,18350.0,2016,Cases
+MG,31.0,Minas Gerais,3393.0,2016,Cases
+ES,32.0,Espírito Santo,1052.0,2016,Cases
+RJ,33.0,Rio de Janeiro,10890.0,2016,Cases
+SP,35.0,São Paulo,17093.0,2016,Cases
+Região Sudeste,,,32428.0,2016,Cases
+PR,41.0,Paraná,2130.0,2016,Cases
+SC,42.0,Santa Catarina,1789.0,2016,Cases
+RS,43.0,Rio Grande do Sul,4430.0,2016,Cases
+Região Sul,,,8349.0,2016,Cases
+MS,50.0,Mato Grosso do Sul,930.0,2016,Cases
+MT,51.0,Mato Grosso,1186.0,2016,Cases
+GO,52.0,Goiás,916.0,2016,Cases
+DF,53.0,Distrito Federal,343.0,2016,Cases
+Região Centro-Oeste,,,3375.0,2016,Cases
+BR,76.0,Brasil***,70519.0,2016,Cases
+RO,11.0,Rondônia,1717911.0,2016,Population
+AC,12.0,Acre,844137.0,2016,Population
+AM,13.0,Amazonas,3952171.0,2016,Population
+RR,14.0,Roraima,525967.0,2016,Population
+PA,15.0,Pará,8334346.0,2016,Population
+AP,16.0,Amapá,796419.0,2016,Population
+TO,17.0,Tocantins,1520448.0,2016,Population
+Região Norte,,,17691399.0,2016,Population
+MA,21.0,Maranhão,6955099.0,2016,Population
+PI,22.0,Piauí,3246999.0,2016,Population
+CE,23.0,Ceará,8962063.0,2016,Population
+RN,24.0,Rio Grande do Norte,3422843.0,2016,Population
+PB,25.0,Paraíba,3953693.0,2016,Population
+PE,26.0,Pernambuco,9376936.0,2016,Population
+AL,27.0,Alagoas,3294061.0,2016,Population
+SE,28.0,Sergipe,2237132.0,2016,Population
+BA,29.0,Bahia,14689684.0,2016,Population
+Região Nordeste,,,56138510.0,2016,Population
+MG,31.0,Minas Gerais,20780264.0,2016,Population
+ES,32.0,Espírito Santo,3879376.0,2016,Population
+RJ,33.0,Rio de Janeiro,16947738.0,2016,Population
+SP,35.0,São Paulo,44760305.0,2016,Population
+Região Sudeste,,,86367683.0,2016,Population
+PR,41.0,Paraná,11176203.0,2016,Population
+SC,42.0,Santa Catarina,6894058.0,2016,Population
+RS,43.0,Rio Grande do Sul,11229947.0,2016,Population
+Região Sul,,,29300208.0,2016,Population
+MS,50.0,Mato Grosso do Sul,2685454.0,2016,Population
+MT,51.0,Mato Grosso,3356979.0,2016,Population
+GO,52.0,Goiás,6726130.0,2016,Population
+DF,53.0,Distrito Federal,2890224.0,2016,Population
+Região Centro-Oeste,,,15658787.0,2016,Population
+BR,76.0,Brasil***,205156587.0,2016,Population
+RO,11.0,Rondônia,35.217191111763064,2016,Incidence
+AC,12.0,Acre,44.897925336764054,2016,Incidence
+AM,13.0,Amazonas,70.74592673242125,2016,Incidence
+RR,14.0,Roraima,26.99789150269884,2016,Incidence
+PA,15.0,Pará,43.54270869003999,2016,Incidence
+AP,16.0,Amapá,29.13039493030679,2016,Incidence
+TO,17.0,Tocantins,11.50976554278739,2016,Incidence
+Região Norte,,,44.98231033057363,2016,Incidence
+MA,21.0,Maranhão,29.906116361535616,2016,Incidence
+PI,22.0,Piauí,19.587317396771606,2016,Incidence
+CE,23.0,Ceará,36.95577681165598,2016,Incidence
+RN,24.0,Rio Grande do Norte,28.163722379320347,2016,Incidence
+PB,25.0,Paraíba,24.83753796766719,2016,Incidence
+PE,26.0,Pernambuco,46.97696561008841,2016,Incidence
+AL,27.0,Alagoas,31.26839484757568,2016,Incidence
+SE,28.0,Sergipe,29.457358796888162,2016,Incidence
+BA,29.0,Bahia,29.14970805362457,2016,Incidence
+Região Nordeste,,,32.687009327465226,2016,Incidence
+MG,31.0,Minas Gerais,16.32799275312383,2016,Incidence
+ES,32.0,Espírito Santo,27.11776326914432,2016,Incidence
+RJ,33.0,Rio de Janeiro,64.25636270751885,2016,Incidence
+SP,35.0,São Paulo,38.18785417123498,2016,Incidence
+Região Sudeste,,,37.54645125770017,2016,Incidence
+PR,41.0,Paraná,19.0583510338887,2016,Incidence
+SC,42.0,Santa Catarina,25.9498832182729,2016,Incidence
+RS,43.0,Rio Grande do Sul,39.448093566247465,2016,Incidence
+Região Sul,,,28.494678263034857,2016,Incidence
+MS,50.0,Mato Grosso do Sul,34.63101583568365,2016,Incidence
+MT,51.0,Mato Grosso,35.32938394908041,2016,Incidence
+GO,52.0,Goiás,13.618529525893791,2016,Incidence
+DF,53.0,Distrito Federal,11.867592269664911,2016,Incidence
+Região Centro-Oeste,,,21.55339363132023,2016,Incidence
+BR,76.0,Brasil***,34.37325656036577,2016,Incidence
+RO,11.0,Rondônia,597.0,2017,Cases
+AC,12.0,Acre,421.0,2017,Cases
+AM,13.0,Amazonas,3040.0,2017,Cases
+RR,14.0,Roraima,196.0,2017,Cases
+PA,15.0,Pará,3843.0,2017,Cases
+AP,16.0,Amapá,253.0,2017,Cases
+TO,17.0,Tocantins,160.0,2017,Cases
+Região Norte,,,8510.0,2017,Cases
+MA,21.0,Maranhão,2123.0,2017,Cases
+PI,22.0,Piauí,660.0,2017,Cases
+CE,23.0,Ceará,3414.0,2017,Cases
+RN,24.0,Rio Grande do Norte,1108.0,2017,Cases
+PB,25.0,Paraíba,1074.0,2017,Cases
+PE,26.0,Pernambuco,4776.0,2017,Cases
+AL,27.0,Alagoas,1020.0,2017,Cases
+SE,28.0,Sergipe,683.0,2017,Cases
+BA,29.0,Bahia,4399.0,2017,Cases
+Região Nordeste,,,19257.0,2017,Cases
+MG,31.0,Minas Gerais,3450.0,2017,Cases
+ES,32.0,Espírito Santo,1139.0,2017,Cases
+RJ,33.0,Rio de Janeiro,11364.0,2017,Cases
+SP,35.0,São Paulo,18354.0,2017,Cases
+Região Sudeste,,,34307.0,2017,Cases
+PR,41.0,Paraná,2035.0,2017,Cases
+SC,42.0,Santa Catarina,1787.0,2017,Cases
+RS,43.0,Rio Grande do Sul,4733.0,2017,Cases
+Região Sul,,,8555.0,2017,Cases
+MS,50.0,Mato Grosso do Sul,904.0,2017,Cases
+MT,51.0,Mato Grosso,1189.0,2017,Cases
+GO,52.0,Goiás,1008.0,2017,Cases
+DF,53.0,Distrito Federal,309.0,2017,Cases
+Região Centro-Oeste,,,3410.0,2017,Cases
+BR,76.0,Brasil***,74097.0,2017,Cases
+RO,11.0,Rondônia,1737578.0,2017,Population
+AC,12.0,Acre,856457.0,2017,Population
+AM,13.0,Amazonas,4015812.0,2017,Population
+RR,14.0,Roraima,546885.0,2017,Population
+PA,15.0,Pará,8422634.0,2017,Population
+AP,16.0,Amapá,813084.0,2017,Population
+TO,17.0,Tocantins,1537350.0,2017,Population
+Região Norte,,,17929800.0,2017,Population
+MA,21.0,Maranhão,6994148.0,2017,Population
+PI,22.0,Piauí,3255400.0,2017,Population
+CE,23.0,Ceará,9017990.0,2017,Population
+RN,24.0,Rio Grande do Norte,3450669.0,2017,Population
+PB,25.0,Paraíba,3974437.0,2017,Population
+PE,26.0,Pernambuco,9434403.0,2017,Population
+AL,27.0,Alagoas,3307968.0,2017,Population
+SE,28.0,Sergipe,2257266.0,2017,Population
+BA,29.0,Bahia,14749868.0,2017,Population
+Região Nordeste,,,56442149.0,2017,Population
+MG,31.0,Minas Gerais,20908628.0,2017,Population
+ES,32.0,Espírito Santo,3925341.0,2017,Population
+RJ,33.0,Rio de Janeiro,17051465.0,2017,Population
+SP,35.0,São Paulo,45149603.0,2017,Population
+Região Sudeste,,,87035037.0,2017,Population
+PR,41.0,Paraná,11261927.0,2017,Population
+SC,42.0,Santa Catarina,6984749.0,2017,Population
+RS,43.0,Rio Grande do Sul,11280193.0,2017,Population
+Região Sul,,,29526869.0,2017,Population
+MS,50.0,Mato Grosso do Sul,2716534.0,2017,Population
+MT,51.0,Mato Grosso,3398791.0,2017,Population
+GO,52.0,Goiás,6824504.0,2017,Population
+DF,53.0,Distrito Federal,2931057.0,2017,Population
+Região Centro-Oeste,,,15870886.0,2017,Population
+BR,76.0,Brasil***,206804741.0,2017,Population
+RO,11.0,Rondônia,34.35816982029008,2017,Incidence
+AC,12.0,Acre,49.15599965906052,2017,Incidence
+AM,13.0,Amazonas,75.70075491581777,2017,Incidence
+RR,14.0,Roraima,35.83934465198351,2017,Incidence
+PA,15.0,Pará,45.627056809069465,2017,Incidence
+AP,16.0,Amapá,31.116096245898333,2017,Incidence
+TO,17.0,Tocantins,10.407519432790192,2017,Incidence
+Região Norte,,,47.46288302156187,2017,Incidence
+MA,21.0,Maranhão,30.353947328538084,2017,Incidence
+PI,22.0,Piauí,20.274006266511027,2017,Incidence
+CE,23.0,Ceará,37.8576600772456,2017,Incidence
+RN,24.0,Rio Grande do Norte,32.109715536320635,2017,Incidence
+PB,25.0,Paraíba,27.022695289924084,2017,Incidence
+PE,26.0,Pernambuco,50.62323498370803,2017,Incidence
+AL,27.0,Alagoas,30.834639270996576,2017,Incidence
+SE,28.0,Sergipe,30.25784289490029,2017,Incidence
+BA,29.0,Bahia,29.82399571304638,2017,Incidence
+Região Nordeste,,,34.11811977605601,2017,Incidence
+MG,31.0,Minas Gerais,16.50036530373968,2017,Incidence
+ES,32.0,Espírito Santo,29.016587348716964,2017,Incidence
+RJ,33.0,Rio de Janeiro,66.64529997862354,2017,Incidence
+SP,35.0,São Paulo,40.651520235958664,2017,Incidence
+Região Sudeste,,,39.41745897114975,2017,Incidence
+PR,41.0,Paraná,18.069731760825658,2017,Incidence
+SC,42.0,Santa Catarina,25.584312335346624,2017,Incidence
+RS,43.0,Rio Grande do Sul,41.95850195116343,2017,Incidence
+Região Sul,,,28.97361044274623,2017,Incidence
+MS,50.0,Mato Grosso do Sul,33.27769871461208,2017,Incidence
+MT,51.0,Mato Grosso,34.983027788410645,2017,Incidence
+GO,52.0,Goiás,14.770304186208993,2017,Incidence
+DF,53.0,Distrito Federal,10.542271951722535,2017,Incidence
+Região Centro-Oeste,,,21.485883018755224,2017,Incidence
+BR,76.0,Brasil***,35.829449383851404,2017,Incidence
+RO,11.0,Rondônia,545.0,2018,Cases
+AC,12.0,Acre,429.0,2018,Cases
+AM,13.0,Amazonas,3117.0,2018,Cases
+RR,14.0,Roraima,235.0,2018,Cases
+PA,15.0,Pará,4027.0,2018,Cases
+AP,16.0,Amapá,224.0,2018,Cases
+TO,17.0,Tocantins,198.0,2018,Cases
+Região Norte,,,8775.0,2018,Cases
+MA,21.0,Maranhão,2284.0,2018,Cases
+PI,22.0,Piauí,721.0,2018,Cases
+CE,23.0,Ceará,3693.0,2018,Cases
+RN,24.0,Rio Grande do Norte,1315.0,2018,Cases
+PB,25.0,Paraíba,1238.0,2018,Cases
+PE,26.0,Pernambuco,4721.0,2018,Cases
+AL,27.0,Alagoas,1092.0,2018,Cases
+SE,28.0,Sergipe,805.0,2018,Cases
+BA,29.0,Bahia,4540.0,2018,Cases
+Região Nordeste,,,20409.0,2018,Cases
+MG,31.0,Minas Gerais,3586.0,2018,Cases
+ES,32.0,Espírito Santo,1240.0,2018,Cases
+RJ,33.0,Rio de Janeiro,12023.0,2018,Cases
+SP,35.0,São Paulo,18606.0,2018,Cases
+Região Sudeste,,,35455.0,2018,Cases
+PR,41.0,Paraná,2320.0,2018,Cases
+SC,42.0,Santa Catarina,1798.0,2018,Cases
+RS,43.0,Rio Grande do Sul,4985.0,2018,Cases
+Região Sul,,,9103.0,2018,Cases
+MS,50.0,Mato Grosso do Sul,1168.0,2018,Cases
+MT,51.0,Mato Grosso,1171.0,2018,Cases
+GO,52.0,Goiás,1035.0,2018,Cases
+DF,53.0,Distrito Federal,366.0,2018,Cases
+Região Centro-Oeste,,,3740.0,2018,Cases
+BR,76.0,Brasil***,77482.0,2018,Cases
+RO,11.0,Rondônia,1757589.0,2018,Population
+AC,12.0,Acre,869265.0,2018,Population
+AM,13.0,Amazonas,4080611.0,2018,Population
+RR,14.0,Roraima,576568.0,2018,Population
+PA,15.0,Pará,8513497.0,2018,Population
+AP,16.0,Amapá,829494.0,2018,Population
+TO,17.0,Tocantins,1555229.0,2018,Population
+Região Norte,,,18182253.0,2018,Population
+MA,21.0,Maranhão,7035055.0,2018,Population
+PI,22.0,Piauí,3264531.0,2018,Population
+CE,23.0,Ceará,9075649.0,2018,Population
+RN,24.0,Rio Grande do Norte,3479010.0,2018,Population
+PB,25.0,Paraíba,3996496.0,2018,Population
+PE,26.0,Pernambuco,9496294.0,2018,Population
+AL,27.0,Alagoas,3322820.0,2018,Population
+SE,28.0,Sergipe,2278308.0,2018,Population
+BA,29.0,Bahia,14812617.0,2018,Population
+Região Nordeste,,,56760780.0,2018,Population
+MG,31.0,Minas Gerais,21040662.0,2018,Population
+ES,32.0,Espírito Santo,3972388.0,2018,Population
+RJ,33.0,Rio de Janeiro,17159960.0,2018,Population
+SP,35.0,São Paulo,45538936.0,2018,Population
+Região Sudeste,,,87711946.0,2018,Population
+PR,41.0,Paraná,11348937.0,2018,Population
+SC,42.0,Santa Catarina,7075494.0,2018,Population
+RS,43.0,Rio Grande do Sul,11329605.0,2018,Population
+Região Sul,,,29754036.0,2018,Population
+MS,50.0,Mato Grosso do Sul,2748023.0,2018,Population
+MT,51.0,Mato Grosso,3441998.0,2018,Population
+GO,52.0,Goiás,6921161.0,2018,Population
+DF,53.0,Distrito Federal,2974703.0,2018,Population
+Região Centro-Oeste,,,16085885.0,2018,Population
+BR,76.0,Brasil***,208494900.0,2018,Population
+RO,11.0,Rondônia,31.00838705749751,2018,Incidence
+AC,12.0,Acre,49.35203879139274,2018,Incidence
+AM,13.0,Amazonas,76.38561970253964,2018,Incidence
+RR,14.0,Roraima,40.75841878147937,2018,Incidence
+PA,15.0,Pará,47.30136159089503,2018,Incidence
+AP,16.0,Amapá,27.00441473958823,2018,Incidence
+TO,17.0,Tocantins,12.731244080453745,2018,Incidence
+Região Norte,,,48.26134582991448,2018,Incidence
+MA,21.0,Maranhão,32.46598640664501,2018,Incidence
+PI,22.0,Piauí,22.08586777089879,2018,Incidence
+CE,23.0,Ceará,40.6913048312027,2018,Incidence
+RN,24.0,Rio Grande do Norte,37.798109232224114,2018,Incidence
+PB,25.0,Paraíba,30.977135971110695,2018,Incidence
+PE,26.0,Pernambuco,49.71413058610022,2018,Incidence
+AL,27.0,Alagoas,32.86365195827641,2018,Incidence
+SE,28.0,Sergipe,35.3332385261343,2018,Incidence
+BA,29.0,Bahia,30.649546936911957,2018,Incidence
+Região Nordeste,,,35.95616550723933,2018,Incidence
+MG,31.0,Minas Gerais,17.043189990885267,2018,Incidence
+ES,32.0,Espírito Santo,31.215480461626605,2018,Incidence
+RJ,33.0,Rio de Janeiro,70.06426588406967,2018,Incidence
+SP,35.0,São Paulo,40.85734458090984,2018,Incidence
+Região Sudeste,,,40.4220880015591,2018,Incidence
+PR,41.0,Paraná,20.44244319974637,2018,Incidence
+SC,42.0,Santa Catarina,25.411653235802337,2018,Incidence
+RS,43.0,Rio Grande do Sul,43.99976874745413,2018,Incidence
+Região Sul,,,30.594168804527897,2018,Incidence
+MS,50.0,Mato Grosso do Sul,42.503283269463175,2018,Incidence
+MT,51.0,Mato Grosso,34.02093783901095,2018,Incidence
+GO,52.0,Goiás,14.954138474744337,2018,Incidence
+DF,53.0,Distrito Federal,12.30374931547788,2018,Incidence
+Região Centro-Oeste,,,23.250197300303963,2018,Incidence
+BR,76.0,Brasil***,37.162539707206264,2018,Incidence
+RO,11.0,Rondônia,602.0,2019,Cases
+AC,12.0,Acre,509.0,2019,Cases
+AM,13.0,Amazonas,3222.0,2019,Cases
+RR,14.0,Roraima,304.0,2019,Cases
+PA,15.0,Pará,4706.0,2019,Cases
+AP,16.0,Amapá,291.0,2019,Cases
+TO,17.0,Tocantins,213.0,2019,Cases
+Região Norte,,,9847.0,2019,Cases
+MA,21.0,Maranhão,2256.0,2019,Cases
+PI,22.0,Piauí,684.0,2019,Cases
+CE,23.0,Ceará,3698.0,2019,Cases
+RN,24.0,Rio Grande do Norte,1162.0,2019,Cases
+PB,25.0,Paraíba,1167.0,2019,Cases
+PE,26.0,Pernambuco,4897.0,2019,Cases
+AL,27.0,Alagoas,1012.0,2019,Cases
+SE,28.0,Sergipe,837.0,2019,Cases
+BA,29.0,Bahia,4566.0,2019,Cases
+Região Nordeste,,,20279.0,2019,Cases
+MG,31.0,Minas Gerais,3687.0,2019,Cases
+ES,32.0,Espírito Santo,1199.0,2019,Cases
+RJ,33.0,Rio de Janeiro,12220.0,2019,Cases
+SP,35.0,São Paulo,18020.0,2019,Cases
+Região Sudeste,,,35126.0,2019,Cases
+PR,41.0,Paraná,2313.0,2019,Cases
+SC,42.0,Santa Catarina,1822.0,2019,Cases
+RS,43.0,Rio Grande do Sul,5236.0,2019,Cases
+Região Sul,,,9371.0,2019,Cases
+MS,50.0,Mato Grosso do Sul,1133.0,2019,Cases
+MT,51.0,Mato Grosso,1270.0,2019,Cases
+GO,52.0,Goiás,1016.0,2019,Cases
+DF,53.0,Distrito Federal,381.0,2019,Cases
+Região Centro-Oeste,,,3800.0,2019,Cases
+BR,76.0,Brasil***,78423.0,2019,Cases
+RO,11.0,Rondônia,1777225.0,2019,Population
+AC,12.0,Acre,881935.0,2019,Population
+AM,13.0,Amazonas,4144597.0,2019,Population
+RR,14.0,Roraima,605761.0,2019,Population
+PA,15.0,Pará,8602865.0,2019,Population
+AP,16.0,Amapá,845731.0,2019,Population
+TO,17.0,Tocantins,1572866.0,2019,Population
+Região Norte,,,18430980.0,2019,Population
+MA,21.0,Maranhão,7075181.0,2019,Population
+PI,22.0,Piauí,3273227.0,2019,Population
+CE,23.0,Ceará,9132078.0,2019,Population
+RN,24.0,Rio Grande do Norte,3506853.0,2019,Population
+PB,25.0,Paraíba,4018127.0,2019,Population
+PE,26.0,Pernambuco,9557071.0,2019,Population
+AL,27.0,Alagoas,3337357.0,2019,Population
+SE,28.0,Sergipe,2298696.0,2019,Population
+BA,29.0,Bahia,14873064.0,2019,Population
+Região Nordeste,,,57071654.0,2019,Population
+MG,31.0,Minas Gerais,21168791.0,2019,Population
+ES,32.0,Espírito Santo,4018650.0,2019,Population
+RJ,33.0,Rio de Janeiro,17264943.0,2019,Population
+SP,35.0,São Paulo,45919049.0,2019,Population
+Região Sudeste,,,88371433.0,2019,Population
+PR,41.0,Paraná,11433957.0,2019,Population
+SC,42.0,Santa Catarina,7164788.0,2019,Population
+RS,43.0,Rio Grande do Sul,11377239.0,2019,Population
+Região Sul,,,29975984.0,2019,Population
+MS,50.0,Mato Grosso do Sul,2778986.0,2019,Population
+MT,51.0,Mato Grosso,3484466.0,2019,Population
+GO,52.0,Goiás,7018354.0,2019,Population
+DF,53.0,Distrito Federal,3015268.0,2019,Population
+Região Centro-Oeste,,,16297074.0,2019,Population
+BR,76.0,Brasil***,210147125.0,2019,Population
+RO,11.0,Rondônia,33.873032396010636,2019,Incidence
+AC,12.0,Acre,57.7140038664981,2019,Incidence
+AM,13.0,Amazonas,77.73976577216072,2019,Incidence
+RR,14.0,Roraima,50.18480886026007,2019,Incidence
+PA,15.0,Pará,54.70270659832509,2019,Incidence
+AP,16.0,Amapá,34.40810375876018,2019,Incidence
+TO,17.0,Tocantins,13.542158073224293,2019,Incidence
+Região Norte,,,53.42635063355285,2019,Incidence
+MA,21.0,Maranhão,31.886110051460168,2019,Incidence
+PI,22.0,Piauí,20.896809173332617,2019,Incidence
+CE,23.0,Ceará,40.494616887854,2019,Incidence
+RN,24.0,Rio Grande do Norte,33.13512143223568,2019,Incidence
+PB,25.0,Paraíba,29.04338265067281,2019,Incidence
+PE,26.0,Pernambuco,51.239548183747935,2019,Incidence
+AL,27.0,Alagoas,30.32339662793043,2019,Incidence
+SE,28.0,Sergipe,36.411948339406344,2019,Incidence
+BA,29.0,Bahia,30.699793936205747,2019,Incidence
+Região Nordeste,,,35.53252548103827,2019,Incidence
+MG,31.0,Minas Gerais,17.417149614259973,2019,Incidence
+ES,32.0,Espírito Santo,29.83589016211912,2019,Incidence
+RJ,33.0,Rio de Janeiro,70.77926640128497,2019,Incidence
+SP,35.0,São Paulo,39.24297299798173,2019,Incidence
+Região Sudeste,,,39.7481389715611,2019,Incidence
+PR,41.0,Paraná,20.229217234243578,2019,Incidence
+SC,42.0,Santa Catarina,25.42992200187919,2019,Incidence
+RS,43.0,Rio Grande do Sul,46.02171053978913,2019,Incidence
+Região Sul,,,31.261692693724417,2019,Incidence
+MS,50.0,Mato Grosso do Sul,40.77026656485495,2019,Incidence
+MT,51.0,Mato Grosso,36.44747860934789,2019,Incidence
+GO,52.0,Goiás,14.476328780223968,2019,Incidence
+DF,53.0,Distrito Federal,12.635692747709324,2019,Incidence
+Região Centro-Oeste,,,23.317069064054078,2019,Incidence
+BR,76.0,Brasil***,37.31814080254488,2019,Incidence
+RO,11.0,Rondônia,471.0,2020,Cases
+AC,12.0,Acre,532.0,2020,Cases
+AM,13.0,Amazonas,2808.0,2020,Cases
+RR,14.0,Roraima,301.0,2020,Cases
+PA,15.0,Pará,4155.0,2020,Cases
+AP,16.0,Amapá,266.0,2020,Cases
+TO,17.0,Tocantins,186.0,2020,Cases
+Região Norte,,,8719.0,2020,Cases
+MA,21.0,Maranhão,2085.0,2020,Cases
+PI,22.0,Piauí,658.0,2020,Cases
+CE,23.0,Ceará,3060.0,2020,Cases
+RN,24.0,Rio Grande do Norte,1356.0,2020,Cases
+PB,25.0,Paraíba,1032.0,2020,Cases
+PE,26.0,Pernambuco,4273.0,2020,Cases
+AL,27.0,Alagoas,828.0,2020,Cases
+SE,28.0,Sergipe,724.0,2020,Cases
+BA,29.0,Bahia,3721.0,2020,Cases
+Região Nordeste,,,17737.0,2020,Cases
+MG,31.0,Minas Gerais,3270.0,2020,Cases
+ES,32.0,Espírito Santo,1167.0,2020,Cases
+RJ,33.0,Rio de Janeiro,10964.0,2020,Cases
+SP,35.0,São Paulo,15981.0,2020,Cases
+Região Sudeste,,,31382.0,2020,Cases
+PR,41.0,Paraná,2163.0,2020,Cases
+SC,42.0,Santa Catarina,1466.0,2020,Cases
+RS,43.0,Rio Grande do Sul,4336.0,2020,Cases
+Região Sul,,,7965.0,2020,Cases
+MS,50.0,Mato Grosso do Sul,1060.0,2020,Cases
+MT,51.0,Mato Grosso,1074.0,2020,Cases
+GO,52.0,Goiás,932.0,2020,Cases
+DF,53.0,Distrito Federal,310.0,2020,Cases
+Região Centro-Oeste,,,3376.0,2020,Cases
+BR,76.0,Brasil***,69179.0,2020,Cases
+RO,11.0,Rondônia,1796460.0,2020,Population
+AC,12.0,Acre,894470.0,2020,Population
+AM,13.0,Amazonas,4207714.0,2020,Population
+RR,14.0,Roraima,631181.0,2020,Population
+PA,15.0,Pará,8690745.0,2020,Population
+AP,16.0,Amapá,861773.0,2020,Population
+TO,17.0,Tocantins,1590248.0,2020,Population
+Região Norte,,,18672591.0,2020,Population
+MA,21.0,Maranhão,7114598.0,2020,Population
+PI,22.0,Piauí,3281480.0,2020,Population
+CE,23.0,Ceará,9187103.0,2020,Population
+RN,24.0,Rio Grande do Norte,3534165.0,2020,Population
+PB,25.0,Paraíba,4039277.0,2020,Population
+PE,26.0,Pernambuco,9616621.0,2020,Population
+AL,27.0,Alagoas,3351543.0,2020,Population
+SE,28.0,Sergipe,2318822.0,2020,Population
+BA,29.0,Bahia,14930634.0,2020,Population
+Região Nordeste,,,57374243.0,2020,Population
+MG,31.0,Minas Gerais,21292666.0,2020,Population
+ES,32.0,Espírito Santo,4064052.0,2020,Population
+RJ,33.0,Rio de Janeiro,17366189.0,2020,Population
+SP,35.0,São Paulo,46289333.0,2020,Population
+Região Sudeste,,,89012240.0,2020,Population
+PR,41.0,Paraná,11516840.0,2020,Population
+SC,42.0,Santa Catarina,7252502.0,2020,Population
+RS,43.0,Rio Grande do Sul,11422973.0,2020,Population
+Região Sul,,,30192315.0,2020,Population
+MS,50.0,Mato Grosso do Sul,2809394.0,2020,Population
+MT,51.0,Mato Grosso,3526220.0,2020,Population
+GO,52.0,Goiás,7113540.0,2020,Population
+DF,53.0,Distrito Federal,3055149.0,2020,Population
+Região Centro-Oeste,,,16504303.0,2020,Population
+BR,76.0,Brasil***,211755692.0,2020,Population
+RO,11.0,Rondônia,26.21822918406199,2020,Incidence
+AC,12.0,Acre,59.476561539235526,2020,Incidence
+AM,13.0,Amazonas,66.73457369013198,2020,Incidence
+RR,14.0,Roraima,47.688380987387134,2020,Incidence
+PA,15.0,Pará,47.809480084848886,2020,Incidence
+AP,16.0,Amapá,30.866597120123277,2020,Incidence
+TO,17.0,Tocantins,11.696288880728037,2020,Incidence
+Região Norte,,,46.694109028575625,2020,Incidence
+MA,21.0,Maranhão,29.305942514250276,2020,Incidence
+PI,22.0,Piauí,20.051927788680718,2020,Incidence
+CE,23.0,Ceará,33.30756169817624,2020,Incidence
+RN,24.0,Rio Grande do Norte,38.36832745499998,2020,Incidence
+PB,25.0,Paraíba,25.54912673728492,2020,Incidence
+PE,26.0,Pernambuco,44.43348656456358,2020,Incidence
+AL,27.0,Alagoas,24.70503884330292,2020,Incidence
+SE,28.0,Sergipe,31.222750172285753,2020,Incidence
+BA,29.0,Bahia,24.921915573042646,2020,Incidence
+Região Nordeste,,,30.914569103770138,2020,Incidence
+MG,31.0,Minas Gerais,15.357400524668916,2020,Incidence
+ES,32.0,Espírito Santo,28.715183762412487,2020,Incidence
+RJ,33.0,Rio de Janeiro,63.134174112696805,2020,Incidence
+SP,35.0,São Paulo,34.52415268113714,2020,Incidence
+Região Sudeste,,,35.25582549096618,2020,Incidence
+PR,41.0,Paraná,18.781193452370616,2020,Incidence
+SC,42.0,Santa Catarina,20.213713832826244,2020,Incidence
+RS,43.0,Rio Grande do Sul,37.95859449199433,2020,Incidence
+Região Sul,,,26.380885334562787,2020,Incidence
+MS,50.0,Mato Grosso do Sul,37.73055683894818,2020,Incidence
+MT,51.0,Mato Grosso,30.457543772084552,2020,Incidence
+GO,52.0,Goiás,13.101774925002179,2020,Incidence
+DF,53.0,Distrito Federal,10.1468046239316,2020,Incidence
+Região Centro-Oeste,,,20.45527157372232,2020,Incidence
+BR,76.0,Brasil***,32.6,2020,Incidence
+RO,11.0,Rondônia,541.0,2021,Cases
+AC,12.0,Acre,523.0,2021,Cases
+AM,13.0,Amazonas,3138.0,2021,Cases
+RR,14.0,Roraima,343.0,2021,Cases
+PA,15.0,Pará,4427.0,2021,Cases
+AP,16.0,Amapá,333.0,2021,Cases
+TO,17.0,Tocantins,237.0,2021,Cases
+Região Norte,,,9542.0,2021,Cases
+MA,21.0,Maranhão,2338.0,2021,Cases
+PI,22.0,Piauí,720.0,2021,Cases
+CE,23.0,Ceará,3249.0,2021,Cases
+RN,24.0,Rio Grande do Norte,1101.0,2021,Cases
+PB,25.0,Paraíba,1139.0,2021,Cases
+PE,26.0,Pernambuco,4724.0,2021,Cases
+AL,27.0,Alagoas,870.0,2021,Cases
+SE,28.0,Sergipe,738.0,2021,Cases
+BA,29.0,Bahia,4119.0,2021,Cases
+Região Nordeste,,,18998.0,2021,Cases
+MG,31.0,Minas Gerais,3287.0,2021,Cases
+ES,32.0,Espírito Santo,1290.0,2021,Cases
+RJ,33.0,Rio de Janeiro,11998.0,2021,Cases
+SP,35.0,São Paulo,16230.0,2021,Cases
+Região Sudeste,,,32805.0,2021,Cases
+PR,41.0,Paraná,1994.0,2021,Cases
+SC,42.0,Santa Catarina,1654.0,2021,Cases
+RS,43.0,Rio Grande do Sul,4427.0,2021,Cases
+Região Sul,,,8075.0,2021,Cases
+MS,50.0,Mato Grosso do Sul,1148.0,2021,Cases
+MT,51.0,Mato Grosso,1033.0,2021,Cases
+GO,52.0,Goiás,974.0,2021,Cases
+DF,53.0,Distrito Federal,316.0,2021,Cases
+Região Centro-Oeste,,,3471.0,2021,Cases
+BR,76.0,Brasil***,72891.0,2021,Cases
+RO,11.0,Rondônia,1815278.0,2021,Population
+AC,12.0,Acre,906876.0,2021,Population
+AM,13.0,Amazonas,4269995.0,2021,Population
+RR,14.0,Roraima,652713.0,2021,Population
+PA,15.0,Pará,8777124.0,2021,Population
+AP,16.0,Amapá,877613.0,2021,Population
+TO,17.0,Tocantins,1607363.0,2021,Population
+Região Norte,,,18906962.0,2021,Population
+MA,21.0,Maranhão,7153262.0,2021,Population
+PI,22.0,Piauí,3289290.0,2021,Population
+CE,23.0,Ceará,9240580.0,2021,Population
+RN,24.0,Rio Grande do Norte,3560903.0,2021,Population
+PB,25.0,Paraíba,4059905.0,2021,Population
+PE,26.0,Pernambuco,9674793.0,2021,Population
+AL,27.0,Alagoas,3365351.0,2021,Population
+SE,28.0,Sergipe,2338474.0,2021,Population
+BA,29.0,Bahia,14985284.0,2021,Population
+Região Nordeste,,,57667842.0,2021,Population
+MG,31.0,Minas Gerais,21411923.0,2021,Population
+ES,32.0,Espírito Santo,4108508.0,2021,Population
+RJ,33.0,Rio de Janeiro,17463349.0,2021,Population
+SP,35.0,São Paulo,46649132.0,2021,Population
+Região Sudeste,,,89632912.0,2021,Population
+PR,41.0,Paraná,11597484.0,2021,Population
+SC,42.0,Santa Catarina,7338473.0,2021,Population
+RS,43.0,Rio Grande do Sul,11466630.0,2021,Population
+Região Sul,,,30402587.0,2021,Population
+MS,50.0,Mato Grosso do Sul,2839188.0,2021,Population
+MT,51.0,Mato Grosso,3567234.0,2021,Population
+GO,52.0,Goiás,7206589.0,2021,Population
+DF,53.0,Distrito Federal,3094325.0,2021,Population
+Região Centro-Oeste,,,16707336.0,2021,Population
+BR,76.0,Brasil***,213317639.0,2021,Population
+RO,11.0,Rondônia,29.80259772883272,2021,Incidence
+AC,12.0,Acre,57.67050842673089,2021,Incidence
+AM,13.0,Amazonas,73.48954741164802,2021,Incidence
+RR,14.0,Roraima,52.549895589638936,2021,Incidence
+PA,15.0,Pará,50.43793388358191,2021,Incidence
+AP,16.0,Amapá,37.943831734488896,2021,Incidence
+TO,17.0,Tocantins,14.744646977689545,2021,Incidence
+Região Norte,,,50.46818203791809,2021,Incidence
+MA,21.0,Maranhão,32.684389303788954,2021,Incidence
+PI,22.0,Piauí,21.889222294172907,2021,Incidence
+CE,23.0,Ceará,35.16013064115023,2021,Incidence
+RN,24.0,Rio Grande do Norte,30.919123604321715,2021,Incidence
+PB,25.0,Paraíba,28.054843647819347,2021,Incidence
+PE,26.0,Pernambuco,48.82791807535314,2021,Incidence
+AL,27.0,Alagoas,25.85168679284865,2021,Incidence
+SE,28.0,Sergipe,31.55904234984011,2021,Incidence
+BA,29.0,Bahia,27.4869665466467,2021,Incidence
+Região Nordeste,,,32.9438372256066,2021,Incidence
+MG,31.0,Minas Gerais,15.351260136700475,2021,Incidence
+ES,32.0,Espírito Santo,31.398259416800453,2021,Incidence
+RJ,33.0,Rio de Janeiro,68.70388950023275,2021,Incidence
+SP,35.0,São Paulo,34.79164414034542,2021,Incidence
+Região Sudeste,,,36.59927951464971,2021,Incidence
+PR,41.0,Paraná,17.193384358193555,2021,Incidence
+SC,42.0,Santa Catarina,22.538748865056807,2021,Incidence
+RS,43.0,Rio Grande do Sul,38.60768159433068,2021,Incidence
+Região Sul,,,26.56023975854423,2021,Incidence
+MS,50.0,Mato Grosso do Sul,40.434095945742236,2021,Incidence
+MT,51.0,Mato Grosso,28.958010604294532,2021,Incidence
+GO,52.0,Goiás,13.515409301127066,2021,Incidence
+DF,53.0,Distrito Federal,10.212243381028172,2021,Incidence
+Região Centro-Oeste,,,20.775304931917333,2021,Incidence
+BR,76.0,Brasil***,34.17017005330722,2021,Incidence
+RO,11.0,Rondônia,565.0,2022,Cases
+AC,12.0,Acre,537.0,2022,Cases
+AM,13.0,Amazonas,3679.0,2022,Cases
+RR,14.0,Roraima,438.0,2022,Cases
+PA,15.0,Pará,4805.0,2022,Cases
+AP,16.0,Amapá,404.0,2022,Cases
+TO,17.0,Tocantins,233.0,2022,Cases
+Região Norte,,,10661.0,2022,Cases
+MA,21.0,Maranhão,2563.0,2022,Cases
+PI,22.0,Piauí,731.0,2022,Cases
+CE,23.0,Ceará,3617.0,2022,Cases
+RN,24.0,Rio Grande do Norte,1366.0,2022,Cases
+PB,25.0,Paraíba,1257.0,2022,Cases
+PE,26.0,Pernambuco,5328.0,2022,Cases
+AL,27.0,Alagoas,940.0,2022,Cases
+SE,28.0,Sergipe,946.0,2022,Cases
+BA,29.0,Bahia,4409.0,2022,Cases
+Região Nordeste,,,21157.0,2022,Cases
+MG,31.0,Minas Gerais,3901.0,2022,Cases
+ES,32.0,Espírito Santo,1427.0,2022,Cases
+RJ,33.0,Rio de Janeiro,12516.0,2022,Cases
+SP,35.0,São Paulo,18417.0,2022,Cases
+Região Sudeste,,,36261.0,2022,Cases
+PR,41.0,Paraná,2240.0,2022,Cases
+SC,42.0,Santa Catarina,1981.0,2022,Cases
+RS,43.0,Rio Grande do Sul,4813.0,2022,Cases
+Região Sul,,,9034.0,2022,Cases
+MS,50.0,Mato Grosso do Sul,1402.0,2022,Cases
+MT,51.0,Mato Grosso,1157.0,2022,Cases
+GO,52.0,Goiás,1062.0,2022,Cases
+DF,53.0,Distrito Federal,342.0,2022,Cases
+Região Centro-Oeste,,,3963.0,2022,Cases
+BR,76.0,Brasil***,81076.0,2022,Cases
+RO,11.0,Rondônia,1815278.0,2022,Population
+AC,12.0,Acre,906876.0,2022,Population
+AM,13.0,Amazonas,4269995.0,2022,Population
+RR,14.0,Roraima,652713.0,2022,Population
+PA,15.0,Pará,8777124.0,2022,Population
+AP,16.0,Amapá,877613.0,2022,Population
+TO,17.0,Tocantins,1607363.0,2022,Population
+Região Norte,,,18906962.0,2022,Population
+MA,21.0,Maranhão,7153262.0,2022,Population
+PI,22.0,Piauí,3289290.0,2022,Population
+CE,23.0,Ceará,9240580.0,2022,Population
+RN,24.0,Rio Grande do Norte,3560903.0,2022,Population
+PB,25.0,Paraíba,4059905.0,2022,Population
+PE,26.0,Pernambuco,9674793.0,2022,Population
+AL,27.0,Alagoas,3365351.0,2022,Population
+SE,28.0,Sergipe,2338474.0,2022,Population
+BA,29.0,Bahia,14985284.0,2022,Population
+Região Nordeste,,,57667842.0,2022,Population
+MG,31.0,Minas Gerais,21411923.0,2022,Population
+ES,32.0,Espírito Santo,4108508.0,2022,Population
+RJ,33.0,Rio de Janeiro,17463349.0,2022,Population
+SP,35.0,São Paulo,46649132.0,2022,Population
+Região Sudeste,,,89632912.0,2022,Population
+PR,41.0,Paraná,11597484.0,2022,Population
+SC,42.0,Santa Catarina,7338473.0,2022,Population
+RS,43.0,Rio Grande do Sul,11466630.0,2022,Population
+Região Sul,,,30402587.0,2022,Population
+MS,50.0,Mato Grosso do Sul,2839188.0,2022,Population
+MT,51.0,Mato Grosso,3567234.0,2022,Population
+GO,52.0,Goiás,7206589.0,2022,Population
+DF,53.0,Distrito Federal,3094325.0,2022,Population
+Região Centro-Oeste,,,16707336.0,2022,Population
+BR,76.0,Brasil***,213317639.0,2022,Population
+RO,11.0,Rondônia,31.124709273180194,2022,Incidence
+AC,12.0,Acre,59.21426964656689,2022,Incidence
+AM,13.0,Amazonas,86.15935147465044,2022,Incidence
+RR,14.0,Roraima,67.10453139434944,2022,Incidence
+PA,15.0,Pará,54.744583761150004,2022,Incidence
+AP,16.0,Amapá,46.03395802022076,2022,Incidence
+TO,17.0,Tocantins,14.495792176378327,2022,Incidence
+Região Norte,,,56.38663683779552,2022,Incidence
+MA,21.0,Maranhão,35.82980743610398,2022,Incidence
+PI,22.0,Piauí,22.22364096811166,2022,Incidence
+CE,23.0,Ceará,39.142564644210644,2022,Incidence
+RN,24.0,Rio Grande do Norte,38.361056170302874,2022,Incidence
+PB,25.0,Paraíba,30.961315597286145,2022,Incidence
+PE,26.0,Pernambuco,55.0709457039546,2022,Incidence
+AL,27.0,Alagoas,27.93170756928475,2022,Incidence
+SE,28.0,Sergipe,40.453731792613475,2022,Incidence
+BA,29.0,Bahia,29.422198471513788,2022,Incidence
+Região Nordeste,,,36.687691556066895,2022,Incidence
+MG,31.0,Minas Gerais,18.218821354812455,2022,Incidence
+ES,32.0,Espírito Santo,34.73280324633662,2022,Incidence
+RJ,33.0,Rio de Janeiro,71.6701017657037,2022,Incidence
+SP,35.0,São Paulo,39.47983426572653,2022,Incidence
+Região Sudeste,,,40.45500608080211,2022,Incidence
+PR,41.0,Paraná,19.314534083427063,2022,Incidence
+SC,42.0,Santa Catarina,26.99471674829355,2022,Incidence
+RS,43.0,Rio Grande do Sul,41.97397142839701,2022,Incidence
+Região Sul,,,29.714576591788063,2022,Incidence
+MS,50.0,Mato Grosso do Sul,49.38031578042736,2022,Incidence
+MT,51.0,Mato Grosso,32.434093193774224,2022,Incidence
+GO,52.0,Goiás,14.736514042912674,2022,Incidence
+DF,53.0,Distrito Federal,11.052491254150743,2022,Incidence
+Região Centro-Oeste,,,23.720119114142435,2022,Incidence
+BR,76.0,Brasil***,38.00717108068124,2022,Incidence
+RO,11.0,Rondônia,700.0,2023,Cases
+AC,12.0,Acre,525.0,2023,Cases
+AM,13.0,Amazonas,3687.0,2023,Cases
+RR,14.0,Roraima,515.0,2023,Cases
+PA,15.0,Pará,4865.0,2023,Cases
+AP,16.0,Amapá,391.0,2023,Cases
+TO,17.0,Tocantins,221.0,2023,Cases
+Região Norte,,,10904.0,2023,Cases
+MA,21.0,Maranhão,2711.0,2023,Cases
+PI,22.0,Piauí,829.0,2023,Cases
+CE,23.0,Ceará,3585.0,2023,Cases
+RN,24.0,Rio Grande do Norte,1136.0,2023,Cases
+PB,25.0,Paraíba,1368.0,2023,Cases
+PE,26.0,Pernambuco,5404.0,2023,Cases
+AL,27.0,Alagoas,1039.0,2023,Cases
+SE,28.0,Sergipe,921.0,2023,Cases
+BA,29.0,Bahia,4400.0,2023,Cases
+Região Nordeste,,,21393.0,2023,Cases
+MG,31.0,Minas Gerais,4115.0,2023,Cases
+ES,32.0,Espírito Santo,1638.0,2023,Cases
+RJ,33.0,Rio de Janeiro,12866.0,2023,Cases
+SP,35.0,São Paulo,19788.0,2023,Cases
+Região Sudeste,,,38407.0,2023,Cases
+PR,41.0,Paraná,2397.0,2023,Cases
+SC,42.0,Santa Catarina,2115.0,2023,Cases
+RS,43.0,Rio Grande do Sul,4940.0,2023,Cases
+Região Sul,,,9452.0,2023,Cases
+MS,50.0,Mato Grosso do Sul,1598.0,2023,Cases
+MT,51.0,Mato Grosso,1245.0,2023,Cases
+GO,52.0,Goiás,1143.0,2023,Cases
+DF,53.0,Distrito Federal,451.0,2023,Cases
+Região Centro-Oeste,,,4437.0,2023,Cases
+BR,76.0,Brasil***,84593.0,2023,Cases
+RO,11.0,Rondônia,1815278.0,2023,Population
+AC,12.0,Acre,906876.0,2023,Population
+AM,13.0,Amazonas,4269995.0,2023,Population
+RR,14.0,Roraima,652713.0,2023,Population
+PA,15.0,Pará,8777124.0,2023,Population
+AP,16.0,Amapá,877613.0,2023,Population
+TO,17.0,Tocantins,1607363.0,2023,Population
+Região Norte,,,18906962.0,2023,Population
+MA,21.0,Maranhão,7153262.0,2023,Population
+PI,22.0,Piauí,3289290.0,2023,Population
+CE,23.0,Ceará,9240580.0,2023,Population
+RN,24.0,Rio Grande do Norte,3560903.0,2023,Population
+PB,25.0,Paraíba,4059905.0,2023,Population
+PE,26.0,Pernambuco,9674793.0,2023,Population
+AL,27.0,Alagoas,3365351.0,2023,Population
+SE,28.0,Sergipe,2338474.0,2023,Population
+BA,29.0,Bahia,14985284.0,2023,Population
+Região Nordeste,,,57667842.0,2023,Population
+MG,31.0,Minas Gerais,21411923.0,2023,Population
+ES,32.0,Espírito Santo,4108508.0,2023,Population
+RJ,33.0,Rio de Janeiro,17463349.0,2023,Population
+SP,35.0,São Paulo,46649132.0,2023,Population
+Região Sudeste,,,89632912.0,2023,Population
+PR,41.0,Paraná,11597484.0,2023,Population
+SC,42.0,Santa Catarina,7338473.0,2023,Population
+RS,43.0,Rio Grande do Sul,11466630.0,2023,Population
+Região Sul,,,30402587.0,2023,Population
+MS,50.0,Mato Grosso do Sul,2839188.0,2023,Population
+MT,51.0,Mato Grosso,3567234.0,2023,Population
+GO,52.0,Goiás,7206589.0,2023,Population
+DF,53.0,Distrito Federal,3094325.0,2023,Population
+Região Centro-Oeste,,,16707336.0,2023,Population
+BR,76.0,Brasil***,213317639.0,2023,Population
+RO,11.0,Rondônia,38.561586710134755,2023,Incidence
+AC,12.0,Acre,57.89104574385032,2023,Incidence
+AM,13.0,Amazonas,86.34670532401091,2023,Incidence
+RR,14.0,Roraima,78.901446730799,2023,Incidence
+PA,15.0,Pará,55.42817897981161,2023,Incidence
+AP,16.0,Amapá,44.55266729184732,2023,Incidence
+TO,17.0,Tocantins,13.749227772444682,2023,Incidence
+Região Norte,,,57.67187769246058,2023,Incidence
+MA,21.0,Maranhão,37.89879358536008,2023,Incidence
+PI,22.0,Piauí,25.203007335929637,2023,Incidence
+CE,23.0,Ceará,38.79626603524887,2023,Incidence
+RN,24.0,Rio Grande do Norte,31.902020358319223,2023,Incidence
+PB,25.0,Paraíba,33.6953697192422,2023,Incidence
+PE,26.0,Pernambuco,55.856492226758746,2023,Incidence
+AL,27.0,Alagoas,30.8734512388158,2023,Incidence
+SE,28.0,Sergipe,39.384658542280135,2023,Incidence
+BA,29.0,Bahia,29.362139549707567,2023,Incidence
+Região Nordeste,,,37.096931770049586,2023,Incidence
+MG,31.0,Minas Gerais,19.2182645155225,2023,Incidence
+ES,32.0,Espírito Santo,39.86848753854197,2023,Incidence
+RJ,33.0,Rio de Janeiro,73.67429924237327,2023,Incidence
+SP,35.0,São Paulo,42.4187957023509,2023,Incidence
+Região Sudeste,,,42.849215921937244,2023,Incidence
+PR,41.0,Paraná,20.66827598123869,2023,Incidence
+SC,42.0,Santa Catarina,28.820709703503713,2023,Incidence
+RS,43.0,Rio Grande do Sul,43.08153310955355,2023,Incidence
+Região Sul,,,31.089459591053878,2023,Incidence
+MS,50.0,Mato Grosso do Sul,56.283698015066285,2023,Incidence
+MT,51.0,Mato Grosso,34.90099051534045,2023,Incidence
+GO,52.0,Goiás,15.860485452965335,2023,Incidence
+DF,53.0,Distrito Federal,14.575068876087677,2023,Incidence
+Região Centro-Oeste,,,26.557196192139788,2023,Incidence
+BR,76.0,Brasil***,39.65588612200982,2023,Incidence
